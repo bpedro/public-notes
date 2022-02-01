@@ -2,6 +2,13 @@
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 cd "$SCRIPT_DIR"
 
+# convert each untracked markdown note to html
+for file in $(git ls-files --others --exclude-standard | grep ".md"); do
+  base=`echo ${file} | sed 's/\.md$//'`
+  html=${base}.html
+  pandoc --self-contained -s ${file} -o ${html}
+done
+
 # get all file names and contents
 contents=()
 files=$(find ./2022 -name "*.md")
@@ -31,13 +38,6 @@ for tag in ${all_tags[@]}; do
       echo "* [${base}](${contents[$i]})" >> tags.md
     fi
   done
-done
-
-# convert each untracked markdown note to html
-for file in $(git ls-files --others --exclude-standard | grep ".md"); do
-  base=`echo ${file} | sed 's/\.md$//'`
-  html=${base}.html
-  pandoc --self-contained -s ${file} -o ${html}
 done
 
 # push changes to github
