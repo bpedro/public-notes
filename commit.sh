@@ -34,8 +34,9 @@ for tag in ${all_tags[@]}; do
   for ((i=0; i<${#contents[@]}; i+=2)); do
     content=${contents[$i+1]}
     if [[ $content =~ .*Tags.*\#${tag}.* ]]; then
-      base=`echo ${contents[$i]} | sed 's/\.md$//' | sed 's/^.*\///'`
-      echo "* [${base}](${contents[$i]})" >> tags.md
+      base=${contents[$i]//\.md/}
+      name=${base//*\//}
+      echo "* [${name}](${contents[$i]})" >> tags.md
     fi
   done
 done
