@@ -11,7 +11,7 @@ done
 
 # get all file names and contents
 contents=()
-files=$(find ./2022 -name "*.md")
+files=$(find ./20?? -name "*.md")
 for file in ${files}; do
   OLDIFS=$IFS
   IFS=""
