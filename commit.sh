@@ -4,7 +4,7 @@ cd "$SCRIPT_DIR"
 
 # convert each untracked markdown note to html
 for file in $(git ls-files --others --exclude-standard | grep ".md"); do
-  base=`echo ${file} | sed 's/\.md$//'`
+  base=${file//\.md/}
   html=${base}.html
   pandoc --self-contained -s ${file} -o ${html}
 done
@@ -27,7 +27,7 @@ for ((i=0; i<${#contents[@]}; i+=2)); do
 done
 all_tags=($(echo ${all_tags[@]} | tr ' ' '\n' | sort -u | tr '\n' ' '))
 
-# generate the index
+# generate the tag index
 echo "# Tag index" > tags.md
 for tag in ${all_tags[@]}; do
   echo "## ${tag}" >> tags.md
