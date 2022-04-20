@@ -7,7 +7,7 @@ for file in $(git ls-files --others --exclude-standard | grep ".md"); do
   base=${file//\.md/}
   html=${base}.html
   pandoc --self-contained -s ${file} -o ${html}
-  ./gen_pdf.sh ${file}
+  ./gen_pdf.sh ./${file}
 done
 
 # get all file names and contents
