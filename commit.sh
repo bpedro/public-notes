@@ -11,7 +11,7 @@ done
 
 # get all file names and contents
 contents=()
-files=$(find ./20?? -name "*.md")
+files=$(find ./20?? -name "*.md" | sort -r)
 for file in ${files}; do
   OLDIFS=$IFS
   IFS=""
@@ -39,6 +39,22 @@ for tag in ${all_tags[@]}; do
       echo "* [${name}](${contents[$i]})" >> tags.md
     fi
   done
+done
+
+# generate the index
+echo "# Index" > README.md
+last_date=''
+for file in ${files}; do
+  [[ $file =~ \.\/([0-9]{4}\/[0-9]{2}\/[0-9]{2})\/ ]] && date=${BASH_REMATCH[1]}
+  base=${file//\.md/}
+  name=${base//*\//}
+  if (( ${#date} > 0 )); then
+    if [[ $last_date != $date ]]; then
+      echo "## $(date -j -f%Y/%m/%d $date +"%A, %B %-d, %Y")" >> README.md
+      last_date=$date
+    fi
+  fi
+  echo "* [${name}](${file})" >> README.md
 done
 
 # push changes to github
