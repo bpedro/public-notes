@@ -27,7 +27,7 @@ jobs:
       
       # Install pandoc
       - name: Install pandoc
-        run: apt-get install pandoc
+        run: sudo apt-get install pandoc
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
