@@ -1,0 +1,9 @@
+This is a test note to see if the GitHub action is working properly. If so, the following should happen:
+
+- A link to https://github.com/bpedro/public-notes/blob/main/tags.md should be added under `#test`
+- A link to this file should be added to https://github.com/bpedro/public-notes/blob/main/README.md
+- This note should be converted to HTML and PDF
+- The whole public notes website should be rebuilt and republished
+
+---
+Tags: #test
