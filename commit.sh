@@ -2,6 +2,15 @@
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 cd "$SCRIPT_DIR"
 
+# obtain platform where the script is running
+platform='unknown'
+unamestr=$(uname)
+if [ "$unamestr" = 'Linux' ]; then
+   platform='linux'
+elif [ "$unamestr" = 'FreeBSD' ] || [ "$unamestr" = 'Darwin' ]; then
+   platform='bsd'
+fi
+
 # convert each untracked markdown note to html
 for file in $(git ls-files --others --exclude-standard | grep ".md"); do
   base=${file//\.md/}
