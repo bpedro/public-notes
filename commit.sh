@@ -60,7 +60,11 @@ for file in ${files}; do
   name=${base//*\//}
   if (( ${#date} > 0 )); then
     if [[ $last_date != $date ]]; then
-      echo "## $(date -j -f%Y/%m/%d $date +"%A, %B %-d, %Y")" >> README.md
+      if [ "$platform" = 'linux' ]; then
+        echo "## $(date -d$date +"%A, %B %-d, %Y")" >> README.md
+      elif [ "$platform" = 'freebsd' ]; then
+        echo "## $(date -j -f%Y/%m/%d $date +"%A, %B %-d, %Y")" >> README.md
+      fi
       last_date=$date
     fi
   fi
