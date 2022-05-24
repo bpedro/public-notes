@@ -12,7 +12,7 @@ elif [ "$unamestr" = 'FreeBSD' ] || [ "$unamestr" = 'Darwin' ]; then
 fi
 
 # convert each untracked markdown note to html
-for file in $(git ls-files --others --exclude-standard | grep ".md"); do
+for file in $(git diff --name-only HEAD~1 2022 | grep ".md"); do
   base=${file//\.md/}
   html=${base}.html
   pandoc --self-contained -s ${file} -o ${html}
@@ -62,7 +62,7 @@ for file in ${files}; do
     if [[ $last_date != $date ]]; then
       if [ "$platform" = 'linux' ]; then
         echo "## $(date -d$date +"%A, %B %-d, %Y")" >> README.md
-      elif [ "$platform" = 'freebsd' ]; then
+      elif [ "$platform" = 'bsd' ]; then
         echo "## $(date -j -f%Y/%m/%d $date +"%A, %B %-d, %Y")" >> README.md
       fi
       last_date=$date
