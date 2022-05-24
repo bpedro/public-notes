@@ -33,7 +33,9 @@ jobs:
       
       # Install pandoc
       - name: Install pandoc
-        run: sudo apt-get install pandoc
+        run: |
+          sudo apt install pandoc -y
+          sudo apt install texlive-xetex -y
 
       # Runs a single command using the runners shell
       - name: Convert content and commit
