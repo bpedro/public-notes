@@ -33,8 +33,17 @@ jobs:
           git config user.name "$(git log -n 1 --pretty=format:%an)"
           git config user.email "$(git log -n 1 --pretty=format:%ae)"
       
+      # Cache pandoc installation
+      - name: Cache pandoc installation
+        id: cache-pandoc-installation
+        uses: actions/cache@v3
+        with:
+          path: pandoc-installation-cache
+          key: ${{ runner.os }}-pandoc
+
       # Install pandoc
       - name: Install pandoc
+        if: steps.pandoc-installation-cache.outputs.cache-hit != 'true'
         run: |
           sudo apt install pandoc -y
           sudo apt install texlive-xetex -y
