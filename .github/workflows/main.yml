@@ -39,4 +39,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Convert content and commit
-        run: ./commit.sh
+        run: ./dry_run.sh
