@@ -15,7 +15,7 @@ fi
 for file in $(git show $GITHUB_SHA --name-only --format="" 2022 | grep ".md"); do
   base=${file//\.md/}
   html=${base}.html
-  pandoc --self-contained -s ${file} -o ${html}
+  pandoc -s ${file} -o ${html} --template=template.html
   ./gen_pdf.sh ./${file}
 done
 

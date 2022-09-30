@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
 <head>
-  <title>Public notess - Bruno Pedro</title>
+  <title>$if(title)$$title$$else$Public notess$endif$ - Bruno Pedro</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="description" content="404 Page not found">
@@ -19,7 +19,7 @@
   <meta name="twitter:title" content="404 Page not found - Bruno Pedro">
   <meta name="twitter:site" content="@bpedro">
   <meta name="twitter:creator" content="@bpedro">
-  <link rel="icon" type="image/png" href="/media/brunopedro_favicon-94918278cc.png">
+  <link rel="icon" type="image/png" href="https://brunopedro.com/media/brunopedro_favicon-94918278cc.png">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/pure-min.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://brunopedro.com/css/styles-2d36e5c7bd.css">
@@ -29,23 +29,10 @@
 <body>
 <section id="main">
   <div>
-    <h1 id="title">Public note</h1>
+    <h1 id="title">$if(title)$$title$$else$Public note$endif$</h1>
   </div>
   <div id="layout">
-    <blockquote>
-    <p>The book is a survey of methods for language description,
-    particularly semantics (operational, translational, denotational,
-    axiomatic, complementary) and also serves as an introduction to
-    formal methods. Obviously it would be written differently today but
-    it may still have its use.</p>
-    </blockquote>
-    <hr />
-    <p>Found on <a
-    href="https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available/">Bertrand
-    Meyer’s technology+ blog » Blog Archive Introduction to the Theory
-    of Programming Languages: full book now freely available - Bertrand
-    Meyer’s technology+ blog</a> on 2022-09-30 10:45:58.</p>
-    <p>Tags: #book #programming</p>
+    $body$
   </div>
 </section>
 <footer class="page-footer">
