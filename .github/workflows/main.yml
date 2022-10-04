@@ -46,6 +46,7 @@ jobs:
         if: steps.cache-pandoc-installation.outputs.cache-hit != 'true'
         run: |
           mkdir ${{ runner.os }}-pandoc-cache
+          sudo apt-get update
           sudo apt-get install pandoc -y
           sudo apt-get install texlive-xetex -y
 
