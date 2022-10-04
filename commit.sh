@@ -12,7 +12,7 @@ elif [ "$unamestr" = 'FreeBSD' ] || [ "$unamestr" = 'Darwin' ]; then
 fi
 
 # convert each untracked markdown note to html
-for file in $(git show $GITHUB_SHA --name-only --format="" 2022 | grep ".md"); do
+for file in $(git ls-files . --exclude-standard --others 202? | grep ".md"); do
   base=${file//\.md/}
   html=${base}.html
   pandoc -s ${file} -o ${html} --template=template.html
