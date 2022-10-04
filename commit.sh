@@ -4,7 +4,7 @@ cd "$SCRIPT_DIR"
 
 # obtain platform where the script is running
 platform='unknown'
-files_to_process="git show ${GITHUB_SHA} --name-only --format=\"\" 202?"
+files_to_process="git diff-tree --no-commit-id --name-only -r ${GITHUB_SHA} 202?"
 unamestr=$(uname)
 if [ "$unamestr" = 'Linux' ]; then
   platform='linux'
