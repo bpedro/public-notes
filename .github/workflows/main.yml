@@ -45,8 +45,8 @@ jobs:
       - name: Install pandoc
         if: steps.cache-pandoc-installation.outputs.cache-hit != 'true'
         run: |
-          sudo apt install pandoc -y
-          sudo apt install texlive-xetex -y
+          sudo apt-get install pandoc -y
+          sudo apt-get install texlive-xetex -y
 
       # Runs a single command using the runners shell
       - name: Convert content and commit
