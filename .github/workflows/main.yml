@@ -38,17 +38,24 @@ jobs:
         id: cache-pandoc-installation
         uses: actions/cache@v3
         with:
-          path: pandoc-installation-cache
+          path: "~/pandoc-installation-cache"
           key: ${{ runner.os }}-pandoc-cache
 
       # Install pandoc
-      - name: Install pandoc
+      - name: Install pandoc from scratch
         if: steps.cache-pandoc-installation.outputs.cache-hit != 'true'
         run: |
-          mkdir pandoc-installation-cache
+          mkdir ~/pandoc-installation-cache
           sudo apt-get update
           sudo apt-get install pandoc -y
+          sudo dpkg -L pandoc | while IFS= read -r f; do if test -f $f; then echo $f; fi; done | xargs cp --parents --target-directory ~/pandoc-installation-cache/
           sudo apt-get install texlive-xetex -y
+          sudo dpkg -L texlive-xetex | while IFS= read -r f; do if test -f $f; then echo $f; fi; done | xargs cp --parents --target-directory ~/pandoc-installation-cache/
+
+      - name: Install pandoc from cache
+        if: steps.cache-pandoc-installation.outputs.cache-hit == 'true'
+        run: |
+          sudo cp --verbose --force --recursive ~/pandoc-installation-cache/* /
 
       # Runs a single command using the runners shell
       - name: Convert content and commit
