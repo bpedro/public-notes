@@ -4,15 +4,19 @@ cd "$SCRIPT_DIR"
 
 # obtain platform where the script is running
 platform='unknown'
+files_to_process=`git show $GITHUB_SHA --name-only --format="" 202?`
 unamestr=$(uname)
 if [ "$unamestr" = 'Linux' ]; then
    platform='linux'
 elif [ "$unamestr" = 'FreeBSD' ] || [ "$unamestr" = 'Darwin' ]; then
    platform='bsd'
+   files_to_process=`git ls-files . --exclude-standard --others 202?`
 fi
 
+echo $files_to_process
+
 # convert each untracked markdown note to html
-for file in $(git ls-files . --exclude-standard --others 202? | grep ".md"); do
+for file in $($files_to_process | grep ".md"); do
   base=${file//\.md/}
   html=${base}.html
   pandoc -s ${file} -o ${html} --template=template.html
