@@ -4,26 +4,26 @@ cd "$SCRIPT_DIR"
 
 # obtain platform where the script is running
 platform='unknown'
-files_to_process="git diff-tree --no-commit-id --name-only -r ${GITHUB_SHA} 202?"
+files_to_process=$(find ./202? -name "*.md" -cnewer .processed | sort -r)
 unamestr=$(uname)
 if [ "$unamestr" = 'Linux' ]; then
   platform='linux'
 elif [ "$unamestr" = 'FreeBSD' ] || [ "$unamestr" = 'Darwin' ]; then
   platform='bsd'
-  files_to_process='git ls-files . --exclude-standard --others 202?'
 fi
 
-# convert each untracked markdown note to html
-for file in $($files_to_process | grep ".md"); do
+# convert each unprocessed markdown note to html and pdf
+for file in $files_to_process; do
+  echo $file
   base=${file//\.md/}
   html=${base}.html
-  pandoc -s ${file} -o ${html} --template=template.html
+  pandoc -s ${file} -o ${html} --template=template.html --metadata title="Public note"
   ./gen_pdf.sh ./${file}
 done
 
 # get all file names and contents
 contents=()
-files=$(find ./20?? -name "*.md" | sort -r)
+files=$(find ./202? -name "*.md" | sort -r)
 for file in ${files}; do
   OLDIFS=$IFS
   IFS=""
@@ -72,6 +72,9 @@ for file in ${files}; do
   fi
   echo "* [${name}](${file})" >> README.md
 done
+
+# mark timestamp of last processing
+touch .processed
 
 # push changes to github
 git add .
