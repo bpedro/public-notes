@@ -53,7 +53,7 @@ for tag in ${all_tags[@]}; do
   done
 done
 
-# generate the index
+# generate the markdown index
 echo "# Index" > README.md
 last_date=''
 for file in ${files}; do
@@ -63,15 +63,36 @@ for file in ${files}; do
   if (( ${#date} > 0 )); then
     if [[ $last_date != $date ]]; then
       if [ "$platform" = 'linux' ]; then
-        echo "## $(date -d$date +"%A, %B %-d, %Y")" >> README.md
+        echo -e "## $(date -d$date +"%A, %B %-d, %Y")" >> README.md
       elif [ "$platform" = 'bsd' ]; then
-        echo "## $(date -j -f%Y/%m/%d $date +"%A, %B %-d, %Y")" >> README.md
+        echo -e "## $(date -j -f%Y/%m/%d $date +"%A, %B %-d, %Y")" >> README.md
       fi
       last_date=$date
     fi
   fi
   echo "* [${name}](${file})" >> README.md
 done
+
+# generate the index.html
+echo "" > index.md
+last_date=''
+for file in ${files}; do
+  [[ $file =~ \.\/([0-9]{4}\/[0-9]{2}\/[0-9]{2})\/ ]] && date=${BASH_REMATCH[1]}
+  base=${file//\.md/}
+  name=${base//*\//}
+  if (( ${#date} > 0 )); then
+    if [[ $last_date != $date ]]; then
+      if [ "$platform" = 'linux' ]; then
+        echo -e "\n## $(date -d$date +"%A, %B %-d, %Y")" >> index.md
+      elif [ "$platform" = 'bsd' ]; then
+        echo -e "\n## $(date -j -f%Y/%m/%d $date +"%A, %B %-d, %Y")" >> index.md
+      fi
+      last_date=$date
+    fi
+  fi
+  echo "* [${name}](${base}.html)" >> index.md
+done
+pandoc -s index.md -o index.html --template=template.html --metadata title="Public notes"
 
 # mark timestamp of last processing
 touch .processed
