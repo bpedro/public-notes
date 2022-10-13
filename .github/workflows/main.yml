@@ -8,29 +8,7 @@ on:
   workflow_dispatch:
 
 jobs:
-
-  install:
-    runs-on: ubuntu-latest
-    steps:
-      # Configure pandoc installation cache
-      - name: Cache pandoc installation
-        id: cache-pandoc-installation
-        uses: actions/cache@v3
-        with:
-          path: "~/pandoc-installation-cache"
-          key: ${{ runner.os }}-pandoc-cache-2022-10-13-04
-      # Install pandoc from scratch
-      - name: Install pandoc from scratch
-        if: steps.cache-pandoc-installation.outputs.cache-hit != 'true'
-        run: |
-          mkdir ~/pandoc-installation-cache
-          sudo apt-get update
-          sudo apt-get install pandoc -y
-          sudo apt-get install texlive-xetex -y
-          sudo apt-cache depends --recurse --no-recommends --no-suggests --no-conflicts --no-breaks --no-replaces --no-enhances pandoc texlive-xetex | grep "^\w" | sort -u | xargs sudo dpkg -L | sort -u | grep . | while IFS= read -r f; do if test -f $f; then echo $f; fi; done | xargs cp --parents --target-directory ~/pandoc-installation-cache/
-
   build:
-    needs: install
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -42,18 +20,10 @@ jobs:
           git config user.name "$(git log -n 1 --pretty=format:%an)"
           git config user.email "$(git log -n 1 --pretty=format:%ae)"
       
-      - name: Configure pandoc installation cache
-        id: cache-pandoc-installation
-        uses: actions/cache@v3
-        with:
-          path: "~/pandoc-installation-cache"
-          key: ${{ runner.os }}-pandoc-cache-2022-10-13-04
-
-      - name: Install pandoc from cache
-        if: steps.cache-pandoc-installation.outputs.cache-hit == 'true'
+      - name: Install pandoc
         run: |
-          sudo cp --verbose --force --recursive ~/pandoc-installation-cache/* /
+          sudo apt-get update
+          sudo apt-get install pandoc texlive-xetex -y
 
-      # Runs a single command using the runners shell
       - name: Convert content and commit
         run: ./commit.sh
