@@ -52,6 +52,7 @@ jobs:
           sudo dpkg -L pandoc-data | while IFS= read -r f; do if test -f $f; then echo $f; fi; done | xargs cp --parents --target-directory ~/pandoc-installation-cache/
           sudo apt-get install texlive-xetex -y
           sudo dpkg -L texlive-xetex | while IFS= read -r f; do if test -f $f; then echo $f; fi; done | xargs cp --parents --target-directory ~/pandoc-installation-cache/
+          sudo dpkg -L libharfbuzz0b | while IFS= read -r f; do if test -f $f; then echo $f; fi; done | xargs cp --parents --target-directory ~/pandoc-installation-cache/
 
       - name: Install pandoc from cache
         if: steps.cache-pandoc-installation.outputs.cache-hit == 'true'
