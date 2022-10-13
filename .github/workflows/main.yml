@@ -18,7 +18,7 @@ jobs:
         uses: actions/cache@v3
         with:
           path: "~/pandoc-installation-cache"
-          key: ${{ runner.os }}-pandoc-cache-2022-10-13-03
+          key: ${{ runner.os }}-pandoc-cache-2022-10-13-04
       # Install pandoc from scratch
       - name: Install pandoc from scratch
         if: steps.cache-pandoc-installation.outputs.cache-hit != 'true'
@@ -26,12 +26,8 @@ jobs:
           mkdir ~/pandoc-installation-cache
           sudo apt-get update
           sudo apt-get install pandoc -y
-          sudo dpkg -L pandoc | while IFS= read -r f; do if test -f $f; then echo $f; fi; done | xargs cp --parents --target-directory ~/pandoc-installation-cache/
-          sudo dpkg -L pandoc-data | while IFS= read -r f; do if test -f $f; then echo $f; fi; done | xargs cp --parents --target-directory ~/pandoc-installation-cache/
           sudo apt-get install texlive-xetex -y
-          sudo dpkg -L texlive-xetex | while IFS= read -r f; do if test -f $f; then echo $f; fi; done | xargs cp --parents --target-directory ~/pandoc-installation-cache/
-          sudo dpkg -L libharfbuzz0b | while IFS= read -r f; do if test -f $f; then echo $f; fi; done | xargs cp --parents --target-directory ~/pandoc-installation-cache/
-          sudo dpkg -L libharfbuzz-icu0 | while IFS= read -r f; do if test -f $f; then echo $f; fi; done | xargs cp --parents --target-directory ~/pandoc-installation-cache/
+          sudo apt-cache depends --recurse --no-recommends --no-suggests --no-conflicts --no-breaks --no-replaces --no-enhances pandoc texlive-xetex | grep "^\w" | sort -u | xargs sudo dpkg -L | sort -u | grep . | while IFS= read -r f; do if test -f $f; then echo $f; fi; done | xargs cp --parents --target-directory ~/pandoc-installation-cache/
 
   build:
     needs: install
@@ -51,7 +47,7 @@ jobs:
         uses: actions/cache@v3
         with:
           path: "~/pandoc-installation-cache"
-          key: ${{ runner.os }}-pandoc-cache-2022-10-13-02
+          key: ${{ runner.os }}-pandoc-cache-2022-10-13-04
 
       - name: Install pandoc from cache
         if: steps.cache-pandoc-installation.outputs.cache-hit == 'true'
