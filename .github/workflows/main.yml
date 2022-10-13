@@ -15,6 +15,9 @@ jobs:
         with:
           fetch-depth: '0'
       
+      - name: Restore file timestamps
+        uses: chetan/git-restore-mtime-action@v1
+
       - name: Configure git author
         run: |
           git config user.name "$(git log -n 1 --pretty=format:%an)"
