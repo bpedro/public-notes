@@ -48,30 +48,15 @@
   <div id="layout">
     <h1 id="claim-check-design-pattern">Claim-check design pattern</h1>
     <blockquote>
-    <p>Split a large message into a claim check and a payload. Send the
-    claim check to the messaging platform and store the payload to an
-    external service. This pattern allows large messages to be
-    processed, while protecting the message bus and the client from
-    being overwhelmed or slowed down. This pattern also helps to reduce
-    costs, as storage is usually cheaper than resource units used by the
-    messaging platform.</p>
+    <p>Split a large message into a claim check and a payload. Send the claim check to the messaging platform and store the payload to an external service. This pattern allows large messages to be processed, while protecting the message bus and the client from being overwhelmed or slowed down. This pattern also helps to reduce costs, as storage is usually cheaper than resource units used by the messaging platform.</p>
     </blockquote>
-    <p>The claim-check design pattern can be useful in the following
-    scenarios: - The request body payload you’re trying to send is too
-    large for the receiving system, e.g., when using an AWS lambda
-    function that has a maximum of 6 MB request body (see <a
-    href="https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html">Lambda
-    quotas</a>). - You don’t trust the caller and want to make sure that
-    the information they’re sending is from a trusted source.</p>
+    <p>The claim-check design pattern can be useful in the following scenarios: - The request body payload you’re trying to send is too large for the receiving system, e.g., when using an AWS lambda function that has a maximum of 6 MB request body (see <a href="https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html">Lambda quotas</a>). - You don’t trust the caller and want to make sure that the information they’re sending is from a trusted source.</p>
     <pre class="mermaid"><code>flowchart LR
-C[Caller] --&gt; |claim ID|R[Receiver]
-C --&gt; |payload|D[(Data store)]
-D --&gt; |payload|R</code></pre>
+    C[Caller] --&gt; |claim ID|R[Receiver]
+    C --&gt; |payload|D[(Data store)]
+    D --&gt; |payload|R</code></pre>
     <hr />
-    <p>Found on <a
-    href="https://docs.microsoft.com/en-us/azure/architecture/patterns/claim-check">Claim-Check
-    pattern - Cloud Design Patterns | Microsoft Docs</a> on 2022-02-22
-    18:08:53.</p>
+    <p>Found on <a href="https://docs.microsoft.com/en-us/azure/architecture/patterns/claim-check">Claim-Check pattern - Cloud Design Patterns | Microsoft Docs</a> on 2022-02-22 18:08:53.</p>
     <p>Tags: #api-design #pattern #claim-check #payload</p>
   </div>
 </section>
