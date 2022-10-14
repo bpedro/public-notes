@@ -111,5 +111,5 @@ pandoc -s index.md -o index.html --template=template.html --metadata title="Publ
 
 # push changes to github
 git add .
-git commit -m "Update content"
+git commit -m "Process content"
 git push origin main
