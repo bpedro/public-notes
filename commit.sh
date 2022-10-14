@@ -12,26 +12,27 @@ elif [ "$unamestr" = 'FreeBSD' ] || [ "$unamestr" = 'Darwin' ]; then
 fi
 
 files_to_process=$(find ./202? -name "*.md" | sort -r)
-processed=0
+processed=false
 # convert each unprocessed markdown note to html and pdf
 for file in $files_to_process; do
   base=${file//\.md/}
   html=${base}.html
   if [ ! -f "$html" ]; then
-    processed=1
+    processed=true
     echo "Generating $html"
     pandoc -s ${file} -o ${html} --template=template.html --metadata title="Public note"
   fi
   pdf=${base}.pdf
   if [ ! -f "$pdf" ]; then
-    processed=1
+    processed=true
     echo "Generating $pdf"
     ./gen_pdf.sh ./${file}
   fi
 done
 
 # bail out if nothing was processed
-if [ ! $processed ]; then
+if [ $processed = false ]; then
+  echo "Nothing was processed"
   exit 0
 fi
 
