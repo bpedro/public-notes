@@ -4,7 +4,7 @@ cd "$SCRIPT_DIR"
 
 # obtain platform where the script is running
 platform='unknown'
-files_to_process=$(find ./202? -name "*.md" -cnewer .processed | sort -r)
+files_to_process=$(find ./202? -name "*.md" | sort -r)
 unamestr=$(uname)
 if [ "$unamestr" = 'Linux' ]; then
   platform='linux'
@@ -14,11 +14,17 @@ fi
 
 # convert each unprocessed markdown note to html and pdf
 for file in $files_to_process; do
-  echo $file
   base=${file//\.md/}
   html=${base}.html
-  pandoc -s ${file} -o ${html} --template=template.html --metadata title="Public note"
-  ./gen_pdf.sh ./${file}
+  if [ ! -f "$html" ]; then
+    echo "Generating $html"
+    pandoc -s ${file} -o ${html} --template=template.html --metadata title="Public note"
+  fi
+  pdf=${base}.pdf
+  if [ ! -f "$pdf" ]; then
+    echo "Generating $pdf"
+    ./gen_pdf.sh ./${file}
+  fi
 done
 
 # get all file names and contents
@@ -93,9 +99,6 @@ for file in ${files}; do
   echo "* [${name}](${base}.html)" >> index.md
 done
 pandoc -s index.md -o index.html --template=template.html --metadata title="Public notes"
-
-# mark timestamp of last processing
-touch .processed
 
 # push changes to github
 git add .
