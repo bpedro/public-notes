@@ -4,7 +4,6 @@ cd "$SCRIPT_DIR"
 
 # obtain platform where the script is running
 platform='unknown'
-files_to_process=$(find ./202? -name "*.md" | sort -r)
 unamestr=$(uname)
 if [ "$unamestr" = 'Linux' ]; then
   platform='linux'
@@ -12,20 +11,29 @@ elif [ "$unamestr" = 'FreeBSD' ] || [ "$unamestr" = 'Darwin' ]; then
   platform='bsd'
 fi
 
+files_to_process=$(find ./202? -name "*.md" | sort -r)
+processed=0
 # convert each unprocessed markdown note to html and pdf
 for file in $files_to_process; do
   base=${file//\.md/}
   html=${base}.html
   if [ ! -f "$html" ]; then
+    processed=1
     echo "Generating $html"
     pandoc -s ${file} -o ${html} --template=template.html --metadata title="Public note"
   fi
   pdf=${base}.pdf
   if [ ! -f "$pdf" ]; then
+    processed=1
     echo "Generating $pdf"
     ./gen_pdf.sh ./${file}
   fi
 done
+
+# bail out if nothing was processed
+if [ ! $processed ]; then
+  exit 0
+fi
 
 # get all file names and contents
 contents=()
