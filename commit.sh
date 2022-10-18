@@ -20,7 +20,7 @@ for file in $files_to_process; do
   if [ ! -f "$html" ]; then
     processed=true
     echo "Generating $html"
-    pandoc -s ${file} -o ${html} --template=template.html --metadata title="Public note"
+    pandoc -s ${file} -o ${html} --template=template.html
   fi
   pdf=${base}.pdf
   if [ ! -f "$pdf" ]; then
