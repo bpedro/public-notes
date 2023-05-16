@@ -1,0 +1,35 @@
+{{ define "main" }}
+<div id="layout">
+<article>
+
+{{ partial "brand.html" . }}
+{{ partial "content.header.html" . }}
+
+<!-- https://discourse.gohugo.io/t/how-to-build-one-collection-for-all-nested-sections/27950/5 -->
+{{ with .Content }}
+<section>
+{{ . }}
+</section>
+{{ end }}
+
+<section class="list-page">
+{{ $indexScratch := .Scratch }}
+{{ range .Sections }}
+{{ $indexScratch.Add "sections" (slice . ) }}
+{{ end }}
+
+{{- range ($indexScratch.Get "sections").ByTitle -}}
+<p><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
+<ul>
+  {{- range .Pages.ByTitle -}}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{- end -}}
+</ul>
+{{- end -}}
+</section>
+
+{{ partial "footer.html" . }}
+
+</article>
+</div>
+{{ end }}

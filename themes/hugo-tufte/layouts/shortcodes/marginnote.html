@@ -1,0 +1,7 @@
+{{- $label := (add .Ordinal 1) -}}
+{{- $ind := .Get "ind" | default .Site.Params.marginNoteInd -}}
+<label for="marginnote-{{ $label }}" class="margin-toggle marginnote-ind">{{ $ind }}</label>
+<input type="checkbox" id="marginnote-{{ $label }}" class="margin-toggle"/>
+<span class="marginnote">
+{{ .Inner | markdownify}}
+</span>

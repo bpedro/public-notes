@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+<div id="layout">
+<article>
+
+{{ partial "brand.html" . }}
+
+{{ partial "content.header.html" . }}
+
+<section class="list-page">
+<ul>
+{{ range .Pages.ByTitle }}
+{{ if .IsSection }}
+<li><a href="{{ .RelPermalink }}">{{.Title}}</a></li>
+{{ end }}
+{{ end }}
+</ul>
+</section>
+
+{{ partial "footer.html" . }}
+
+</article>
+</div>
+
+{{ end }}

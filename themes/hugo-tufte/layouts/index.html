@@ -1,0 +1,26 @@
+{{ define "main" }}
+<article id="main" class="home-page">
+  {{ partial "brand.html" . }}
+  {{ with .Content }}
+    <section>
+    {{ . }}
+    </section>
+  {{ end }}
+  <section class="page-list">
+  {{ range .Site.RegularPages }}
+  {{/* range where .Site.RegularPages "Type" "posts" */}}
+    {{ if ne .Draft true}}
+    <h2 class="content-title">
+      {{ if .IsNode }}
+      <a href="{{ .Permalink }}">{{ .Title}}</a>
+      {{ else }}
+      <a href="{{ .RelPermalink }}">{{ .Title }}{{ if .Draft }} :: Draft {{end}}</a>
+      {{ end }}
+    </h1>
+    <p>{{ truncate 140 .Summary }}</p>
+    {{ end }}
+  {{ end }}
+  </section>
+  {{ partial "footer.html" . }}
+</article>
+{{ end }}
