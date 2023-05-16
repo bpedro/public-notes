@@ -1,0 +1,59 @@
+languageCode = "en-us"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = false
+baseurl = "http://localhost:1313/"
+theme = "hugo-tufte"
+title = "Bruno Pedro's public notes"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[permalinks]
+  post = "/:year/:month/:day/:filename/"
+  page = "/:title/"
+
+[taxonomies]
+  category = "categories"
+  group = "groups"
+  series = "series"
+  tag = "tags"
+
+[params]
+  copyrightHolder = "Bruno Pedro"
+  author = "Bruno Pedro"
+  description = "Bruno Pedro's public notes"
+  showPoweredBy = false
+  github = "bpedro"
+  mastodon = "follow.brunopedro.com/@bpedro"
+  twitter = "bpedro"
+  linkedin = "bpedro"
+  favicon = "brunopedro_favicon.png"
+  KaTeXCDN = "https://cdn.jsdelivr.net/npm"
+  KaTeXVersion = "0.16.6"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.highlight]
+      noClasses = false
+
+pygmentUseClasses = true
+cononifyurls = true
+
+# -----------------------------------------------------------------------
+# Navigation menu
+# -----------------------------------------------------------------------
+[[menu.nav]]
+  name = "About Bruno"
+  pre = "<i class='fa fa-home fa-lg'></i> "
+  weight = -110
+  identifier = "home"
+  url = "https://brunopedro.com/"
+[[menu.nav]]
+  name = "Blog"
+  pre = "<i class='fa fa-book fa-lg'></i> "
+  weight = -100
+  identifier = "posts"
+  url = "https://brunopedro.com/post"

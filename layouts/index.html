@@ -1,0 +1,28 @@
+{{ define "main" }}
+<article id="main" class="home-page">
+  {{ partial "brand.html" . }}
+  <section class="page-list">
+  {{ range .Site.Pages.GroupByDate "January, 2006" }}
+    {{ if ne .Key "January, 0001" }}
+    <h1>{{ .Key }} </h1>
+    {{ end }}
+    {{ range .Pages }}
+      {{ if (and (eq .Type "post") (.Content)) }}
+      <section>
+      <span class="marginnote" style="margin-right:-10.4%">
+        Permalink:
+        {{ if .Title }}
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ else }}
+            <a href="{{ .RelPermalink }}">{{ .RelPermalink }}</a>
+        {{ end }}
+      </span>
+          {{ .Content }}
+        </section>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  </section>
+  {{ partial "footer.html" . }}
+</article>
+{{ end }}
