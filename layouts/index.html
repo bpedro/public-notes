@@ -14,7 +14,7 @@
         {{ if .Title }}
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         {{ else }}
-            <a href="{{ .RelPermalink }}">{{ .RelPermalink }}</a>
+            <a href="{{ .RelPermalink }}">{{ .File.BaseFileName }}</a>
         {{ end }}
       </span>
           {{ .Content }}
