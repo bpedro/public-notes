@@ -8,6 +8,7 @@
 {{- $label = .Get "label" -}}
 {{- end -}}
 
+<p>
 <!-- begin figure tag -->
 {{- if not (eq $type "margin") -}}
   {{ if eq $type "full" }}<!-- full -->
@@ -60,3 +61,4 @@
 {{ if not (eq $type "margin") }}
 </figure>
 {{ end }}
+</p>
