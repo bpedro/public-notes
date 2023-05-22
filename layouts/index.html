@@ -9,14 +9,16 @@
     {{ range .Pages }}
       {{ if (and (eq .Type "post") (.Content)) }}
       <section>
-      <span class="marginnote" style="margin-right:-10.4%">
-        Permalink:
-        {{ if .Title }}
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        {{ else }}
-            <a href="{{ .RelPermalink }}">{{ .File.BaseFileName }}</a>
-        {{ end }}
-      </span>
+      <p>
+        <span class="marginnote">
+          Permalink:
+          {{ if .Title }}
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{ else }}
+              <a href="{{ .RelPermalink }}">{{ .File.BaseFileName }}</a>
+          {{ end }}
+        </span>
+      </p>
           {{ .Content }}
         </section>
       {{ end }}
