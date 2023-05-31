@@ -42,6 +42,9 @@ pygmentsUseClasses = true
 pygmentUseClasses = true
 cononifyurls = true
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 # -----------------------------------------------------------------------
 # Navigation menu
 # -----------------------------------------------------------------------
