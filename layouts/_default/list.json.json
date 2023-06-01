@@ -1,5 +1,5 @@
 {{ $list := .Site.Pages -}}
-{{ $length := 10 -}}
+{{ $length := (len $list) -}}
 {
     "length": {{ $length }},
     "version" : "https://jsonfeed.org/version/1",
