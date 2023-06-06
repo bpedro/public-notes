@@ -43,7 +43,17 @@ pygmentUseClasses = true
 cononifyurls = true
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON", "Algolia"]
+
+[outputFormats.Algolia]
+  baseName = "algolia"
+  isPlainText = true
+  mediaType = "application/json"
+  notAlternative = true
+
+[params.algolia]
+  vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink", "image"]
+  params = ["tags"]
 
 # -----------------------------------------------------------------------
 # Navigation menu
