@@ -33,7 +33,7 @@
           "author" : {
             "name" : "{{ .Site.Params.author }}"
           },
-          "content_text" : "{{ .Permalink }} {{ .Summary | jsonify }}"
+          "content_text" : "{{ .Summary | jsonify }}"
       }{{ if ne (add $index 1) $length }},{{ end }}
       {{ end -}}
     {{ end -}}
