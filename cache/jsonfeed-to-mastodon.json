@@ -3512,5 +3512,19 @@
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
     "lastTootTimestamp": 1686061796997
+  },
+  "https://notes.brunopedro.com/2023/06/06/20230606163757/": {
+    "title": "2023-06-06",
+    "date_published": "2023-06-06T16:37:57+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/06/20230606163757/",
+    "url": "https://notes.brunopedro.com/2023/06/06/20230606163757/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/06/20230606163757/\n\nFound at “API for IoT Devices” on 2023-06-06 16:37:57 +02:00. Use a single API and dashboard to unlock doors, set temperatures, grant temporary access to buildings, tap into camera feeds, and more.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110497788809350154"
+    ],
+    "lastTootTimestamp": 1686062451544
   }
 }
