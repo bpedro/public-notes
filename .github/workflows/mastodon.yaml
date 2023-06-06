@@ -18,7 +18,6 @@ jobs:
           feedUrl: "https://notes.brunopedro.com/index.json"
           mastodonInstance: "https://follow.brunopedro.com"
           mastodonToken: ${{ secrets.MASTODON_TOKEN }}
-          testMode: true
           globalDelayToots: 1
 
       # Make sure files are up to date if other commits have been pushed in the mean time
