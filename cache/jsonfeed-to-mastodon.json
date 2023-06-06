@@ -3568,5 +3568,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110497933619291407"
     ],
     "lastTootTimestamp": 1686064661070
+  },
+  "https://notes.brunopedro.com/2023/06/06/20230606223658/": {
+    "title": "2023-06-06T22:36:58+02:00",
+    "date_published": "2023-06-06T22:36:58+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/06/20230606223658/",
+    "url": "https://notes.brunopedro.com/2023/06/06/20230606223658/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/06/20230606223658/\n\nFound at “Why AI Will Save the World | Andreessen Horowitz” on 2023-06-06 22:36:58 +02:00. What AI offers us is the opportunity to profoundly augment human intelligence to make all of these outcomes of intelligence – and many others, from the creation of new medicines to ways to solve climate change to technologies to reach the stars – much, much better from here.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110499194751980364"
+    ],
+    "lastTootTimestamp": 1686083904458
   }
 }
