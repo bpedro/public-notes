@@ -26,7 +26,7 @@
     {{ range $index, $element := $list -}}
       {{ if (and (eq .Type "post") (.Content)) -}}
       {
-          "title" : {{ (or (.Title) (.Date.Format "2006-01-02")) | jsonify }},
+          "title" : {{ (or (.Title) (.Date.Format "2006-01-02T15:04:05Z07:00")) | jsonify }},
           "date_published" : "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
           "id" : "{{ .Permalink }}",
           "url" : "{{ .Permalink }}",
