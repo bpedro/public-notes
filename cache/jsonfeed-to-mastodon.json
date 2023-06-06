@@ -3526,5 +3526,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110497788809350154"
     ],
     "lastTootTimestamp": 1686062451544
+  },
+  "https://notes.brunopedro.com/2023/06/06/20230606164610/": {
+    "title": "Posting to Mastodon",
+    "date_published": "2023-06-06T16:46:10+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/06/20230606164610/",
+    "url": "https://notes.brunopedro.com/2023/06/06/20230606164610/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/06/20230606164610/\n\nThis is a test. This post should be automatically posted to Mastodon.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110497827800406569"
+    ],
+    "lastTootTimestamp": 1686063046447
   }
 }
