@@ -1,5 +1,10 @@
 name: Create Mastodon posts for each new note
 on:
+  workflow_run:
+    workflows: [Deploy Hugo site to Pages]
+    types:
+      - completed
+
   workflow_dispatch:
 
 jobs:
