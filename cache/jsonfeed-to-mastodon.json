@@ -3610,5 +3610,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110503085276034028"
     ],
     "lastTootTimestamp": 1686143269273
+  },
+  "https://notes.brunopedro.com/2023/06/07/20230607162106/": {
+    "title": "2023-06-07T16:21:06+02:00",
+    "date_published": "2023-06-07T16:21:06+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/07/20230607162106/",
+    "url": "https://notes.brunopedro.com/2023/06/07/20230607162106/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/07/20230607162106/\n\nFound at “kaushikgopalhenry-hugo: Henry: Hugo theme meant for a gorgeous reading experience and packed with features” on 2023-06-07 16:21:06 +02:00. Henry is a Hugo theme with a gorgeous reading experience, chock-full of features. To find out more about all the features check out this blog post.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110503672257409955"
+    ],
+    "lastTootTimestamp": 1686152225844
   }
 }
