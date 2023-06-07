@@ -3624,5 +3624,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110503672257409955"
     ],
     "lastTootTimestamp": 1686152225844
+  },
+  "https://notes.brunopedro.com/2023/06/07/20230607173820/": {
+    "title": "2023-06-07T17:38:20+02:00",
+    "date_published": "2023-06-07T17:38:20+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/07/20230607173820/",
+    "url": "https://notes.brunopedro.com/2023/06/07/20230607173820/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/07/20230607173820/\n\nFound at “osquery | Easily ask questions about your Linux, Windows, and macOS infrastructure” on 2023-06-07 17:38:20 +02:00. Osquery uses basic SQL commands to leverage a relational data-model to describe a device.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110503683695113283"
+    ],
+    "lastTootTimestamp": 1686152400360
   }
 }
