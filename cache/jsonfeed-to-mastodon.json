@@ -3582,5 +3582,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110499194751980364"
     ],
     "lastTootTimestamp": 1686083904458
+  },
+  "https://notes.brunopedro.com/2023/06/07/20230607093907/": {
+    "title": "2023-06-07T09:39:07+02:00",
+    "date_published": "2023-06-07T09:39:07+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/07/20230607093907/",
+    "url": "https://notes.brunopedro.com/2023/06/07/20230607093907/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/07/20230607093907/\n\nFound at “ArroyoSystemsarroyo: Distributed stream processing engine in Rust” on 2023-06-07 09:39:07 +02:00. Arroyo is a distributed stream processing engine written in Rust, designed to efficiently perform stateful computations on streams of data. Unlike traditional batch processing, streaming engines can operate on both bounded and unbounded sources, emitting results as soon as they are available.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110501799294148377"
+    ],
+    "lastTootTimestamp": 1686123646912
   }
 }
