@@ -3596,5 +3596,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110501799294148377"
     ],
     "lastTootTimestamp": 1686123646912
+  },
+  "https://notes.brunopedro.com/2023/06/07/20230607150555/": {
+    "title": "2023-06-07T15:05:55+02:00",
+    "date_published": "2023-06-07T15:05:55+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/07/20230607150555/",
+    "url": "https://notes.brunopedro.com/2023/06/07/20230607150555/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/07/20230607150555/\n\nFound at “Fastgen - Build scalable backends and automations” on 2023-06-07 15:05:55 +02:00. Interesting approach to workflow and backend database integration.\nLow code API and workflow builder for rapid development.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110503085276034028"
+    ],
+    "lastTootTimestamp": 1686143269273
   }
 }
