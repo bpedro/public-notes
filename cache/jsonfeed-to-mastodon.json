@@ -3652,5 +3652,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110507688900045297"
     ],
     "lastTootTimestamp": 1686213516023
+  },
+  "https://notes.brunopedro.com/2023/06/08/20230608104601/": {
+    "title": "2023-06-08T10:46:01+02:00",
+    "date_published": "2023-06-08T10:46:01+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/08/20230608104601/",
+    "url": "https://notes.brunopedro.com/2023/06/08/20230608104601/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/08/20230608104601/\n\nFound at “A bicycle for the senses — Stephan Ango” on 2023-06-08 10:46:01 +02:00. Devices like the Vision Pro headset connect sensory extensions directly to your vision. Equipped with sensors that perceive beyond human capabilities, and access to the internet, they can provide information about your surroundings wherever you are.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110507725027138828"
+    ],
+    "lastTootTimestamp": 1686214066249
   }
 }
