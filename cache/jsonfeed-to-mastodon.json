@@ -3638,5 +3638,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110503683695113283"
     ],
     "lastTootTimestamp": 1686152400360
+  },
+  "https://notes.brunopedro.com/2023/06/08/20230608102329/": {
+    "title": "Astrud Gilberto dies at 85",
+    "date_published": "2023-06-08T10:23:29+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/08/20230608102329/",
+    "url": "https://notes.brunopedro.com/2023/06/08/20230608102329/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/08/20230608102329/\n\nRIP Astrud, the original Ipanema girl.\nTall and tan and young and lovely\nThe girl from Ipanema goes walking and\nWhen she passes, each one she passes goes “ahhh.”\nAntonio Carlos Jobim, Ipanema Girl, excerpt ",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110507688900045297"
+    ],
+    "lastTootTimestamp": 1686213516023
   }
 }
