@@ -3666,5 +3666,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110507725027138828"
     ],
     "lastTootTimestamp": 1686214066249
+  },
+  "https://notes.brunopedro.com/2023/06/09/20230609103304/": {
+    "title": "2023-06-09T10:33:04+02:00",
+    "date_published": "2023-06-09T10:33:04+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/09/20230609103304/",
+    "url": "https://notes.brunopedro.com/2023/06/09/20230609103304/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/09/20230609103304/\n\n<p>What is the unit of value in APIs?</p>\n<p>Building a platform to power a marketplace of APIs is interesting both from a product and a technical perspective. Platforms have three major components:</p>\n<ul>\n<li>Producers: participants that create items that are traded in the marketplace.</li>\n<li>Consumers: participants that acquire items available in the marketplace.</li>\n<li>Unit of value: the items that are traded in the marketplace.</li>\n</ul>",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110513380284928835"
+    ],
+    "lastTootTimestamp": 1686300358551
   }
 }
