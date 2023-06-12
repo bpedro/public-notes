@@ -3694,5 +3694,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110526617572027584"
     ],
     "lastTootTimestamp": 1686502343503
+  },
+  "https://notes.brunopedro.com/2023/06/12/20230612155021/": {
+    "title": "2023-06-12T15:50:21+02:00",
+    "date_published": "2023-06-12T15:50:21+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/12/20230612155021/",
+    "url": "https://notes.brunopedro.com/2023/06/12/20230612155021/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/12/20230612155021/\n\nFound at “DB-Engines Ranking - popularity ranking of database management systems” on 2023-06-12 15:50:21 +02:00. The DB-Engines Ranking ranks database management systems according to their popularity. The ranking is updated monthly.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110531571284470594"
+    ],
+    "lastTootTimestamp": 1686577931293
   }
 }
