@@ -3862,5 +3862,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110554996634114282"
     ],
     "lastTootTimestamp": 1686935373697
+  },
+  "https://notes.brunopedro.com/2023/06/17/20230617150920/": {
+    "title": "Language evaluation criteria",
+    "date_published": "2023-06-17T15:09:20+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/17/20230617150920/",
+    "url": "https://notes.brunopedro.com/2023/06/17/20230617150920/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/17/20230617150920/ Here’s a list of criteria that can be used to evaluate languages. In particular, these criteria can be used to evaluate programming and also query languages.\n",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110559774988155978"
+    ],
+    "lastTootTimestamp": 1687008285600
   }
 }
