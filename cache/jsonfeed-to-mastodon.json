@@ -3890,5 +3890,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110559797669586295"
     ],
     "lastTootTimestamp": 1687008631649
+  },
+  "https://notes.brunopedro.com/2023/06/18/20230618174313/": {
+    "title": "2023-06-18T17:43:13+02:00",
+    "date_published": "2023-06-18T17:43:13+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/18/20230618174313/",
+    "url": "https://notes.brunopedro.com/2023/06/18/20230618174313/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/18/20230618174313/\n\nThis is a fascinating short documentary from #Patagonia about Scotland’s coast, its ecosystem, its relationship with the fishing industry and the climate. Watch it if you care about the ocean.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110565998795164868"
+    ],
+    "lastTootTimestamp": 1687103253422
   }
 }
