@@ -3932,5 +3932,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110570973803324230"
     ],
     "lastTootTimestamp": 1687179165893
+  },
+  "https://notes.brunopedro.com/2023/06/19/20230619221412/": {
+    "title": "2023-06-19T22:14:12+02:00",
+    "date_published": "2023-06-19T22:14:12+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/19/20230619221412/",
+    "url": "https://notes.brunopedro.com/2023/06/19/20230619221412/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/19/20230619221412/\n\nFound at “Fast-Forward to the Future: 7 Key Considerations for widespread AI adoption | by Carlos E. Espinal | Jun, 2023 | Medium” on 2023-06-19 22:14:12 +02:00. As an investor, I can tell you that every single deal we are looking at right now has a component of artificial intelligence incorporated within it.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110572716823906699"
+    ],
+    "lastTootTimestamp": 1687205762589
   }
 }
