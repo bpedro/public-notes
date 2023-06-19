@@ -3918,5 +3918,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110569881981756541"
     ],
     "lastTootTimestamp": 1687162506058
+  },
+  "https://notes.brunopedro.com/2023/06/19/20230619145032/": {
+    "title": "2023-06-19T14:50:32+02:00",
+    "date_published": "2023-06-19T14:50:32+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/19/20230619145032/",
+    "url": "https://notes.brunopedro.com/2023/06/19/20230619145032/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/19/20230619145032/\n\nFound at “Rewilding the planet: how seven artificial islands could help a dying Dutch lake” on 2023-06-19 14:50:32 +02:00. An archipelago constructed of sand and mud is bringing new life to a dead lake but can this bold experiment have a lasting impact?",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110570973803324230"
+    ],
+    "lastTootTimestamp": 1687179165893
   }
 }
