@@ -3974,5 +3974,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110575749010103654"
     ],
     "lastTootTimestamp": 1687252029669
+  },
+  "https://notes.brunopedro.com/2023/06/20/20230620143708/": {
+    "title": "2023-06-20T14:37:08+02:00",
+    "date_published": "2023-06-20T14:37:08+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/20/20230620143708/",
+    "url": "https://notes.brunopedro.com/2023/06/20/20230620143708/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/20/20230620143708/\n\nPrompt-Driven AI UX Hurts Usability",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110576580917339794"
+    ],
+    "lastTootTimestamp": 1687264723749
   }
 }
