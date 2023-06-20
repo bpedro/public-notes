@@ -3960,5 +3960,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110575728611277493"
     ],
     "lastTootTimestamp": 1687251718742
+  },
+  "https://notes.brunopedro.com/2023/06/20/20230620110444/": {
+    "title": "2023-06-20T11:04:44+02:00",
+    "date_published": "2023-06-20T11:04:44+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/20/20230620110444/",
+    "url": "https://notes.brunopedro.com/2023/06/20/20230620110444/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/20/20230620110444/\n\nMicrosoft’s Deputy CTO Sam Schillace developed nine principles for using LLMs to create software",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110575749010103654"
+    ],
+    "lastTootTimestamp": 1687252029669
   }
 }
