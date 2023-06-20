@@ -3988,5 +3988,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110576580917339794"
     ],
     "lastTootTimestamp": 1687264723749
+  },
+  "https://notes.brunopedro.com/2023/06/20/20230620170552/": {
+    "title": "2023-06-20T17:05:52+02:00",
+    "date_published": "2023-06-20T17:05:52+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/20/20230620170552/",
+    "url": "https://notes.brunopedro.com/2023/06/20/20230620170552/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/20/20230620170552/\n\nChatGPT and other AI systems are shaping up to launch the third user-interface paradigm in the history of computing — the first new interaction model in more than 60 years.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110577167375672472"
+    ],
+    "lastTootTimestamp": 1687273672790
   }
 }
