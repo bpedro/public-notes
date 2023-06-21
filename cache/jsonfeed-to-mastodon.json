@@ -4016,5 +4016,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110581732870078816"
     ],
     "lastTootTimestamp": 1687343336182
+  },
+  "https://notes.brunopedro.com/2023/06/21/20230621172023/": {
+    "title": "2023-06-21T17:20:23+02:00",
+    "date_published": "2023-06-21T17:20:23+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/21/20230621172023/",
+    "url": "https://notes.brunopedro.com/2023/06/21/20230621172023/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/21/20230621172023/\n\nEmerging LLM app stack, by a16z",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110582904839427670"
+    ],
+    "lastTootTimestamp": 1687361219044
   }
 }
