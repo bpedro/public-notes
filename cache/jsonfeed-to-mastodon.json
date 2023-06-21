@@ -4002,5 +4002,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110577167375672472"
     ],
     "lastTootTimestamp": 1687273672790
+  },
+  "https://notes.brunopedro.com/2023/06/21/20230621122733/": {
+    "title": "2023-06-21T12:27:33+02:00",
+    "date_published": "2023-06-21T12:27:33+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/21/20230621122733/",
+    "url": "https://notes.brunopedro.com/2023/06/21/20230621122733/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/21/20230621122733/\n\nFound at “Bricks AI — The AI tool that makes API easy for no-coders” on 2023-06-21 12:27:33 +02:00. Bricks AI allows you to add dynamic data to your website ― without ever touching code. Simply describe what you need, our AI will match your use case with the best API",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110581732870078816"
+    ],
+    "lastTootTimestamp": 1687343336182
   }
 }
