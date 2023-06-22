@@ -4030,5 +4030,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110582904839427670"
     ],
     "lastTootTimestamp": 1687361219044
+  },
+  "https://notes.brunopedro.com/2023/06/22/20230622192933/": {
+    "title": "2023-06-22T19:29:33+02:00",
+    "date_published": "2023-06-22T19:29:33+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/22/20230622192933/",
+    "url": "https://notes.brunopedro.com/2023/06/22/20230622192933/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/22/20230622192933/\n\nUsing AI-generated data to train AI could introduce further errors into already error-prone models",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110589057055508618"
+    ],
+    "lastTootTimestamp": 1687455094337
   }
 }
