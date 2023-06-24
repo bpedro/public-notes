@@ -4058,5 +4058,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110593374533335249"
     ],
     "lastTootTimestamp": 1687520973877
+  },
+  "https://notes.brunopedro.com/2023/06/24/20230624160208/": {
+    "title": "2023-06-24T16:02:08+02:00",
+    "date_published": "2023-06-24T16:02:08+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/24/20230624160208/",
+    "url": "https://notes.brunopedro.com/2023/06/24/20230624160208/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/24/20230624160208/\n\nFound at “Common Bugs in Writing” on 2023-06-24 16:02:08 +02:00. Like almost all rules, there are cases where breaking them is a good idea and seasoned writers may well object with “but” responses for some of these. Thus, consider the rules below as mental rumble strips - you should probably slow down and think if you encounter these cases.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110599563139525058"
+    ],
+    "lastTootTimestamp": 1687615404499
   }
 }
