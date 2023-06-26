@@ -4086,5 +4086,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110606054589795588"
     ],
     "lastTootTimestamp": 1687714456175
+  },
+  "https://notes.brunopedro.com/2023/06/26/20230626094407/": {
+    "title": "2023-06-26T09:44:07+02:00",
+    "date_published": "2023-06-26T09:44:07+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/26/20230626094407/",
+    "url": "https://notes.brunopedro.com/2023/06/26/20230626094407/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/26/20230626094407/\n\nEverything old is new again. XML is the future.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110609406805550444"
+    ],
+    "lastTootTimestamp": 1687765606928
   }
 }
