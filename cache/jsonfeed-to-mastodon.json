@@ -4100,5 +4100,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110609406805550444"
     ],
     "lastTootTimestamp": 1687765606928
+  },
+  "https://notes.brunopedro.com/2023/06/27/20230627095326/": {
+    "title": "What is API Usability?",
+    "date_published": "2023-06-27T09:53:26+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/27/20230627095326/",
+    "url": "https://notes.brunopedro.com/2023/06/27/20230627095326/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/27/20230627095326/\n\nLet’s look at the bottom layer of the API Hierarchy of Needs and try to understand what API Usability really means.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110615109486196554"
+    ],
+    "lastTootTimestamp": 1687852622972
   }
 }
