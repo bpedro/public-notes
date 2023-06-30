@@ -4170,5 +4170,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110633482147523082"
     ],
     "lastTootTimestamp": 1688132967492
+  },
+  "https://notes.brunopedro.com/2023/06/30/20230630160425/": {
+    "title": "2023-06-30T16:04:25+02:00",
+    "date_published": "2023-06-30T16:04:25+02:00",
+    "id": "https://notes.brunopedro.com/2023/06/30/20230630160425/",
+    "url": "https://notes.brunopedro.com/2023/06/30/20230630160425/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/06/30/20230630160425/\n\nFound at “How Google Reader died — and why the web misses it more than ever - The Verge” on 2023-06-30 16:04:25 +02:00. what if they’d tried to build Reader outside of Google? It had millions of devoted users, a top-notch team, and big plans.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110633546384765387"
+    ],
+    "lastTootTimestamp": 1688133947667
   }
 }
