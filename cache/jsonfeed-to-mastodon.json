@@ -4184,5 +4184,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110633546384765387"
     ],
     "lastTootTimestamp": 1688133947667
+  },
+  "https://notes.brunopedro.com/2023/07/01/20230701232427/": {
+    "title": "2023-07-01T23:24:27+02:00",
+    "date_published": "2023-07-01T23:24:27+02:00",
+    "id": "https://notes.brunopedro.com/2023/07/01/20230701232427/",
+    "url": "https://notes.brunopedro.com/2023/07/01/20230701232427/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/07/01/20230701232427/\n\nFound at “How to Do Great Work” on 2023-07-01 23:24:27 +02:00. Develop a habit of working on your own projects. Don’t let “work” mean something other people tell you to do. If you do manage to do great work one day, it will probably be on a project of your own.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110640939210122002"
+    ],
+    "lastTootTimestamp": 1688246753239
   }
 }
