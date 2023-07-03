@@ -4226,5 +4226,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110650791133292355"
     ],
     "lastTootTimestamp": 1688397081630
+  },
+  "https://notes.brunopedro.com/2023/07/03/20230703220446/": {
+    "title": "2023-07-03T22:04:46+02:00",
+    "date_published": "2023-07-03T22:04:46+02:00",
+    "id": "https://notes.brunopedro.com/2023/07/03/20230703220446/",
+    "url": "https://notes.brunopedro.com/2023/07/03/20230703220446/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/07/03/20230703220446/\n\nFound at “Joins 13 Ways” on 2023-07-03 22:04:46 +02:00. Relational (inner) joins are really common in the world of databases, and one weird thing about them is that it seems like everyone has a different idea of what they are. In this post I’ve aggregated a bunch of different definitions, ways of thinking about them, and ways of implementing them",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110651950591372901"
+    ],
+    "lastTootTimestamp": 1688414773528
   }
 }
