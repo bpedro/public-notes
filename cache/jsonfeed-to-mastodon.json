@@ -4198,5 +4198,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110640939210122002"
     ],
     "lastTootTimestamp": 1688246753239
+  },
+  "https://notes.brunopedro.com/2023/07/03/20230703145225/": {
+    "title": "2023-07-03T14:52:25+02:00",
+    "date_published": "2023-07-03T14:52:25+02:00",
+    "id": "https://notes.brunopedro.com/2023/07/03/20230703145225/",
+    "url": "https://notes.brunopedro.com/2023/07/03/20230703145225/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/07/03/20230703145225/\n\nFound at “obi1kenobitrustfall: A query engine for any combination of data sources. Query your files and APIs as if they were databases!” on 2023-07-03 14:52:25 +02:00. Trustfall is a query engine for querying any kind of data source, from APIs and databases to any kind of files on disk — and even AI models.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110650379644589638"
+    ],
+    "lastTootTimestamp": 1688390802841
   }
 }
