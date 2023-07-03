@@ -4212,5 +4212,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110650379644589638"
     ],
     "lastTootTimestamp": 1688390802841
+  },
+  "https://notes.brunopedro.com/2023/07/03/20230703170941/": {
+    "title": "2023-07-03T17:09:41+02:00",
+    "date_published": "2023-07-03T17:09:41+02:00",
+    "id": "https://notes.brunopedro.com/2023/07/03/20230703170941/",
+    "url": "https://notes.brunopedro.com/2023/07/03/20230703170941/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/07/03/20230703170941/\n\nFound at “On breaking changes in transitive dependencies: a story of a change, that broke Sidekiq’s reliability promises - Dmytro on Things” on 2023-07-03 17:09:41 +02:00. make dependency management less fragile, and allow developers to update more often with reduced risk of introducing subtle and hard-to-catch bugs any day.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110650791133292355"
+    ],
+    "lastTootTimestamp": 1688397081630
   }
 }
