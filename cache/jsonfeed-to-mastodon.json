@@ -4240,5 +4240,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110651950591372901"
     ],
     "lastTootTimestamp": 1688414773528
+  },
+  "https://notes.brunopedro.com/2023/07/04/20230704120336/": {
+    "title": "2023-07-04T12:03:36+02:00",
+    "date_published": "2023-07-04T12:03:36+02:00",
+    "id": "https://notes.brunopedro.com/2023/07/04/20230704120336/",
+    "url": "https://notes.brunopedro.com/2023/07/04/20230704120336/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/07/04/20230704120336/\n\nFound at “tRPC | tRPC” on 2023-07-04 12:03:36 +02:00. tRPC allows you to easily build & consume fully typesafe APIs without schemas or code generation.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110655249148401169"
+    ],
+    "lastTootTimestamp": 1688465105516
   }
 }
