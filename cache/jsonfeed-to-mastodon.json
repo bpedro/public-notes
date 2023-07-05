@@ -4282,5 +4282,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110660485856179808"
     ],
     "lastTootTimestamp": 1688545011373
+  },
+  "https://notes.brunopedro.com/2023/07/05/20230705105243/": {
+    "title": "2023-07-05T10:52:43+02:00",
+    "date_published": "2023-07-05T10:52:43+02:00",
+    "id": "https://notes.brunopedro.com/2023/07/05/20230705105243/",
+    "url": "https://notes.brunopedro.com/2023/07/05/20230705105243/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/07/05/20230705105243/\n\nFound at “AI and the automation of work — Benedict Evans” on 2023-07-05 10:52:43 +02:00. ChatGPT and generative AI will change how we work, but how different is this to all the other waves of automation of the last 200 years? What does it mean for employment? Disruption? Coal consumption?",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110660632473774722"
+    ],
+    "lastTootTimestamp": 1688547248725
   }
 }
