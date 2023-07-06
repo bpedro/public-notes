@@ -4296,5 +4296,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110660632473774722"
     ],
     "lastTootTimestamp": 1688547248725
+  },
+  "https://notes.brunopedro.com/2023/07/06/20230706170721/": {
+    "title": "2023-07-06T17:07:21+02:00",
+    "date_published": "2023-07-06T17:07:21+02:00",
+    "id": "https://notes.brunopedro.com/2023/07/06/20230706170721/",
+    "url": "https://notes.brunopedro.com/2023/07/06/20230706170721/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/07/06/20230706170721/\n\nFound at “Platform Design - Three Key Design Elements for Designing Platforms Effectively |” on 2023-07-06 17:07:21 +02:00. To achieve platform scale, focus on increasing the quality and quantity of core value units on the platform.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110667768027818458"
+    ],
+    "lastTootTimestamp": 1688656128566
   }
 }
