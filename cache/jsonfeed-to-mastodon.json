@@ -4310,5 +4310,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110667768027818458"
     ],
     "lastTootTimestamp": 1688656128566
+  },
+  "https://notes.brunopedro.com/2023/07/07/20230707100207/": {
+    "title": "2023-07-07T10:02:07+02:00",
+    "date_published": "2023-07-07T10:02:07+02:00",
+    "id": "https://notes.brunopedro.com/2023/07/07/20230707100207/",
+    "url": "https://notes.brunopedro.com/2023/07/07/20230707100207/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/07/07/20230707100207/\n\nFound at “Comparison with OpenAPI - Fern” on 2023-07-07 10:02:07 +02:00. We built Fern from first principles to ensure that we always generate idimoatic code. There are a number of footguns in OpenAPI: if you use them, it’s impossible to generate high-quality code.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110671758002272058"
+    ],
+    "lastTootTimestamp": 1688717010767
   }
 }
