@@ -4352,5 +4352,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110678589068143260"
     ],
     "lastTootTimestamp": 1688821244495
+  },
+  "https://notes.brunopedro.com/2023/07/08/20230708171309/": {
+    "title": "2023-07-08T17:13:09+02:00",
+    "date_published": "2023-07-08T17:13:09+02:00",
+    "id": "https://notes.brunopedro.com/2023/07/08/20230708171309/",
+    "url": "https://notes.brunopedro.com/2023/07/08/20230708171309/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/07/08/20230708171309/\n\nWithin a product development project, prototypes are used for four purposes: learning, communication, integration, and milestones.—Product Design and Development, Karl T. Ulrich and Steven D. Eppinger",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110679122042763527"
+    ],
+    "lastTootTimestamp": 1688829377014
   }
 }
