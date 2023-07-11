@@ -4380,5 +4380,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110686047418461053"
     ],
     "lastTootTimestamp": 1688935049908
+  },
+  "https://notes.brunopedro.com/2023/07/11/20230711112624/": {
+    "title": "2023-07-11T11:26:24+02:00",
+    "date_published": "2023-07-11T11:26:24+02:00",
+    "id": "https://notes.brunopedro.com/2023/07/11/20230711112624/",
+    "url": "https://notes.brunopedro.com/2023/07/11/20230711112624/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/07/11/20230711112624/\n\nFound at “Invisible Details of Interaction Design” on 2023-07-11 11:26:24 +02:00. an observation on the invisible details of a few interactions that I use often but rarely think about. Besides recreating interfaces, I found this exercise in reflection to be another great way to build a stronger design intuition and vocabulary.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110694739289043573"
+    ],
+    "lastTootTimestamp": 1689067677287
   }
 }
