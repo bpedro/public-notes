@@ -4394,5 +4394,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110694739289043573"
     ],
     "lastTootTimestamp": 1689067677287
+  },
+  "https://notes.brunopedro.com/2023/07/12/20230712161336/": {
+    "title": "2023-07-12T16:13:36+02:00",
+    "date_published": "2023-07-12T16:13:36+02:00",
+    "id": "https://notes.brunopedro.com/2023/07/12/20230712161336/",
+    "url": "https://notes.brunopedro.com/2023/07/12/20230712161336/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/07/12/20230712161336/\n\nFound at “Docker Compose Specification” on 2023-07-12 16:13:36 +02:00. The Compose Specification is a developer-focused standard for defining cloud and platform agnostic container-based applications.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110701532099551764"
+    ],
+    "lastTootTimestamp": 1689171327378
   }
 }
