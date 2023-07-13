@@ -4422,5 +4422,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110705700349311937"
     ],
     "lastTootTimestamp": 1689234930003
+  },
+  "https://notes.brunopedro.com/2023/07/13/20230713111525/": {
+    "title": "2023-07-13T11:15:25+02:00",
+    "date_published": "2023-07-13T11:15:25+02:00",
+    "id": "https://notes.brunopedro.com/2023/07/13/20230713111525/",
+    "url": "https://notes.brunopedro.com/2023/07/13/20230713111525/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/07/13/20230713111525/\n\nFound at “a16z-infracompanion-app: AI companions with memory: a lightweight stack to create and host your own AI companions” on 2023-07-13 11:15:25 +02:00. This is a tutorial stack to create and host AI companions that you can chat with on a browser or text via SMS.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110706020370482158"
+    ],
+    "lastTootTimestamp": 1689239812981
   }
 }
