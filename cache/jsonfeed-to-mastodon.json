@@ -4408,5 +4408,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110701532099551764"
     ],
     "lastTootTimestamp": 1689171327378
+  },
+  "https://notes.brunopedro.com/2023/07/13/20230713095407/": {
+    "title": "2023-07-13T09:54:07+02:00",
+    "date_published": "2023-07-13T09:54:07+02:00",
+    "id": "https://notes.brunopedro.com/2023/07/13/20230713095407/",
+    "url": "https://notes.brunopedro.com/2023/07/13/20230713095407/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/07/13/20230713095407/\n\nFound at “sivaprasadreddytomato-architecture: Tomato Architecture - A common sense driven approach to software architecture” on 2023-07-13 09:54:07 +02:00. Tomato Architecture is an approach to software architecture following Common Sense Manifesto",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110705700349311937"
+    ],
+    "lastTootTimestamp": 1689234930003
   }
 }
