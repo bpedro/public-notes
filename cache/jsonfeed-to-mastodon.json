@@ -4436,5 +4436,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110706020370482158"
     ],
     "lastTootTimestamp": 1689239812981
+  },
+  "https://notes.brunopedro.com/2023/07/14/20230714094630/": {
+    "title": "2023-07-14T09:46:30+02:00",
+    "date_published": "2023-07-14T09:46:30+02:00",
+    "id": "https://notes.brunopedro.com/2023/07/14/20230714094630/",
+    "url": "https://notes.brunopedro.com/2023/07/14/20230714094630/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/07/14/20230714094630/\n\n Found at “Benefit Layers: How to avoid sales fluff in devtools” on 2023-07-14 09:46:30 +02:00. similar to a Five Why analysis, with each layer looking at the wider benefit of the one above\nFeatures vs. Benefits for Dev Tools. Each of the layers has an increased level of abstraction, away from the feature. ",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110711348299602241"
+    ],
+    "lastTootTimestamp": 1689321110708
   }
 }
