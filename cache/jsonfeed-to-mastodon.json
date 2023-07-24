@@ -4464,5 +4464,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110724336307912515"
     ],
     "lastTootTimestamp": 1689519292140
+  },
+  "https://notes.brunopedro.com/2023/07/24/20230724153303/": {
+    "title": "2023-07-24T15:33:03+02:00",
+    "date_published": "2023-07-24T15:33:03+02:00",
+    "id": "https://notes.brunopedro.com/2023/07/24/20230724153303/",
+    "url": "https://notes.brunopedro.com/2023/07/24/20230724153303/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/07/24/20230724153303/\n\nFound at “Web API Fuzz Testing | GitLab” on 2023-07-24 15:33:03 +02:00. Web API fuzzing performs fuzz testing of API operation parameters. Fuzz testing sets operation parameters to unexpected values in an effort to cause unexpected behavior and errors in the API backend.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110769320289070910"
+    ],
+    "lastTootTimestamp": 1690205693060
   }
 }
