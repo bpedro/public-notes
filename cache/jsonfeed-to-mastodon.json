@@ -4478,5 +4478,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110769320289070910"
     ],
     "lastTootTimestamp": 1690205693060
+  },
+  "https://notes.brunopedro.com/2023/07/26/20230726152534/": {
+    "title": "2023-07-26T15:25:34+02:00",
+    "date_published": "2023-07-26T15:25:34+02:00",
+    "id": "https://notes.brunopedro.com/2023/07/26/20230726152534/",
+    "url": "https://notes.brunopedro.com/2023/07/26/20230726152534/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/07/26/20230726152534/\n\nFound at “PRQLprql: PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement” on 2023-07-26 15:25:34 +02:00. PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110780615499874432"
+    ],
+    "lastTootTimestamp": 1690378044356
   }
 }
