@@ -4506,5 +4506,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110849111037220337"
     ],
     "lastTootTimestamp": 1691423203297
+  },
+  "https://notes.brunopedro.com/2023/08/07/20230807174640/": {
+    "title": "2023-08-07T17:46:40+02:00",
+    "date_published": "2023-08-07T17:46:40+02:00",
+    "id": "https://notes.brunopedro.com/2023/08/07/20230807174640/",
+    "url": "https://notes.brunopedro.com/2023/08/07/20230807174640/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/08/07/20230807174640/\n\nWorking less made me more productive",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110849131197232014"
+    ],
+    "lastTootTimestamp": 1691423510834
   }
 }
