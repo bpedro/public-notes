@@ -4492,5 +4492,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110780615499874432"
     ],
     "lastTootTimestamp": 1690378044356
+  },
+  "https://notes.brunopedro.com/2023/08/07/20230807174514/": {
+    "title": "2023-08-07T17:45:14+02:00",
+    "date_published": "2023-08-07T17:45:14+02:00",
+    "id": "https://notes.brunopedro.com/2023/08/07/20230807174514/",
+    "url": "https://notes.brunopedro.com/2023/08/07/20230807174514/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/08/07/20230807174514/\n\nFound at “Edsger Dijkstra’s One-Day Workweek - Cal Newport” on 2023-08-07 17:45:14 +02:00. Busyness is not the engine of production. It can, in many cases, instead be the obstacle to accomplishing your best work.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110849111037220337"
+    ],
+    "lastTootTimestamp": 1691423203297
   }
 }
