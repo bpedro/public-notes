@@ -4520,5 +4520,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110849131197232014"
     ],
     "lastTootTimestamp": 1691423510834
+  },
+  "https://notes.brunopedro.com/2023/08/11/20230811223823/": {
+    "title": "2023-08-11T22:38:23+02:00",
+    "date_published": "2023-08-11T22:38:23+02:00",
+    "id": "https://notes.brunopedro.com/2023/08/11/20230811223823/",
+    "url": "https://notes.brunopedro.com/2023/08/11/20230811223823/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/08/11/20230811223823/\n\nFound at “Why are API Product Managers Hard to Find?” on 2023-08-11 22:38:23 +02:00. API product management is a unique and nuanced form of software product management. Finding the right help that “speaks” API can be challenging but can significantly improve the likelihood of an API’s success.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110872913957412627"
+    ],
+    "lastTootTimestamp": 1691786407347
   }
 }
