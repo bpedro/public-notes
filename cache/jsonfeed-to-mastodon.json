@@ -4576,5 +4576,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110877573885210341"
     ],
     "lastTootTimestamp": 1691857511826
+  },
+  "https://notes.brunopedro.com/2023/08/14/20230814172643/": {
+    "title": "2023-08-14T17:26:43+02:00",
+    "date_published": "2023-08-14T17:26:43+02:00",
+    "id": "https://notes.brunopedro.com/2023/08/14/20230814172643/",
+    "url": "https://notes.brunopedro.com/2023/08/14/20230814172643/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/08/14/20230814172643/\n\nFound at “AddyOsmani.com - Write about what you learn. It pushes you to understand topics better.” on 2023-08-14 17:26:43 +02:00. Writing about what you learn is more than just a method of documentation; it’s a powerful tool for deepening understanding and revealing the gaps in one’s knowledge.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110888674245975116"
+    ],
+    "lastTootTimestamp": 1692026889921
   }
 }
