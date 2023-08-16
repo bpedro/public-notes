@@ -4590,5 +4590,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110888674245975116"
     ],
     "lastTootTimestamp": 1692026889921
+  },
+  "https://notes.brunopedro.com/2023/08/16/20230816150855/": {
+    "title": "2023-08-16T15:08:55+02:00",
+    "date_published": "2023-08-16T15:08:55+02:00",
+    "id": "https://notes.brunopedro.com/2023/08/16/20230816150855/",
+    "url": "https://notes.brunopedro.com/2023/08/16/20230816150855/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/08/16/20230816150855/\n\nFound at “Introducing Zapier’s new Visual Editor” on 2023-08-16 15:08:55 +02:00. You’ve built fantastic workflows to run your businesses and keep raising the bar. To keep pace with your innovations, we designed the new editor to be more intuitive and help you build advanced automations even faster.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110899457543322645"
+    ],
+    "lastTootTimestamp": 1692191430075
   }
 }
