@@ -4604,5 +4604,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110899457543322645"
     ],
     "lastTootTimestamp": 1692191430075
+  },
+  "https://notes.brunopedro.com/2023/08/17/20230817175754/": {
+    "title": "2023-08-17T17:57:54+02:00",
+    "date_published": "2023-08-17T17:57:54+02:00",
+    "id": "https://notes.brunopedro.com/2023/08/17/20230817175754/",
+    "url": "https://notes.brunopedro.com/2023/08/17/20230817175754/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/08/17/20230817175754/\n\nFound at “Developing on Remote Machines using SSH and Visual Studio Code” on 2023-08-17 17:57:54 +02:00. The Visual Studio Code Remote - SSH extension allows you to open a remote folder on any remote machine, virtual machine, or container with a running SSH server and take full advantage of VS Code’s feature set.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110905784061193054"
+    ],
+    "lastTootTimestamp": 1692287965004
   }
 }
