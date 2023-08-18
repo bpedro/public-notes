@@ -4618,5 +4618,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110905784061193054"
     ],
     "lastTootTimestamp": 1692287965004
+  },
+  "https://notes.brunopedro.com/2023/08/18/20230818174412/": {
+    "title": "2023-08-18T17:44:12+02:00",
+    "date_published": "2023-08-18T17:44:12+02:00",
+    "id": "https://notes.brunopedro.com/2023/08/18/20230818174412/",
+    "url": "https://notes.brunopedro.com/2023/08/18/20230818174412/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/08/18/20230818174412/\n\nFound at “An Introduction to Statistical Learning” on 2023-08-18 17:44:12 +02:00. An Introduction to Statistical Learning provides a broad and less technical treatment of key topics in statistical learning. This book is appropriate for anyone who wishes to use contemporary tools for data analysis.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110911393936693926"
+    ],
+    "lastTootTimestamp": 1692373564938
   }
 }
