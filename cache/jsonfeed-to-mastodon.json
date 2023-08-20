@@ -4632,5 +4632,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110911393936693926"
     ],
     "lastTootTimestamp": 1692373564938
+  },
+  "https://notes.brunopedro.com/2023/08/20/20230820160416/": {
+    "title": "2023-08-20T16:04:16+02:00",
+    "date_published": "2023-08-20T16:04:16+02:00",
+    "id": "https://notes.brunopedro.com/2023/08/20/20230820160416/",
+    "url": "https://notes.brunopedro.com/2023/08/20/20230820160416/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/08/20/20230820160416/\n\nHow immediacy plays in the process of creating art.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110922377430701346"
+    ],
+    "lastTootTimestamp": 1692541159720
   }
 }
