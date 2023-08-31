@@ -4716,5 +4716,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110978919006454149"
     ],
     "lastTootTimestamp": 1693403915684
+  },
+  "https://notes.brunopedro.com/2023/08/31/20230831152416/": {
+    "title": "Docker is 4 things",
+    "date_published": "2023-08-31T15:24:16+02:00",
+    "id": "https://notes.brunopedro.com/2023/08/31/20230831152416/",
+    "url": "https://notes.brunopedro.com/2023/08/31/20230831152416/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/08/31/20230831152416/\n\nWhen people evaluate Docker or make statements about “Docker,” they’re referring only to the Docker Engine.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110984455241554467"
+    ],
+    "lastTootTimestamp": 1693488392091
   }
 }
