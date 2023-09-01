@@ -436,10 +436,6 @@ label.marginnote-ind {
     label.marginnote-ind {
         display: inline;
     }
-    .sidenote,
-    .marginnote {
-        display: none;
-    }
     .margin-toggle:checked + .sidenote,
     .margin-toggle:checked + .marginnote {
         display: block;
