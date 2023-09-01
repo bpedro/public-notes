@@ -4744,5 +4744,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110984848052299703"
     ],
     "lastTootTimestamp": 1693494385919
+  },
+  "https://notes.brunopedro.com/2023/09/01/20230901095426/": {
+    "title": "2023-09-01T09:54:26+02:00",
+    "date_published": "2023-09-01T09:54:26+02:00",
+    "id": "https://notes.brunopedro.com/2023/09/01/20230901095426/",
+    "url": "https://notes.brunopedro.com/2023/09/01/20230901095426/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/09/01/20230901095426/\n\nFound at “Fine-tuning GPT-3.5-Turbo for Natural Language to SQL | by Mo Pourreza | Dataherald | Aug, 2023 | Medium” on 2023-09-01 09:54:26 +02:00. Allowing non-technical users to ask questions from a database has been a problem of interest in academia and industry for years.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/110988824807468501"
+    ],
+    "lastTootTimestamp": 1693555066312
   }
 }
