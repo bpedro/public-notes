@@ -4786,5 +4786,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/110997077060013592"
     ],
     "lastTootTimestamp": 1693680985719
+  },
+  "https://notes.brunopedro.com/2023/09/03/20230903153427/": {
+    "title": "2023-09-03T15:34:27+02:00",
+    "date_published": "2023-09-03T15:34:27+02:00",
+    "id": "https://notes.brunopedro.com/2023/09/03/20230903153427/",
+    "url": "https://notes.brunopedro.com/2023/09/03/20230903153427/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/09/03/20230903153427/\n\nFound at “LoraPaper Is a Connected ePaper Device That Runs Entirely on Light - Hackster.io” on 2023-09-03 15:34:27 +02:00. LoraPaper is an E Ink unit that connects to the Internet, displays information, and only requires ambient light to function.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111001481281183914"
+    ],
+    "lastTootTimestamp": 1693748188772
   }
 }
