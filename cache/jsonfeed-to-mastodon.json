@@ -4800,5 +4800,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111001481281183914"
     ],
     "lastTootTimestamp": 1693748188772
+  },
+  "https://notes.brunopedro.com/2023/09/04/20230904173554/": {
+    "title": "2023-09-04T17:35:54+02:00",
+    "date_published": "2023-09-04T17:35:54+02:00",
+    "id": "https://notes.brunopedro.com/2023/09/04/20230904173554/",
+    "url": "https://notes.brunopedro.com/2023/09/04/20230904173554/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/09/04/20230904173554/\n\nFound at “URI Template Router: Introduction” on 2023-09-04 17:35:54 +02:00. URI Template Router supports expansion for of the features of RFC 6570 URI templates, and pattern matching for most of the features that are reversible.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111007619788373613"
+    ],
+    "lastTootTimestamp": 1693841854878
   }
 }
