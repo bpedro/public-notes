@@ -4870,5 +4870,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111012027249938288"
     ],
     "lastTootTimestamp": 1693909107566
+  },
+  "https://notes.brunopedro.com/2023/09/05/20230905125041/": {
+    "title": "2023-09-05T12:50:41+02:00",
+    "date_published": "2023-09-05T12:50:41+02:00",
+    "id": "https://notes.brunopedro.com/2023/09/05/20230905125041/",
+    "url": "https://notes.brunopedro.com/2023/09/05/20230905125041/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/09/05/20230905125041/\n\nFound at “keephqkeep: The open-source alerts management and automation platform” on 2023-09-05 12:50:41 +02:00. Keep makes it easy to consolidate all your alerts into a single pane of glass and to orchestrate workflows to automate your end-to-end processes.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111012161023099965"
+    ],
+    "lastTootTimestamp": 1693911148592
   }
 }
