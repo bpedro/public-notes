@@ -4912,5 +4912,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111017535689902688"
     ],
     "lastTootTimestamp": 1693993159587
+  },
+  "https://notes.brunopedro.com/2023/09/06/20230906114148/": {
+    "title": "2023-09-06T11:41:48+02:00",
+    "date_published": "2023-09-06T11:41:48+02:00",
+    "id": "https://notes.brunopedro.com/2023/09/06/20230906114148/",
+    "url": "https://notes.brunopedro.com/2023/09/06/20230906114148/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/09/06/20230906114148/\n\nInteroperability being interrupted explains “Why are tech companies bad when they used to be good?” It’s because the users can’t leave.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111017558345488254"
+    ],
+    "lastTootTimestamp": 1693993505380
   }
 }
