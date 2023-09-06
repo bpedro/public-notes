@@ -4884,5 +4884,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111012161023099965"
     ],
     "lastTootTimestamp": 1693911148592
+  },
+  "https://notes.brunopedro.com/2023/09/06/20230906103448/": {
+    "title": "DX, VX, or API UX?",
+    "date_published": "2023-09-06T10:34:48+02:00",
+    "id": "https://notes.brunopedro.com/2023/09/06/20230906103448/",
+    "url": "https://notes.brunopedro.com/2023/09/06/20230906103448/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/09/06/20230906103448/\n\nDX, VX, or API UX? Which one is more important?",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111017298063218341"
+    ],
+    "lastTootTimestamp": 1693989533693
   }
 }
