@@ -4940,5 +4940,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111023073229956350"
     ],
     "lastTootTimestamp": 1694077655676
+  },
+  "https://notes.brunopedro.com/2023/09/07/20230907150635/": {
+    "title": "Platform business",
+    "date_published": "2023-09-07T15:06:35+02:00",
+    "id": "https://notes.brunopedro.com/2023/09/07/20230907150635/",
+    "url": "https://notes.brunopedro.com/2023/09/07/20230907150635/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/09/07/20230907150635/\n\nHow can you create a platform business by enabling a two-sided market?",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111024026206742482"
+    ],
+    "lastTootTimestamp": 1694092197076
   }
 }
