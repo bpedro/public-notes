@@ -4926,5 +4926,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111017558345488254"
     ],
     "lastTootTimestamp": 1693993505380
+  },
+  "https://notes.brunopedro.com/2023/09/07/20230907110329/": {
+    "title": "2023-09-07T11:03:29+02:00",
+    "date_published": "2023-09-07T11:03:29+02:00",
+    "id": "https://notes.brunopedro.com/2023/09/07/20230907110329/",
+    "url": "https://notes.brunopedro.com/2023/09/07/20230907110329/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/09/07/20230907110329/\n\nNew LoRa world record is now 1336 km / 830 mi.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111023073229956350"
+    ],
+    "lastTootTimestamp": 1694077655676
   }
 }
