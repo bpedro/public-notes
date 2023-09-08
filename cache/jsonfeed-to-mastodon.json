@@ -4954,5 +4954,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111024026206742482"
     ],
     "lastTootTimestamp": 1694092197076
+  },
+  "https://notes.brunopedro.com/2023/09/08/20230908144102/": {
+    "title": "Increasing API retention",
+    "date_published": "2023-09-08T14:41:02+02:00",
+    "id": "https://notes.brunopedro.com/2023/09/08/20230908144102/",
+    "url": "https://notes.brunopedro.com/2023/09/08/20230908144102/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/09/08/20230908144102/\n\nWhat increases the retention of users consuming your API?",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111029584015351615"
+    ],
+    "lastTootTimestamp": 1694177002466
   }
 }
