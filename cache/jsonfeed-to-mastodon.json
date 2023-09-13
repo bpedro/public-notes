@@ -4996,5 +4996,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111041775957540751"
     ],
     "lastTootTimestamp": 1694363036713
+  },
+  "https://notes.brunopedro.com/2023/09/13/20230913192626/": {
+    "title": "2023-09-13T19:26:26+02:00",
+    "date_published": "2023-09-13T19:26:26+02:00",
+    "id": "https://notes.brunopedro.com/2023/09/13/20230913192626/",
+    "url": "https://notes.brunopedro.com/2023/09/13/20230913192626/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/09/13/20230913192626/\n\nFound at “Quick insights using sqlelf | Farid Zakaria’s Blog” on 2023-09-13 19:26:26 +02:00. Declarative languages, such as SQL, are such a wonderful abstraction to articulate over data layouts and let you reason about what you want rather than how to get it.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111059016102063310"
+    ],
+    "lastTootTimestamp": 1694626100354
   }
 }
