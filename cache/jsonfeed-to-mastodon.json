@@ -5010,5 +5010,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111059016102063310"
     ],
     "lastTootTimestamp": 1694626100354
+  },
+  "https://notes.brunopedro.com/2023/09/14/20230914144018/": {
+    "title": "API AARRR funnel",
+    "date_published": "2023-09-14T14:40:18+02:00",
+    "id": "https://notes.brunopedro.com/2023/09/14/20230914144018/",
+    "url": "https://notes.brunopedro.com/2023/09/14/20230914144018/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/09/14/20230914144018/\n\nDX is just part of the story when it comes to managing an API product.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111063571548809196"
+    ],
+    "lastTootTimestamp": 1694695610969
   }
 }
