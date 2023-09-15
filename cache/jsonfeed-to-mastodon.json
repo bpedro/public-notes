@@ -5024,5 +5024,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111063571548809196"
     ],
     "lastTootTimestamp": 1694695610969
+  },
+  "https://notes.brunopedro.com/2023/09/15/20230915152947/": {
+    "title": "2023-09-15T15:29:47+02:00",
+    "date_published": "2023-09-15T15:29:47+02:00",
+    "id": "https://notes.brunopedro.com/2023/09/15/20230915152947/",
+    "url": "https://notes.brunopedro.com/2023/09/15/20230915152947/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/09/15/20230915152947/\n\nFound at “The mathematical reason why agencies get stuck at $50k MRR – Jakob Greenfeld – Experiments in Permissionless Entrepreneurship” on 2023-09-15 15:29:47 +02:00. Every agency gets stuck around $50k in monthly revenue. Hardly anyone ever breaks through that barrier and reaches that next level where the agency generates reliably $300k+ in monthly revenue.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111069417823890414"
+    ],
+    "lastTootTimestamp": 1694784818047
   }
 }
