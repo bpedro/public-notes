@@ -5038,5 +5038,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111069417823890414"
     ],
     "lastTootTimestamp": 1694784818047
+  },
+  "https://notes.brunopedro.com/2023/09/16/20230916185041/": {
+    "title": "2023-09-16T18:50:41+02:00",
+    "date_published": "2023-09-16T18:50:41+02:00",
+    "id": "https://notes.brunopedro.com/2023/09/16/20230916185041/",
+    "url": "https://notes.brunopedro.com/2023/09/16/20230916185041/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/09/16/20230916185041/\n\nFound at “A Different Type of SQL Recursion with PostgreSQL · vb-consultingblog · Discussion #1” on 2023-09-16 18:50:41 +02:00. PostgreSQL offers a powerful procedural programming model out of the box (in addition to the standard SQL).",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111075860786196823"
+    ],
+    "lastTootTimestamp": 1694883129866
   }
 }
