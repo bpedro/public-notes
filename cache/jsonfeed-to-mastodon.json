@@ -5080,5 +5080,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111085604930332491"
     ],
     "lastTootTimestamp": 1695031813718
+  },
+  "https://notes.brunopedro.com/2023/09/18/20230918155430/": {
+    "title": "Finding product and engineering alignment in highly technical companies",
+    "date_published": "2023-09-18T15:54:30+02:00",
+    "id": "https://notes.brunopedro.com/2023/09/18/20230918155430/",
+    "url": "https://notes.brunopedro.com/2023/09/18/20230918155430/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/09/18/20230918155430/\n\nFinding product and engineering alignment in highly technical companies",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111086497405494819"
+    ],
+    "lastTootTimestamp": 1695045431855
   }
 }
