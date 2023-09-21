@@ -5108,5 +5108,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111098289082985236"
     ],
     "lastTootTimestamp": 1695225358545
+  },
+  "https://notes.brunopedro.com/2023/09/21/20230921114728/": {
+    "title": "2023-09-21T11:47:28+02:00",
+    "date_published": "2023-09-21T11:47:28+02:00",
+    "id": "https://notes.brunopedro.com/2023/09/21/20230921114728/",
+    "url": "https://notes.brunopedro.com/2023/09/21/20230921114728/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/09/21/20230921114728/\n\nFound at “Grouping digits in SQL | Peter Eisentraut” on 2023-09-21 11:47:28 +02:00. One of the minor new features in PostgreSQL 16 that I am excited about is the ability to group digits in numeric literals by separating them with underscores",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111102508490038492"
+    ],
+    "lastTootTimestamp": 1695289741556
   }
 }
