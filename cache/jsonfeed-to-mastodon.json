@@ -5192,5 +5192,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111130291570201972"
     ],
     "lastTootTimestamp": 1695713677783
+  },
+  "https://notes.brunopedro.com/2023/09/26/20230926105917/": {
+    "title": "2023-09-26T10:59:17+02:00",
+    "date_published": "2023-09-26T10:59:17+02:00",
+    "id": "https://notes.brunopedro.com/2023/09/26/20230926105917/",
+    "url": "https://notes.brunopedro.com/2023/09/26/20230926105917/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/09/26/20230926105917/\n\nFound at “DataPrime Query Language - Coralogix” on 2023-09-26 10:59:17 +02:00. DataPrime is Coralogix’s next-generation query and data discovery language. It’s a piped language that provides users with a simple yet powerful way to describe event transformations and aggregations.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111130630528533598"
+    ],
+    "lastTootTimestamp": 1695718849801
   }
 }
