@@ -5220,5 +5220,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111131771015099252"
     ],
     "lastTootTimestamp": 1695736252188
+  },
+  "https://notes.brunopedro.com/2023/09/27/20230927192857/": {
+    "title": "2023-09-27T19:28:57+02:00",
+    "date_published": "2023-09-27T19:28:57+02:00",
+    "id": "https://notes.brunopedro.com/2023/09/27/20230927192857/",
+    "url": "https://notes.brunopedro.com/2023/09/27/20230927192857/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/09/27/20230927192857/\n\nFound at “Announcing ‘Be My AI,’ Soon Available for Hundreds of Thousands of Be My Eyes Users” on 2023-09-27 19:28:57 +02:00. Our mission is to make the world more accessible for people who are blind or have low vision, which is why, seven months ago, our team began working with the blind community to incorporate AI into the existing Be My Eyes platform.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111138298253880799"
+    ],
+    "lastTootTimestamp": 1695835850037
   }
 }
