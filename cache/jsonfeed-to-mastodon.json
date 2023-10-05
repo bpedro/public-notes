@@ -5276,5 +5276,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111170131432252590"
     ],
     "lastTootTimestamp": 1696321585781
+  },
+  "https://notes.brunopedro.com/2023/10/05/20231005105740/": {
+    "title": "2023-10-05T10:57:40+02:00",
+    "date_published": "2023-10-05T10:57:40+02:00",
+    "id": "https://notes.brunopedro.com/2023/10/05/20231005105740/",
+    "url": "https://notes.brunopedro.com/2023/10/05/20231005105740/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/10/05/20231005105740/\n\nFound at “Intercom on Product: Product strategy in the age of AI - The Intercom Blog” on 2023-10-05 10:57:40 +02:00. As new AI-native startups and industry giants navigate the AI revolution, the product landscape is undergoing a profound transformation.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111181585799179493"
+    ],
+    "lastTootTimestamp": 1696496365579
   }
 }
