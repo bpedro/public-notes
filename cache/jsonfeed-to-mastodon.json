@@ -5318,5 +5318,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111194581101346416"
     ],
     "lastTootTimestamp": 1696694658150
+  },
+  "https://notes.brunopedro.com/2023/10/08/20231008155813/": {
+    "title": "Single-feature API",
+    "date_published": "2023-10-08T15:58:13+02:00",
+    "id": "https://notes.brunopedro.com/2023/10/08/20231008155813/",
+    "url": "https://notes.brunopedro.com/2023/10/08/20231008155813/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/10/08/20231008155813/\n\nA single-feature API offers a unique value proposition.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111199762905930553"
+    ],
+    "lastTootTimestamp": 1696773726124
   }
 }
