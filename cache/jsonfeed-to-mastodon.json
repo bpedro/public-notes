@@ -5332,5 +5332,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111199762905930553"
     ],
     "lastTootTimestamp": 1696773726124
+  },
+  "https://notes.brunopedro.com/2023/10/09/20231009100701/": {
+    "title": "Skills of an API product manager",
+    "date_published": "2023-10-09T10:07:01+02:00",
+    "id": "https://notes.brunopedro.com/2023/10/09/20231009100701/",
+    "url": "https://notes.brunopedro.com/2023/10/09/20231009100701/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/10/09/20231009100701/\n\nShould API Product Managers be tech-savvy or business-focused?",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111204075779207081"
+    ],
+    "lastTootTimestamp": 1696839535396
   }
 }
