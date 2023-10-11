@@ -5346,5 +5346,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111204075779207081"
     ],
     "lastTootTimestamp": 1696839535396
+  },
+  "https://notes.brunopedro.com/2023/10/11/20231011173851/": {
+    "title": "API Product Discovery calls",
+    "date_published": "2023-10-11T17:38:51+02:00",
+    "id": "https://notes.brunopedro.com/2023/10/11/20231011173851/",
+    "url": "https://notes.brunopedro.com/2023/10/11/20231011173851/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/10/11/20231011173851/\n\nProduct discovery calls are a crucial part of a successful API.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111217140857430618"
+    ],
+    "lastTootTimestamp": 1697038892646
   }
 }
