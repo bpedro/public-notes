@@ -5426,7 +5426,10 @@
       "name": "Bruno Pedro"
     },
     "content_text": "https://notes.brunopedro.com/2023/10/18/20231018214956/\n\nFound at “Launch HN: Pier (YC W23) – Stripe for Credit | Hacker News” on 2023-10-18 21:49:56 +02:00. Pier is an API for launching credit products. We enable any company to offer credit by handling origination, underwriting, compliance and servicing with just a few lines of code.",
-    "toots": []
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111285407029090081"
+    ],
+    "lastTootTimestamp": 1698080551760
   },
   "https://notes.brunopedro.com/2023/10/20/20231020171103/": {
     "title": "Choosing between HTTP 403 and 404",
@@ -5441,5 +5444,16 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111268009079369150"
     ],
     "lastTootTimestamp": 1697815080178
+  },
+  "https://notes.brunopedro.com/2023/10/23/20231023185854/": {
+    "title": "APIs as the engine of intent-based UIs",
+    "date_published": "2023-10-23T18:58:54+02:00",
+    "id": "https://notes.brunopedro.com/2023/10/23/20231023185854/",
+    "url": "https://notes.brunopedro.com/2023/10/23/20231023185854/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/10/23/20231023185854/\n\nAPIs as the engine of intent-based UIs.",
+    "toots": []
   }
 }
