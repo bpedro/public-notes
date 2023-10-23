@@ -5454,6 +5454,20 @@
       "name": "Bruno Pedro"
     },
     "content_text": "https://notes.brunopedro.com/2023/10/23/20231023185854/\n\nAPIs as the engine of intent-based UIs.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111285426773851872"
+    ],
+    "lastTootTimestamp": 1698080853015
+  },
+  "https://notes.brunopedro.com/2023/10/23/20231023190552/": {
+    "title": "2023-10-23T19:05:52+02:00",
+    "date_published": "2023-10-23T19:05:52+02:00",
+    "id": "https://notes.brunopedro.com/2023/10/23/20231023190552/",
+    "url": "https://notes.brunopedro.com/2023/10/23/20231023190552/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/10/23/20231023190552/\n\nFound at “Software disenchantment @ tonsky.me” on 2023-10-23 19:05:52 +02:00. Only in software, it’s fine if a program runs at 1% or even 0.01% of the possible performance. Everybody just seems to be ok with it. People are often even proud about how inefficient it is",
     "toots": []
   }
 }
