@@ -5468,6 +5468,20 @@
       "name": "Bruno Pedro"
     },
     "content_text": "https://notes.brunopedro.com/2023/10/23/20231023190552/\n\nFound at “Software disenchantment @ tonsky.me” on 2023-10-23 19:05:52 +02:00. Only in software, it’s fine if a program runs at 1% or even 0.01% of the possible performance. Everybody just seems to be ok with it. People are often even proud about how inefficient it is",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111289263422993416"
+    ],
+    "lastTootTimestamp": 1698139395678
+  },
+  "https://notes.brunopedro.com/2023/10/24/20231024112128/": {
+    "title": "2023-10-24T11:21:28+02:00",
+    "date_published": "2023-10-24T11:21:28+02:00",
+    "id": "https://notes.brunopedro.com/2023/10/24/20231024112128/",
+    "url": "https://notes.brunopedro.com/2023/10/24/20231024112128/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/10/24/20231024112128/\n\nFound at “Writerside - a new technical writing environment from JetBrains.” on 2023-10-24 11:21:28 +02:00. Use a single authoring environment – eliminating the need for a wide array of tools. With the built-in Git UI, an integrated build tool, automated tests, and a ready-to-use and customizable layout, you can focus on what matters most – your content.",
     "toots": []
   }
 }
