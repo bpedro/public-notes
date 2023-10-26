@@ -5524,6 +5524,20 @@
       "name": "Bruno Pedro"
     },
     "content_text": "https://notes.brunopedro.com/2023/10/26/20231026161754/\n\nCan AI be the spark of non-technical API Design?",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111302208488668955"
+    ],
+    "lastTootTimestamp": 1698336921652
+  },
+  "https://notes.brunopedro.com/2023/10/26/20231026181337/": {
+    "title": "2023-10-26T18:13:37+02:00",
+    "date_published": "2023-10-26T18:13:37+02:00",
+    "id": "https://notes.brunopedro.com/2023/10/26/20231026181337/",
+    "url": "https://notes.brunopedro.com/2023/10/26/20231026181337/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/10/26/20231026181337/\n\nFound at “instant-devapi: Build type-safe web APIs with JavaScript, instantly” on 2023-10-26 18:13:37 +02:00. Instant API is a framework for building APIs with JavaScript that implements type-safety at the HTTP interface.",
     "toots": []
   }
 }
