@@ -5586,7 +5586,7 @@
     "lastTootTimestamp": 1699009141635
   },
   "https://notes.brunopedro.com/2023/11/08/20231108114201/": {
-    "title": "The power of an platform",
+    "title": "The power of a platform",
     "date_published": "2023-11-08T11:42:01+01:00",
     "id": "https://notes.brunopedro.com/2023/11/08/20231108114201/",
     "url": "https://notes.brunopedro.com/2023/11/08/20231108114201/",
@@ -5598,5 +5598,30 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111374560702523191"
     ],
     "lastTootTimestamp": 1699440928924
+  },
+  "https://notes.brunopedro.com/2023/11/08/20231108151937/": {
+    "title": "2023-11-08T15:19:37+01:00",
+    "date_published": "2023-11-08T15:19:37+01:00",
+    "id": "https://notes.brunopedro.com/2023/11/08/20231108151937/",
+    "url": "https://notes.brunopedro.com/2023/11/08/20231108151937/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/11/08/20231108151937/\n\nFound at “Chamberlain blocks smart garage door opener from working with smart homes | Ars Technica” on 2023-11-08 15:19:37 +01:00. Our immediate question is why would any garage opener company care about customers using its garage door opener. You sell garage door openers—isn’t usage the goal?",
+    "toots": []
+  },
+  "https://notes.brunopedro.com/2023/11/08/20231108151815/": {
+    "title": "2023-11-08T15:18:15+01:00",
+    "date_published": "2023-11-08T15:18:15+01:00",
+    "id": "https://notes.brunopedro.com/2023/11/08/20231108151815/",
+    "url": "https://notes.brunopedro.com/2023/11/08/20231108151815/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/11/08/20231108151815/\n\nFound at “Removal of MyQ integration - Home Assistant” on 2023-11-08 15:18:15 +01:00. MyQ integration will be removed from Home Assistant in the upcoming 2023.12 release on December 6, 2023",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111375371494354074"
+    ],
+    "lastTootTimestamp": 1699453300512
   }
 }
