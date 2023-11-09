@@ -5608,7 +5608,10 @@
       "name": "Bruno Pedro"
     },
     "content_text": "https://notes.brunopedro.com/2023/11/08/20231108151937/\n\nFound at “Chamberlain blocks smart garage door opener from working with smart homes | Ars Technica” on 2023-11-08 15:19:37 +01:00. Our immediate question is why would any garage opener company care about customers using its garage door opener. You sell garage door openers—isn’t usage the goal?",
-    "toots": []
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111380688173294876"
+    ],
+    "lastTootTimestamp": 1699534428072
   },
   "https://notes.brunopedro.com/2023/11/08/20231108151815/": {
     "title": "2023-11-08T15:18:15+01:00",
@@ -5623,5 +5626,16 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111375371494354074"
     ],
     "lastTootTimestamp": 1699453300512
+  },
+  "https://notes.brunopedro.com/2023/11/09/20231109135051/": {
+    "title": "How an API can increase the retention rate",
+    "date_published": "2023-11-09T13:50:51+01:00",
+    "id": "https://notes.brunopedro.com/2023/11/09/20231109135051/",
+    "url": "https://notes.brunopedro.com/2023/11/09/20231109135051/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/11/09/20231109135051/\n\nWhy is retention rate so important and how can an API help increase it?",
+    "toots": []
   }
 }
