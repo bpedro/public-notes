@@ -5696,5 +5696,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111414024829501126"
     ],
     "lastTootTimestamp": 1700043103844
+  },
+  "https://notes.brunopedro.com/2023/11/20/20231120094444/": {
+    "title": "2023-11-20T09:44:44+01:00",
+    "date_published": "2023-11-20T09:44:44+01:00",
+    "id": "https://notes.brunopedro.com/2023/11/20/20231120094444/",
+    "url": "https://notes.brunopedro.com/2023/11/20/20231120094444/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/11/20/20231120094444/\n\nFound at “<> htmx ~ Why I Tend Not To Use Content Negotiation” on 2023-11-20 09:44:44 +01:00. I prefer to split my JSON and hypermedia APIs up into separate controllers, rather than use HTTP content negotiation to attempt to reuse controllers for both.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111442000793515263"
+    ],
+    "lastTootTimestamp": 1700469983094
   }
 }
