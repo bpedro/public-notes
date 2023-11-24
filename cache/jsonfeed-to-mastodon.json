@@ -5710,5 +5710,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111442000793515263"
     ],
     "lastTootTimestamp": 1700469983094
+  },
+  "https://notes.brunopedro.com/2023/11/24/20231124181615/": {
+    "title": "2023-11-24T18:16:15+01:00",
+    "date_published": "2023-11-24T18:16:15+01:00",
+    "id": "https://notes.brunopedro.com/2023/11/24/20231124181615/",
+    "url": "https://notes.brunopedro.com/2023/11/24/20231124181615/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/11/24/20231124181615/\n\nFound at “The Failed Commodification Of Technical Work — Ludicity” on 2023-11-24 18:16:15 +01:00. You can try all you want to reduce the delivery of features to a Jira board and mumbling about Agile, but you’re not going to get anything worthwhile out of people if you can’t connect with them.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111466662112833177"
+    ],
+    "lastTootTimestamp": 1700846285128
   }
 }
