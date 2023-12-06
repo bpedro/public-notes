@@ -5738,5 +5738,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111479187987529771"
     ],
     "lastTootTimestamp": 1701037414519
+  },
+  "https://notes.brunopedro.com/2023/11/27/20231127161809/": {
+    "title": "2023-11-27T16:18:09+01:00",
+    "date_published": "2023-11-27T16:18:09+01:00",
+    "id": "https://notes.brunopedro.com/2023/11/27/20231127161809/",
+    "url": "https://notes.brunopedro.com/2023/11/27/20231127161809/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/11/27/20231127161809/\n\nFound at “ApiDOM Validator · Actions · GitHub Marketplace” on 2023-11-27 16:18:09 +01:00. This GitHub Action validates OpenAPI 3.x.y / AsyncAPI 2.x definition file using ApiDOM Language Service.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111483183940051317"
+    ],
+    "lastTootTimestamp": 1701098388022
   }
 }
