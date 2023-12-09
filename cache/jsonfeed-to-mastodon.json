@@ -5766,5 +5766,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111535794711917121"
     ],
     "lastTootTimestamp": 1701901164701
+  },
+  "https://notes.brunopedro.com/2023/12/09/20231209232050/": {
+    "title": "2023-12-09T23:20:50+01:00",
+    "date_published": "2023-12-09T23:20:50+01:00",
+    "id": "https://notes.brunopedro.com/2023/12/09/20231209232050/",
+    "url": "https://notes.brunopedro.com/2023/12/09/20231209232050/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/12/09/20231209232050/\n\nFound at “Five Elements of Good API Documentation - by Bruno Pedro” on 2023-12-09 23:20:50 +01:00. Writing good API documentation can be harder than building the API itself. Many people don’t think this way and don’t invest in learning how to write the best documentation for their API.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111552792050043462"
+    ],
+    "lastTootTimestamp": 1702160523422
   }
 }
