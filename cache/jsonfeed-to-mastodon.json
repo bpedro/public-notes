@@ -5780,5 +5780,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111552792050043462"
     ],
     "lastTootTimestamp": 1702160523422
+  },
+  "https://notes.brunopedro.com/2023/12/11/20231211121111/": {
+    "title": "2023-12-11T12:11:11+01:00",
+    "date_published": "2023-12-11T12:11:11+01:00",
+    "id": "https://notes.brunopedro.com/2023/12/11/20231211121111/",
+    "url": "https://notes.brunopedro.com/2023/12/11/20231211121111/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/12/11/20231211121111/\n\nFound at “User Interface Typography” on 2023-12-11 12:11:11 +01:00. This book is about how to do good user interface typography, from basic things and principles to building layout and various design elements.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111561484229975151"
+    ],
+    "lastTootTimestamp": 1702293155640
   }
 }
