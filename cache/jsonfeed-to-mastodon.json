@@ -5864,5 +5864,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111584883700692456"
     ],
     "lastTootTimestamp": 1702650203142
+  },
+  "https://notes.brunopedro.com/2023/12/15/20231215165530/": {
+    "title": "2023-12-15T16:55:30+01:00",
+    "date_published": "2023-12-15T16:55:30+01:00",
+    "id": "https://notes.brunopedro.com/2023/12/15/20231215165530/",
+    "url": "https://notes.brunopedro.com/2023/12/15/20231215165530/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/12/15/20231215165530/\n\nAfter ~100,000 words that translate to ~250 pages, I’m done with the writing of “Building an API Product.” The next steps include proofreading and reviewing before the book goes to the press.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111585275250925275"
+    ],
+    "lastTootTimestamp": 1702656177669
   }
 }
