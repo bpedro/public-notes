@@ -5850,5 +5850,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111579885456427769"
     ],
     "lastTootTimestamp": 1702573935928
+  },
+  "https://notes.brunopedro.com/2023/12/15/20231215152202/": {
+    "title": "2023-12-15T15:22:02+01:00",
+    "date_published": "2023-12-15T15:22:02+01:00",
+    "id": "https://notes.brunopedro.com/2023/12/15/20231215152202/",
+    "url": "https://notes.brunopedro.com/2023/12/15/20231215152202/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/12/15/20231215152202/\n\nFound at “Pipe Dreams: The life and times of Yahoo Pipes” on 2023-12-15 15:22:02 +01:00. Sadri built Pipes as a cloud-hosted service alongside just four other core team members. Users dragged and dropped elements in a web browser to roll their own information feeds, taking published items from websites in many formats",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111584883700692456"
+    ],
+    "lastTootTimestamp": 1702650203142
   }
 }
