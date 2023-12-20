@@ -5892,5 +5892,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111598372622140687"
     ],
     "lastTootTimestamp": 1702856027757
+  },
+  "https://notes.brunopedro.com/2023/12/20/20231220102619/": {
+    "title": "2023-12-20T10:26:19+01:00",
+    "date_published": "2023-12-20T10:26:19+01:00",
+    "id": "https://notes.brunopedro.com/2023/12/20/20231220102619/",
+    "url": "https://notes.brunopedro.com/2023/12/20/20231220102619/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/12/20/20231220102619/\n\nFound at “Good Product ManagerBad Product Manager | Andreessen Horowitz” on 2023-12-20 10:26:19 +01:00. Good product managers define good products that can be executed with a strong effort. Bad product managers define good products that can’t be executed",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111612037576385253"
+    ],
+    "lastTootTimestamp": 1703064538440
   }
 }
