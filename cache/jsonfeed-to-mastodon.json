@@ -5920,5 +5920,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111623401296784188"
     ],
     "lastTootTimestamp": 1703237935116
+  },
+  "https://notes.brunopedro.com/2023/12/22/20231222114343/": {
+    "title": "2023-12-22T11:43:43+01:00",
+    "date_published": "2023-12-22T11:43:43+01:00",
+    "id": "https://notes.brunopedro.com/2023/12/22/20231222114343/",
+    "url": "https://notes.brunopedro.com/2023/12/22/20231222114343/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/12/22/20231222114343/\n\nFound at “ZeroWriter | Hackaday.io” on 2023-12-22 11:43:43 +01:00. a portable writing computer that houses a 40% keyboard, e-ink display panel, and custom software designed for drafting",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111623662061849753"
+    ],
+    "lastTootTimestamp": 1703241913896
   }
 }
