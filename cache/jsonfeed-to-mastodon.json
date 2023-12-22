@@ -5906,5 +5906,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111612037576385253"
     ],
     "lastTootTimestamp": 1703064538440
+  },
+  "https://notes.brunopedro.com/2023/12/22/20231222103649/": {
+    "title": "2023-12-22T10:36:49+01:00",
+    "date_published": "2023-12-22T10:36:49+01:00",
+    "id": "https://notes.brunopedro.com/2023/12/22/20231222103649/",
+    "url": "https://notes.brunopedro.com/2023/12/22/20231222103649/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/12/22/20231222103649/\n\nFound at “Three Open-Source API Reference Alternatives” on 2023-12-22 10:36:49 +01:00. Whenever requesters accept a JSON response they’ll get an OpenAPI JSON document. Whenever they accept HTML they’ll get a human-readable OpenAPI reference",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111623401296784188"
+    ],
+    "lastTootTimestamp": 1703237935116
   }
 }
