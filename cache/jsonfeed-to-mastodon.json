@@ -5934,5 +5934,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111623662061849753"
     ],
     "lastTootTimestamp": 1703241913896
+  },
+  "https://notes.brunopedro.com/2023/12/25/20231225161245/": {
+    "title": "2023-12-25T16:12:45+01:00",
+    "date_published": "2023-12-25T16:12:45+01:00",
+    "id": "https://notes.brunopedro.com/2023/12/25/20231225161245/",
+    "url": "https://notes.brunopedro.com/2023/12/25/20231225161245/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/12/25/20231225161245/\n\nFound at “[1910.13461] BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension” on 2023-12-25 16:12:45 +01:00. BART is trained by (1) corrupting text with an arbitrary noising function, and (2) learning a model to reconstruct the original text. It uses a standard Tranformer-based neural machine translation architecture",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111641705991491389"
+    ],
+    "lastTootTimestamp": 1703517242591
   }
 }
