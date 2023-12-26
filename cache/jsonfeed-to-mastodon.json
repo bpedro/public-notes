@@ -5948,5 +5948,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111641705991491389"
     ],
     "lastTootTimestamp": 1703517242591
+  },
+  "https://notes.brunopedro.com/2023/12/26/20231226184130/": {
+    "title": "2023-12-26T18:41:30+01:00",
+    "date_published": "2023-12-26T18:41:30+01:00",
+    "id": "https://notes.brunopedro.com/2023/12/26/20231226184130/",
+    "url": "https://notes.brunopedro.com/2023/12/26/20231226184130/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/12/26/20231226184130/\n\nFound at “Slow Productivity: The Lost Art of Accomplishment Without Burnout: Newport, Cal: 9780593544853: Amazon.com: Books” on 2023-12-26 18:41:30 +01:00. Our current definition of “productivity” is broken. It pushes us to treat busyness as a proxy for useful effort",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111647954199295891"
+    ],
+    "lastTootTimestamp": 1703612582592
   }
 }
