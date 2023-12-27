@@ -5962,5 +5962,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111647954199295891"
     ],
     "lastTootTimestamp": 1703612582592
+  },
+  "https://notes.brunopedro.com/2023/12/27/20231227155323/": {
+    "title": "2023-12-27T15:53:23+01:00",
+    "date_published": "2023-12-27T15:53:23+01:00",
+    "id": "https://notes.brunopedro.com/2023/12/27/20231227155323/",
+    "url": "https://notes.brunopedro.com/2023/12/27/20231227155323/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/12/27/20231227155323/\n\nFound at “hrvachdeskhop: Fast Desktop Switching Device” on 2023-12-27 15:53:23 +01:00. All I wanted was a way to use a keyboard shortcut to quickly switch outputs, paired with the ability to do the same by magically moving the mouse pointer between monitors.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111652955891300330"
+    ],
+    "lastTootTimestamp": 1703688902544
   }
 }
