@@ -5976,5 +5976,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111652955891300330"
     ],
     "lastTootTimestamp": 1703688902544
+  },
+  "https://notes.brunopedro.com/2023/12/28/20231228190243/": {
+    "title": "Intent-based Programmatic Interfaces (IPIs)",
+    "date_published": "2023-12-28T19:02:43+01:00",
+    "id": "https://notes.brunopedro.com/2023/12/28/20231228190243/",
+    "url": "https://notes.brunopedro.com/2023/12/28/20231228190243/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2023/12/28/20231228190243/\n\nSuppose you want to implement a feature that sends an email message. Instead of picking an API and integrating it you’d “announce your intent” to send email messages. The intent can describe how many messages you want to send, the SLA, how much you’re willing to pay, etc. Providers can subscribe to your announcements and automatically bid to fulfill your needs. Once a provider finishes their job you’ll be programmatically notified.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111659366647474268"
+    ],
+    "lastTootTimestamp": 1703786722688
   }
 }
