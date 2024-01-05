@@ -6032,5 +6032,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111703656676111825"
     ],
     "lastTootTimestamp": 1704462534895
+  },
+  "https://notes.brunopedro.com/2024/01/05/20240105154507/": {
+    "title": "2024-01-05T15:45:07+01:00",
+    "date_published": "2024-01-05T15:45:07+01:00",
+    "id": "https://notes.brunopedro.com/2024/01/05/20240105154507/",
+    "url": "https://notes.brunopedro.com/2024/01/05/20240105154507/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/01/05/20240105154507/\n\nFound at “Concrete vs. Abstract API Examples - by Bruno Pedro” on 2024-01-05 15:45:07 +01:00. Some people prefer examples that are concrete while others find more value in abstract ones. Let’s look at how both styles are different.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111703884394457913"
+    ],
+    "lastTootTimestamp": 1704466009555
   }
 }
