@@ -6046,5 +6046,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111703884394457913"
     ],
     "lastTootTimestamp": 1704466009555
+  },
+  "https://notes.brunopedro.com/2024/01/09/definition-of-whole-product-in-the-context-of-apis/": {
+    "title": "2024-01-09T14:31:12+01:00",
+    "date_published": "2024-01-09T14:31:12+01:00",
+    "id": "https://notes.brunopedro.com/2024/01/09/definition-of-whole-product-in-the-context-of-apis/",
+    "url": "https://notes.brunopedro.com/2024/01/09/definition-of-whole-product-in-the-context-of-apis/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/01/09/definition-of-whole-product-in-the-context-of-apis/\n\nThe idea of a whole product is that a customer’s job-to-be-done can’t be delivered by a single generic product. Instead, it needs a combination of several generic products that form a whole product.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111726259387370347"
+    ],
+    "lastTootTimestamp": 1704807424931
   }
 }
