@@ -6060,5 +6060,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111726259387370347"
     ],
     "lastTootTimestamp": 1704807424931
+  },
+  "https://notes.brunopedro.com/2024/01/14/20240114153605/": {
+    "title": "2024-01-14T15:36:05+01:00",
+    "date_published": "2024-01-14T15:36:05+01:00",
+    "id": "https://notes.brunopedro.com/2024/01/14/20240114153605/",
+    "url": "https://notes.brunopedro.com/2024/01/14/20240114153605/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/01/14/20240114153605/\n\nFound at “Exposing Your API Should be Easy - by Bruno Pedro” on 2024-01-14 15:36:05 +01:00. If I could indicate to the API that the requests coming from the gateway are considered secure then I’d have my problem solved",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111754807721173268"
+    ],
+    "lastTootTimestamp": 1705243037958
   }
 }
