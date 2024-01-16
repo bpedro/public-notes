@@ -6074,5 +6074,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111754807721173268"
     ],
     "lastTootTimestamp": 1705243037958
+  },
+  "https://notes.brunopedro.com/2024/01/16/20240116104956/": {
+    "title": "2024-01-16T10:49:56+01:00",
+    "date_published": "2024-01-16T10:49:56+01:00",
+    "id": "https://notes.brunopedro.com/2024/01/16/20240116104956/",
+    "url": "https://notes.brunopedro.com/2024/01/16/20240116104956/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/01/16/20240116104956/\n\nFound at “Bluesky has launched RSS feeds - Open RSS” on 2024-01-16 10:49:56 +01:00. Hooray to Bluesky for releasing its new RSS feeds! Now anyone can now obtain an RSS feed for any Bluesky user.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111765007937650391"
+    ],
+    "lastTootTimestamp": 1705398680888
   }
 }
