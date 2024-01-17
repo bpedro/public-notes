@@ -6102,5 +6102,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111771834396360643"
     ],
     "lastTootTimestamp": 1705502844343
+  },
+  "https://notes.brunopedro.com/2024/01/17/20240117182304/": {
+    "title": "2024-01-17T18:23:04+01:00",
+    "date_published": "2024-01-17T18:23:04+01:00",
+    "id": "https://notes.brunopedro.com/2024/01/17/20240117182304/",
+    "url": "https://notes.brunopedro.com/2024/01/17/20240117182304/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/01/17/20240117182304/\n\nFound at “Who pays? | Seth’s Blog” on 2024-01-17 18:23:04 +01:00. The internet only arrived because DARPA and others kept it going for more than twenty years before it clicked.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111772452986678722"
+    ],
+    "lastTootTimestamp": 1705512283301
   }
 }
