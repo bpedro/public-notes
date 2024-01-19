@@ -6130,5 +6130,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111783509588232222"
     ],
     "lastTootTimestamp": 1705680993703
+  },
+  "https://notes.brunopedro.com/2024/01/19/20240119171533/": {
+    "title": "2024-01-19T17:15:33+01:00",
+    "date_published": "2024-01-19T17:15:33+01:00",
+    "id": "https://notes.brunopedro.com/2024/01/19/20240119171533/",
+    "url": "https://notes.brunopedro.com/2024/01/19/20240119171533/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/01/19/20240119171533/\n\nFound at “Why API Tutorials Matter - by Bruno Pedro” on 2024-01-19 17:15:33 +01:00. A tutorial is something consumers read when they’re experimenting with your API. The experimentation helps consumers understand if your API is what they need and a tutorial is one way to show them what’s possible and what’s not.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111783515271066025"
+    ],
+    "lastTootTimestamp": 1705681080346
   }
 }
