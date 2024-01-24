@@ -6144,5 +6144,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111783515271066025"
     ],
     "lastTootTimestamp": 1705681080346
+  },
+  "https://notes.brunopedro.com/2024/01/24/20240124171409/": {
+    "title": "2024-01-24T17:14:09+01:00",
+    "date_published": "2024-01-24T17:14:09+01:00",
+    "id": "https://notes.brunopedro.com/2024/01/24/20240124171409/",
+    "url": "https://notes.brunopedro.com/2024/01/24/20240124171409/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/01/24/20240124171409/\n\nFound at “Communications hygiene (and the demise of texting) | Seth’s Blog” on 2024-01-24 17:14:09 +01:00. I tried to coordinate the work around buying cheap stamps for email, so that the API might be slowed and focused a bit.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111811818151280476"
+    ],
+    "lastTootTimestamp": 1706112948141
   }
 }
