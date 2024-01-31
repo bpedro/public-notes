@@ -6214,5 +6214,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111851295034729603"
     ],
     "lastTootTimestamp": 1706715317542
+  },
+  "https://notes.brunopedro.com/2024/01/31/20240131163514/": {
+    "title": "2024-01-31T16:35:14+01:00",
+    "date_published": "2024-01-31T16:35:14+01:00",
+    "id": "https://notes.brunopedro.com/2024/01/31/20240131163514/",
+    "url": "https://notes.brunopedro.com/2024/01/31/20240131163514/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/01/31/20240131163514/\n\nFound at “ActivityPub support | GitLab” on 2024-01-31 16:35:14 +01:00. The end goal of this proposal is to build interoperability features into GitLab so that it’s possible on one instance of GitLab to open a merge request to a project hosted on an other instance",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111851301914716750"
+    ],
+    "lastTootTimestamp": 1706715422543
   }
 }
