@@ -6228,5 +6228,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111851301914716750"
     ],
     "lastTootTimestamp": 1706715422543
+  },
+  "https://notes.brunopedro.com/2024/02/06/20240206184519/": {
+    "title": "2024-02-06T18:45:19+01:00",
+    "date_published": "2024-02-06T18:45:19+01:00",
+    "id": "https://notes.brunopedro.com/2024/02/06/20240206184519/",
+    "url": "https://notes.brunopedro.com/2024/02/06/20240206184519/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/02/06/20240206184519/\n\nFound at “How to Choose the Best iPaaS for Your Business” on 2024-02-06 18:45:19 +01:00. With so many available iPaaS solutions, how do you know which one to pick? It’s not just a matter of technology choice. There are other factors to consider when choosing an iPaaS solution that aligns with your business strategy.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111885785994904818"
+    ],
+    "lastTootTimestamp": 1707241607795
   }
 }
