@@ -6256,5 +6256,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111900579488661133"
     ],
     "lastTootTimestamp": 1707467338859
+  },
+  "https://notes.brunopedro.com/2024/02/09/20240209142132/": {
+    "title": "2024-02-09T14:21:32+01:00",
+    "date_published": "2024-02-09T14:21:32+01:00",
+    "id": "https://notes.brunopedro.com/2024/02/09/20240209142132/",
+    "url": "https://notes.brunopedro.com/2024/02/09/20240209142132/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/02/09/20240209142132/\n\nFound at “What it was like working for GitLab” on 2024-02-09 14:21:32 +01:00. if I had instead lived in the Bay Area, I would’ve earned at least twice that amount, possibly even more.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111901740128924589"
+    ],
+    "lastTootTimestamp": 1707485048606
   }
 }
