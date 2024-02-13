@@ -6270,5 +6270,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111901740128924589"
     ],
     "lastTootTimestamp": 1707485048606
+  },
+  "https://notes.brunopedro.com/2024/02/13/20240213113051/": {
+    "title": "2024-02-13T11:30:51+01:00",
+    "date_published": "2024-02-13T11:30:51+01:00",
+    "id": "https://notes.brunopedro.com/2024/02/13/20240213113051/",
+    "url": "https://notes.brunopedro.com/2024/02/13/20240213113051/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/02/13/20240213113051/\n\nFound at “Command Line Interface Guidelines” on 2024-02-13 11:30:51 +01:00. An open-source guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111923713690024445"
+    ],
+    "lastTootTimestamp": 1707820338562
   }
 }
