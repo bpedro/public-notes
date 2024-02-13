@@ -6284,5 +6284,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111923713690024445"
     ],
     "lastTootTimestamp": 1707820338562
+  },
+  "https://notes.brunopedro.com/2024/02/13/20240213154105/": {
+    "title": "2024-02-13T15:41:05+01:00",
+    "date_published": "2024-02-13T15:41:05+01:00",
+    "id": "https://notes.brunopedro.com/2024/02/13/20240213154105/",
+    "url": "https://notes.brunopedro.com/2024/02/13/20240213154105/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/02/13/20240213154105/\n\nFound at “Non-code contributions are the secret to open source success” on 2024-02-13 15:41:05 +01:00. It’s difficult to overstate how important non-code contributions are to open source. “Even if you write an amazing program, no one will use it if you don’t explain what it does and how to use it,”",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/111924697398932146"
+    ],
+    "lastTootTimestamp": 1707835348645
   }
 }
