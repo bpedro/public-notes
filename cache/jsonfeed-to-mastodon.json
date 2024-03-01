@@ -6340,5 +6340,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/111987575638340855"
     ],
     "lastTootTimestamp": 1708794794468
+  },
+  "https://notes.brunopedro.com/2024/03/01/20240301110138/": {
+    "title": "2024-03-01T11:01:38+01:00",
+    "date_published": "2024-03-01T11:01:38+01:00",
+    "id": "https://notes.brunopedro.com/2024/03/01/20240301110138/",
+    "url": "https://notes.brunopedro.com/2024/03/01/20240301110138/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/03/01/20240301110138/\n\nFeature degradation can be used to prevent overload",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112019861932093653"
+    ],
+    "lastTootTimestamp": 1709287444210
   }
 }
