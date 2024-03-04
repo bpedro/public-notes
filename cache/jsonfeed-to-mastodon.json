@@ -6368,5 +6368,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112032399064188601"
     ],
     "lastTootTimestamp": 1709478745661
+  },
+  "https://notes.brunopedro.com/2024/03/04/20240304152322/": {
+    "title": "2024-03-04T15:23:22+01:00",
+    "date_published": "2024-03-04T15:23:22+01:00",
+    "id": "https://notes.brunopedro.com/2024/03/04/20240304152322/",
+    "url": "https://notes.brunopedro.com/2024/03/04/20240304152322/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/03/04/20240304152322/\n\nMost people end up being Product Managers by accident",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112037918429609128"
+    ],
+    "lastTootTimestamp": 1709562964484
   }
 }
