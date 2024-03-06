@@ -6382,5 +6382,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112037918429609128"
     ],
     "lastTootTimestamp": 1709562964484
+  },
+  "https://notes.brunopedro.com/2024/03/06/20240306160214/": {
+    "title": "Good Woowoo",
+    "date_published": "2024-03-06T16:02:14+01:00",
+    "id": "https://notes.brunopedro.com/2024/03/06/20240306160214/",
+    "url": "https://notes.brunopedro.com/2024/03/06/20240306160214/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/03/06/20240306160214/\n\nWhat is good woowoo?",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112049375605820423"
+    ],
+    "lastTootTimestamp": 1709737787186
   }
 }
