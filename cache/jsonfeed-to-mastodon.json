@@ -6494,5 +6494,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112200850861416689"
     ],
     "lastTootTimestamp": 1712049116137
+  },
+  "https://notes.brunopedro.com/2024/04/09/20240409174725/": {
+    "title": "2024-04-09T17:47:25+02:00",
+    "date_published": "2024-04-09T17:47:25+02:00",
+    "id": "https://notes.brunopedro.com/2024/04/09/20240409174725/",
+    "url": "https://notes.brunopedro.com/2024/04/09/20240409174725/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/04/09/20240409174725/\n\nFound at “What is API Governance? | API Evangelist” on 2024-04-09 17:47:25 +02:00. API governance will be where enterprises govern the change that occurs across the industries they operate in, and absorb or exacerbate the change and velocity of their factory floors and supply chains.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112242048199168504"
+    ],
+    "lastTootTimestamp": 1712677737617
   }
 }
