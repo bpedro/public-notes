@@ -6522,5 +6522,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112242057065797876"
     ],
     "lastTootTimestamp": 1712677872836
+  },
+  "https://notes.brunopedro.com/2024/04/23/20240423112149/": {
+    "title": "2024-04-23T11:21:49+02:00",
+    "date_published": "2024-04-23T11:21:49+02:00",
+    "id": "https://notes.brunopedro.com/2024/04/23/20240423112149/",
+    "url": "https://notes.brunopedro.com/2024/04/23/20240423112149/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/04/23/20240423112149/\n\nFound at “Changelog-Driven Releases” on 2024-04-23 11:21:49 +02:00. Imagine a changelog that serves not just as a history, but also functions as a source of truth for releases.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112319804530855541"
+    ],
+    "lastTootTimestamp": 1713864205220
   }
 }
