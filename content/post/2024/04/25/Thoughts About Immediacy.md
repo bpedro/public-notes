@@ -6,7 +6,7 @@ tags:
   - immediacy
   - thoughts
 ---
-Immediacy in the present time is more about *not postponing* gratification and less about control. The amount of ever-present information makes it almost impossible to be attentive to what truly matters. Instead, we spend time consuming what reaches us trusting the source.
+Immediacy in the present time is more about *not postponing* gratification and less about control. The amount of ever-present information makes it almost impossible to be attentive to what truly matters. Instead, we spend our time consuming whatever reaches us, always trusting the source.
 
 > What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention, and a need to allocate that attention efficiently among the overabundance of information sources that might consume it. — [Herbert A. Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon)
 
