@@ -6550,5 +6550,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112331334883354139"
     ],
     "lastTootTimestamp": 1714040144590
+  },
+  "https://notes.brunopedro.com/2024/04/25/20240425125634/": {
+    "title": "2024-04-25T12:56:34+02:00",
+    "date_published": "2024-04-25T12:56:34+02:00",
+    "id": "https://notes.brunopedro.com/2024/04/25/20240425125634/",
+    "url": "https://notes.brunopedro.com/2024/04/25/20240425125634/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/04/25/20240425125634/\n\nI’m writing a piece about how documentation can also be a source of friction. Documentation has its undeniable value, especially when it helps people use technical products. However, it also needs the attention of consumers. The more comprehensive and explanatory documentation is, the more attention it consumes.\nI find this as an interesting paradox. While short, to-the-point documentation can lack detail, it also reduces the friction of using technical products.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112331503591183394"
+    ],
+    "lastTootTimestamp": 1714042718613
   }
 }
