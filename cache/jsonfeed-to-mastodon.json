@@ -6564,5 +6564,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112331503591183394"
     ],
     "lastTootTimestamp": 1714042718613
+  },
+  "https://notes.brunopedro.com/2024/04/26/20240426173238/": {
+    "title": "2024-04-26T17:32:38+02:00",
+    "date_published": "2024-04-26T17:32:38+02:00",
+    "id": "https://notes.brunopedro.com/2024/04/26/20240426173238/",
+    "url": "https://notes.brunopedro.com/2024/04/26/20240426173238/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/04/26/20240426173238/\n\nFound at “No Abstractions: an Increase API design principle — Increase” on 2024-04-26 17:32:38 +02:00. Instead of inventing our own names for API resources and their attributes, we tend to use the vocabulary of the underlying networks.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112338248683283556"
+    ],
+    "lastTootTimestamp": 1714145640650
   }
 }
