@@ -6578,5 +6578,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112338248683283556"
     ],
     "lastTootTimestamp": 1714145640650
+  },
+  "https://notes.brunopedro.com/2024/04/26/20240426174828/": {
+    "title": "2024-04-26T17:48:28+02:00",
+    "date_published": "2024-04-26T17:48:28+02:00",
+    "id": "https://notes.brunopedro.com/2024/04/26/20240426174828/",
+    "url": "https://notes.brunopedro.com/2024/04/26/20240426174828/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/04/26/20240426174828/\n\nNordic APIs published a review of “Building an API Product.”",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112338316701177631"
+    ],
+    "lastTootTimestamp": 1714146678347
   }
 }
