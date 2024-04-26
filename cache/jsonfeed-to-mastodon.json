@@ -6606,5 +6606,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112339248575749199"
     ],
     "lastTootTimestamp": 1714160897713
+  },
+  "https://notes.brunopedro.com/2024/04/26/20240426214848/": {
+    "title": "2024-04-26T21:48:48+02:00",
+    "date_published": "2024-04-26T21:48:48+02:00",
+    "id": "https://notes.brunopedro.com/2024/04/26/20240426214848/",
+    "url": "https://notes.brunopedro.com/2024/04/26/20240426214848/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/04/26/20240426214848/\n\nFound at “Vinod Khosla’s 12 Predictions About The Future | by Seekmeai | Apr, 2024 | Medium” on 2024-04-26 21:48:48 +02:00. most consumer access to the internet will be mediated by agents acting on behalf of users. These agents will filter information, perform tasks, and protect users from marketers and bots.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112339256879807145"
+    ],
+    "lastTootTimestamp": 1714161024302
   }
 }
