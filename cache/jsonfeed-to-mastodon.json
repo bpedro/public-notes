@@ -6648,5 +6648,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112366003901495628"
     ],
     "lastTootTimestamp": 1714569151567
+  },
+  "https://notes.brunopedro.com/2024/05/02/20240502094715/": {
+    "title": "2024-05-02T09:47:15+02:00",
+    "date_published": "2024-05-02T09:47:15+02:00",
+    "id": "https://notes.brunopedro.com/2024/05/02/20240502094715/",
+    "url": "https://notes.brunopedro.com/2024/05/02/20240502094715/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/05/02/20240502094715/\n\nMagazines aren’t dying",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112370405385014706"
+    ],
+    "lastTootTimestamp": 1714636312845
   }
 }
