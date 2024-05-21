@@ -6714,7 +6714,10 @@
       "name": "Bruno Pedro"
     },
     "content_text": "https://notes.brunopedro.com/2024/05/21/20240521142501/\n\nThe Change Triangle",
-    "toots": []
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112480057873939402"
+    ],
+    "lastTootTimestamp": 1716309477093
   },
   "https://notes.brunopedro.com/2024/05/21/20240521140947/": {
     "title": "2024-05-21T14:09:47+02:00",
@@ -6729,5 +6732,16 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112479271483489067"
     ],
     "lastTootTimestamp": 1716297477646
+  },
+  "https://notes.brunopedro.com/2024/05/21/20240521181932/": {
+    "title": "2024-05-21T18:19:32+02:00",
+    "date_published": "2024-05-21T18:19:32+02:00",
+    "id": "https://notes.brunopedro.com/2024/05/21/20240521181932/",
+    "url": "https://notes.brunopedro.com/2024/05/21/20240521181932/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/05/21/20240521181932/\n\nSomething to pay attention to when working with thousands of APIs.\nFound at “Rare things become common at scale” on 2024-05-21 18:19:32 +02:00. scale causes rare events to become common",
+    "toots": []
   }
 }
