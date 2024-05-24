@@ -6746,5 +6746,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112483542258642345"
     ],
     "lastTootTimestamp": 1716362644511
+  },
+  "https://notes.brunopedro.com/2024/05/24/20240524212849/": {
+    "title": "2024-05-24T21:28:49+02:00",
+    "date_published": "2024-05-24T21:28:49+02:00",
+    "id": "https://notes.brunopedro.com/2024/05/24/20240524212849/",
+    "url": "https://notes.brunopedro.com/2024/05/24/20240524212849/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/05/24/20240524212849/\n\nFound at “Chromium Blog: Advancing Our Amazing Bet on Asymmetric Cryptography” on 2024-05-24 21:28:49 +02:00. We think the important next step for quantum-resistant authentication in HTTPS is to focus on enabling trust anchor agility.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112497723159510660"
+    ],
+    "lastTootTimestamp": 1716579027959
   }
 }
