@@ -6783,10 +6783,24 @@
     "author": {
       "name": "Bruno Pedro"
     },
-    "content_text": "https://notes.brunopedro.com/2024/05/30/20240530150649/\n\nSomething I always keep in mind is “don’t design too much.” If you intuitively feel that this is a good idea, you can make a good decision right then and there.\nThat’s something I feel is a key point in design.",
+    "content_text": "https://notes.brunopedro.com/2024/05/30/20240530150649/\n\nSomething I always keep in mind is “don’t design too much.” If you intuitively feel that this is a good idea, you can make a good decision right then and there.\nThat’s something I feel is a key point in design.—Tamotsu Yagi",
     "toots": [
       "https://follow.brunopedro.com/users/bpedro/statuses/112530223765345287"
     ],
     "lastTootTimestamp": 1717074947854
+  },
+  "https://notes.brunopedro.com/2024/05/31/20240531105243/": {
+    "title": "2024-05-31T10:52:43+02:00",
+    "date_published": "2024-05-31T10:52:43+02:00",
+    "id": "https://notes.brunopedro.com/2024/05/31/20240531105243/",
+    "url": "https://notes.brunopedro.com/2024/05/31/20240531105243/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/05/31/20240531105243/\n\nFound at “Common myths about platform engineering | Google Cloud Blog” on 2024-05-31 10:52:43 +02:00. modern software systems are larger and more complex today than before, and the role of platform engineering has become increasingly vital in today’s world",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112534858143180605"
+    ],
+    "lastTootTimestamp": 1717145663205
   }
 }
