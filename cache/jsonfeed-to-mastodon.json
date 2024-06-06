@@ -6816,5 +6816,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112557395138341493"
     ],
     "lastTootTimestamp": 1717489550271
+  },
+  "https://notes.brunopedro.com/2024/06/06/20240606092306/": {
+    "title": "2024-06-06T09:23:06+02:00",
+    "date_published": "2024-06-06T09:23:06+02:00",
+    "id": "https://notes.brunopedro.com/2024/06/06/20240606092306/",
+    "url": "https://notes.brunopedro.com/2024/06/06/20240606092306/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/06/06/20240606092306/\n\nFound at “Documenting API Workflows with Arazzo” on 2024-06-06 09:23:06 +02:00. Arazzo is a major step forward in providing a standardized approach to documenting API workflows.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112568483289839022"
+    ],
+    "lastTootTimestamp": 1717658741911
   }
 }
