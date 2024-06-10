@@ -6844,5 +6844,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112591204001631508"
     ],
     "lastTootTimestamp": 1718005432478
+  },
+  "https://notes.brunopedro.com/2024/06/10/20240610094404/": {
+    "title": "2024-06-10T09:44:04+02:00",
+    "date_published": "2024-06-10T09:44:04+02:00",
+    "id": "https://notes.brunopedro.com/2024/06/10/20240610094404/",
+    "url": "https://notes.brunopedro.com/2024/06/10/20240610094404/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/06/10/20240610094404/\n\nFound at “PostgREST Tutorial: APIs made easy” on 2024-06-10 09:44:04 +02:00. PostgREST is the quiet workhorse of API development, letting you tap into the power of PostgreSQL without getting bogged down in boilerplate code.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112591215703547607"
+    ],
+    "lastTootTimestamp": 1718005610877
   }
 }
