@@ -6830,5 +6830,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112568483289839022"
     ],
     "lastTootTimestamp": 1717658741911
+  },
+  "https://notes.brunopedro.com/2024/06/10/20240610093943/": {
+    "title": "2024-06-10T09:39:43+02:00",
+    "date_published": "2024-06-10T09:39:43+02:00",
+    "id": "https://notes.brunopedro.com/2024/06/10/20240610093943/",
+    "url": "https://notes.brunopedro.com/2024/06/10/20240610093943/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/06/10/20240610093943/\n\nIn the future of AI users will never see the prompt or the output",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112591204001631508"
+    ],
+    "lastTootTimestamp": 1718005432478
   }
 }
