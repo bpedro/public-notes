@@ -2,7 +2,7 @@
 <article id="main" class="home-page">
   {{ partial "brand.html" . }}
   <section class="page-list">
-  {{ range first 2 (.Site.Pages.GroupByDate "January, 2006") }}
+  {{ range first 5 (.Site.Pages.GroupByDate "January, 2006") }}
     {{ if ne .Key "January, 0001" }}
     <h1>{{ .Key }} </h1>
     {{ end }}
