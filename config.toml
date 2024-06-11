@@ -5,7 +5,7 @@ publishdir = "public"
 builddrafts = false
 baseurl = "http://localhost:1313/"
 theme = "hugo-tufte"
-title = "Bruno Pedro's public notes"
+title = "Bruno Pedro"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
@@ -59,14 +59,20 @@ cononifyurls = true
 # Navigation menu
 # -----------------------------------------------------------------------
 [[menu.nav]]
-  name = "About Bruno"
+  name = "Home"
   pre = "<i class='fa fa-home fa-lg'></i> "
   weight = -110
   identifier = "home"
   url = "https://brunopedro.com/"
 [[menu.nav]]
-  name = "Blog"
+  name = "Posts"
   pre = "<i class='fa fa-book fa-lg'></i> "
   weight = -100
   identifier = "posts"
   url = "https://brunopedro.com/post"
+[[menu.nav]]
+  name = "Notes"
+  pre = "<i class='fa fa-keyboard fa-lg'></i> "
+  weight = -90
+  identifier = "notes"
+  url = "https://notes.brunopedro.com"
