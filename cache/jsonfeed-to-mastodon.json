@@ -6886,5 +6886,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112597337996426515"
     ],
     "lastTootTimestamp": 1718099029850
+  },
+  "https://notes.brunopedro.com/2024/06/12/20240612151719/": {
+    "title": "2024-06-12T15:17:19+02:00",
+    "date_published": "2024-06-12T15:17:19+02:00",
+    "id": "https://notes.brunopedro.com/2024/06/12/20240612151719/",
+    "url": "https://notes.brunopedro.com/2024/06/12/20240612151719/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/06/12/20240612151719/\n\nConsuming content directly from the source",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112603859659162024"
+    ],
+    "lastTootTimestamp": 1718198542563
   }
 }
