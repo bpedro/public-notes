@@ -6942,5 +6942,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112632111682316936"
     ],
     "lastTootTimestamp": 1718629634171
+  },
+  "https://notes.brunopedro.com/2024/06/18/20240618180220/": {
+    "title": "2024-06-18T18:02:20+02:00",
+    "date_published": "2024-06-18T18:02:20+02:00",
+    "id": "https://notes.brunopedro.com/2024/06/18/20240618180220/",
+    "url": "https://notes.brunopedro.com/2024/06/18/20240618180220/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/06/18/20240618180220/\n\nFound at “Software Friction” on 2024-06-18 18:02:20 +02:00. Friction compounds with itself: two setbacks are more than twice as bad as one setback.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112638468199084281"
+    ],
+    "lastTootTimestamp": 1718726626972
   }
 }
