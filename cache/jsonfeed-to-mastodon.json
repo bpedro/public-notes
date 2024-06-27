@@ -6998,5 +6998,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112690620926331409"
     ],
     "lastTootTimestamp": 1719522414315
+  },
+  "https://notes.brunopedro.com/2024/06/27/20240627230846/": {
+    "title": "2024-06-27T23:08:46+02:00",
+    "date_published": "2024-06-27T23:08:46+02:00",
+    "id": "https://notes.brunopedro.com/2024/06/27/20240627230846/",
+    "url": "https://notes.brunopedro.com/2024/06/27/20240627230846/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/06/27/20240627230846/\n\nFound at “(2) Fill the Gaps between API Consumer Lifecycle Stages” on 2024-06-27 23:08:46 +02:00. API documentation can be so much more than API documentation. [It] can be the thread connecting all the stages of the API consumer lifecycle.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112690636157735002"
+    ],
+    "lastTootTimestamp": 1719522646576
   }
 }
