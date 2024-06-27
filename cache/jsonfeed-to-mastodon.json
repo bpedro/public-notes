@@ -6984,5 +6984,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112656813355966708"
     ],
     "lastTootTimestamp": 1719006551615
+  },
+  "https://notes.brunopedro.com/2024/06/27/20240627230512/": {
+    "title": "2024-06-27T23:05:12+02:00",
+    "date_published": "2024-06-27T23:05:12+02:00",
+    "id": "https://notes.brunopedro.com/2024/06/27/20240627230512/",
+    "url": "https://notes.brunopedro.com/2024/06/27/20240627230512/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/06/27/20240627230512/\n\nFound at “Making the Kinopio Source Code Public” on 2024-06-27 23:05:12 +02:00. delivering software is more like delivering a gooey crying baby. It’s alive. Squirming, growing, and changing because the technologies it relies on do too.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112690620926331409"
+    ],
+    "lastTootTimestamp": 1719522414315
   }
 }
