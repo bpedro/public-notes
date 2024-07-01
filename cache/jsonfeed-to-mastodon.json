@@ -7012,5 +7012,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112690636157735002"
     ],
     "lastTootTimestamp": 1719522646576
+  },
+  "https://notes.brunopedro.com/2024/07/01/20240701093005/": {
+    "title": "2024-07-01T09:30:05+02:00",
+    "date_published": "2024-07-01T09:30:05+02:00",
+    "id": "https://notes.brunopedro.com/2024/07/01/20240701093005/",
+    "url": "https://notes.brunopedro.com/2024/07/01/20240701093005/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/07/01/20240701093005/\n\nFound at “Documentation | Pipes” on 2024-07-01 09:30:05 +02:00. you can think of Pipes as a visual programing editor specialized on feeds, or a visual shell, or simply as a glorified feed configurator",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112710064615364138"
+    ],
+    "lastTootTimestamp": 1719819101340
   }
 }
