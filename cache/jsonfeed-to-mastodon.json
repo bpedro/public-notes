@@ -7026,5 +7026,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112710064615364138"
     ],
     "lastTootTimestamp": 1719819101340
+  },
+  "https://notes.brunopedro.com/2024/07/01/20240701122452/": {
+    "title": "2024-07-01T12:24:52+02:00",
+    "date_published": "2024-07-01T12:24:52+02:00",
+    "id": "https://notes.brunopedro.com/2024/07/01/20240701122452/",
+    "url": "https://notes.brunopedro.com/2024/07/01/20240701122452/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/07/01/20240701122452/\n\nFound at “The simple way to get better at business writing | Seth’s Blog” on 2024-07-01 12:24:52 +02:00. Don’t do business writing.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112710750711478111"
+    ],
+    "lastTootTimestamp": 1719829570391
   }
 }
