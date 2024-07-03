@@ -7054,5 +7054,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112713040700222326"
     ],
     "lastTootTimestamp": 1719864513066
+  },
+  "https://notes.brunopedro.com/2024/07/03/20240703165112/": {
+    "title": "2024-07-03T16:51:12+02:00",
+    "date_published": "2024-07-03T16:51:12+02:00",
+    "id": "https://notes.brunopedro.com/2024/07/03/20240703165112/",
+    "url": "https://notes.brunopedro.com/2024/07/03/20240703165112/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/07/03/20240703165112/\n\nFound at “The Reasons for Using HTTP POST or PUT | API Evangelist” on 2024-07-03 16:51:12 +02:00. Why Stripe API uses HTTP POST when it could use PUT?\nThe answer was simple, their customers utilized integration solutions that couldn’t support HTTP PUT",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112723127993469451"
+    ],
+    "lastTootTimestamp": 1720018432954
   }
 }
