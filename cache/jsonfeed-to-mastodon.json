@@ -7068,5 +7068,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112723127993469451"
     ],
     "lastTootTimestamp": 1720018432954
+  },
+  "https://notes.brunopedro.com/2024/07/05/20240705144952/": {
+    "title": "2024-07-05T14:49:52+02:00",
+    "date_published": "2024-07-05T14:49:52+02:00",
+    "id": "https://notes.brunopedro.com/2024/07/05/20240705144952/",
+    "url": "https://notes.brunopedro.com/2024/07/05/20240705144952/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/07/05/20240705144952/\n\nHow do you know when it’s safe to deactivate an API?",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112733982485921873"
+    ],
+    "lastTootTimestamp": 1720184059562
   }
 }
