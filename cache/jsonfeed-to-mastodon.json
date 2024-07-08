@@ -7091,10 +7091,24 @@
     "author": {
       "name": "Bruno Pedro"
     },
-    "content_text": "https://notes.brunopedro.com/2024/07/08/20240708093811/\n\nFound at “It Needs to Scale | API Evangelist” on 2024-07-08 09:38:11 +02:00. I don’t trust API providers, and I don’t trust API service providers anymore. I don’t trust them to be good stewards of API search indexes.",
+    "content_text": "https://notes.brunopedro.com/2024/07/08/20240708093811/\n\nFound at “It Needs to Scale | API Evangelist” on 2024-07-08 09:38:11 +02:00. I don’t trust API providers, and I don’t trust API service providers anymore. I don’t trust them to be good stewards of API search indexes.\nPerhaps the vision for APIs.io is that it grows by creating a federated network of API consumers.",
     "toots": [
       "https://follow.brunopedro.com/users/bpedro/statuses/112749732017082434"
     ],
     "lastTootTimestamp": 1720424377838
+  },
+  "https://notes.brunopedro.com/2024/07/08/20240708220418/": {
+    "title": "2024-07-08T22:04:18+02:00",
+    "date_published": "2024-07-08T22:04:18+02:00",
+    "id": "https://notes.brunopedro.com/2024/07/08/20240708220418/",
+    "url": "https://notes.brunopedro.com/2024/07/08/20240708220418/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/07/08/20240708220418/\n\nFound at “The Right Kind of Stubborn” on 2024-07-08 22:04:18 +02:00. The persistent are attached to the goal. The obstinate are attached to their ideas about how to reach it.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112752665945632216"
+    ],
+    "lastTootTimestamp": 1720469146157
   }
 }
