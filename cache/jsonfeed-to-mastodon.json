@@ -7110,5 +7110,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112752665945632216"
     ],
     "lastTootTimestamp": 1720469146157
+  },
+  "https://notes.brunopedro.com/2024/08/02/20240802112814/": {
+    "title": "2024-08-02T11:28:14+02:00",
+    "date_published": "2024-08-02T11:28:14+02:00",
+    "id": "https://notes.brunopedro.com/2024/08/02/20240802112814/",
+    "url": "https://notes.brunopedro.com/2024/08/02/20240802112814/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/08/02/20240802112814/\n\nFound at “What are you thinking about? | Seth’s Blog” on 2024-08-02 11:28:14 +02:00. What are you working on? When will you change your mind? What can you learn, what can you challenge?",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112891722641082583"
+    ],
+    "lastTootTimestamp": 1722590982803
   }
 }
