@@ -7124,5 +7124,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112891722641082583"
     ],
     "lastTootTimestamp": 1722590982803
+  },
+  "https://notes.brunopedro.com/2024/08/03/20240803153051/": {
+    "title": "Starting from scratch",
+    "date_published": "2024-08-03T15:30:51+02:00",
+    "id": "https://notes.brunopedro.com/2024/08/03/20240803153051/",
+    "url": "https://notes.brunopedro.com/2024/08/03/20240803153051/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/08/03/20240803153051/\n\nI see starting from scratch as a way to be born again. When you have nothing to lose, you’re free to do whatever you want.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112898365839032421"
+    ],
+    "lastTootTimestamp": 1722692350015
   }
 }
