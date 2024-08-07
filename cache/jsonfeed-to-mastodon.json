@@ -7152,5 +7152,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112919597302755709"
     ],
     "lastTootTimestamp": 1723016316509
+  },
+  "https://notes.brunopedro.com/2024/08/07/20240807123028/": {
+    "title": "2024-08-07T12:30:28+02:00",
+    "date_published": "2024-08-07T12:30:28+02:00",
+    "id": "https://notes.brunopedro.com/2024/08/07/20240807123028/",
+    "url": "https://notes.brunopedro.com/2024/08/07/20240807123028/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/08/07/20240807123028/\n\nFound at “Politics vs. governance | Seth’s Blog” on 2024-08-07 12:30:28 +02:00. Governance is the serious business of taking responsibility for leadership.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112920279102416324"
+    ],
+    "lastTootTimestamp": 1723026719823
   }
 }
