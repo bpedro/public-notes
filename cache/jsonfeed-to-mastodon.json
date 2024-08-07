@@ -7138,5 +7138,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112898365839032421"
     ],
     "lastTootTimestamp": 1722692350015
+  },
+  "https://notes.brunopedro.com/2024/08/07/20240807093218/": {
+    "title": "2024-08-07T09:32:18+02:00",
+    "date_published": "2024-08-07T09:32:18+02:00",
+    "id": "https://notes.brunopedro.com/2024/08/07/20240807093218/",
+    "url": "https://notes.brunopedro.com/2024/08/07/20240807093218/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/08/07/20240807093218/\n\nCAT5 vs CAT5e",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112919597302755709"
+    ],
+    "lastTootTimestamp": 1723016316509
   }
 }
