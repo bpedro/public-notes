@@ -7180,5 +7180,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112920777778154251"
     ],
     "lastTootTimestamp": 1723034329059
+  },
+  "https://notes.brunopedro.com/2024/08/14/20240814092115/": {
+    "title": "2024-08-14T09:21:15+02:00",
+    "date_published": "2024-08-14T09:21:15+02:00",
+    "id": "https://notes.brunopedro.com/2024/08/14/20240814092115/",
+    "url": "https://notes.brunopedro.com/2024/08/14/20240814092115/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/08/14/20240814092115/\n\nCan OpenAPI be a way to catalog and consume third-party API operations?",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112959172902838213"
+    ],
+    "lastTootTimestamp": 1723620192318
   }
 }
