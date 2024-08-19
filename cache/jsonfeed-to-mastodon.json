@@ -7208,5 +7208,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112960820777485639"
     ],
     "lastTootTimestamp": 1723645336753
+  },
+  "https://notes.brunopedro.com/2024/08/19/20240819154100/": {
+    "title": "2024-08-19T15:41:00+02:00",
+    "date_published": "2024-08-19T15:41:00+02:00",
+    "id": "https://notes.brunopedro.com/2024/08/19/20240819154100/",
+    "url": "https://notes.brunopedro.com/2024/08/19/20240819154100/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/08/19/20240819154100/\n\nI don’t do too much talking these days",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112988983334602056"
+    ],
+    "lastTootTimestamp": 1724075063265
   }
 }
