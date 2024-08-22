@@ -7250,5 +7250,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112994714405211333"
     ],
     "lastTootTimestamp": 1724162512438
+  },
+  "https://notes.brunopedro.com/2024/08/22/20240822132014/": {
+    "title": "2024-08-22T13:20:14+02:00",
+    "date_published": "2024-08-22T13:20:14+02:00",
+    "id": "https://notes.brunopedro.com/2024/08/22/20240822132014/",
+    "url": "https://notes.brunopedro.com/2024/08/22/20240822132014/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/08/22/20240822132014/\n\nShould you increase the API version when deprecating one or more operations?",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113005415110732715"
+    ],
+    "lastTootTimestamp": 1724325792264
   }
 }
