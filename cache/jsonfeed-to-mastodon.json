@@ -7264,5 +7264,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113005415110732715"
     ],
     "lastTootTimestamp": 1724325792264
+  },
+  "https://notes.brunopedro.com/2024/08/23/20240823163521/": {
+    "title": "2024-08-23T16:35:21+02:00",
+    "date_published": "2024-08-23T16:35:21+02:00",
+    "id": "https://notes.brunopedro.com/2024/08/23/20240823163521/",
+    "url": "https://notes.brunopedro.com/2024/08/23/20240823163521/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/08/23/20240823163521/\n\nIt’s taken me years to come to the conclusion or to the belief that probably the only thing one can really learn is the capacity to be able to change.—Philip Guston",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113011847858605365"
+    ],
+    "lastTootTimestamp": 1724423948153
   }
 }
