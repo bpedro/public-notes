@@ -7208,5 +7208,75 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/112960820777485639"
     ],
     "lastTootTimestamp": 1723645336753
+  },
+  "https://notes.brunopedro.com/2024/08/19/20240819154100/": {
+    "title": "2024-08-19T15:41:00+02:00",
+    "date_published": "2024-08-19T15:41:00+02:00",
+    "id": "https://notes.brunopedro.com/2024/08/19/20240819154100/",
+    "url": "https://notes.brunopedro.com/2024/08/19/20240819154100/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/08/19/20240819154100/\n\nI don’t do too much talking these days",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112988983334602056"
+    ],
+    "lastTootTimestamp": 1724075063265
+  },
+  "https://notes.brunopedro.com/2024/08/20/20240820091836/": {
+    "title": "2024-08-20T09:18:36+02:00",
+    "date_published": "2024-08-20T09:18:36+02:00",
+    "id": "https://notes.brunopedro.com/2024/08/20/20240820091836/",
+    "url": "https://notes.brunopedro.com/2024/08/20/20240820091836/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/08/20/20240820091836/\n\nIt pretends to be GoogleBot",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112993136409623821"
+    ],
+    "lastTootTimestamp": 1724138434246
+  },
+  "https://notes.brunopedro.com/2024/08/20/20240820155851/": {
+    "title": "2024-08-20T15:58:51+02:00",
+    "date_published": "2024-08-20T15:58:51+02:00",
+    "id": "https://notes.brunopedro.com/2024/08/20/20240820155851/",
+    "url": "https://notes.brunopedro.com/2024/08/20/20240820155851/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/08/20/20240820155851/\n\nFound at “Seth’s Blog” on 2024-08-20 15:58:51 +02:00. If the writing you’re doing doesn’t need to be in an idiosyncratic voice, take your memo, paste it into claude.ai and say, “please rewrite this to make it clear, cogent, positive and concise.”",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/112994714405211333"
+    ],
+    "lastTootTimestamp": 1724162512438
+  },
+  "https://notes.brunopedro.com/2024/08/22/20240822132014/": {
+    "title": "2024-08-22T13:20:14+02:00",
+    "date_published": "2024-08-22T13:20:14+02:00",
+    "id": "https://notes.brunopedro.com/2024/08/22/20240822132014/",
+    "url": "https://notes.brunopedro.com/2024/08/22/20240822132014/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/08/22/20240822132014/\n\nShould you increase the API version when deprecating one or more operations?",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113005415110732715"
+    ],
+    "lastTootTimestamp": 1724325792264
+  },
+  "https://notes.brunopedro.com/2024/08/23/20240823163521/": {
+    "title": "2024-08-23T16:35:21+02:00",
+    "date_published": "2024-08-23T16:35:21+02:00",
+    "id": "https://notes.brunopedro.com/2024/08/23/20240823163521/",
+    "url": "https://notes.brunopedro.com/2024/08/23/20240823163521/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/08/23/20240823163521/\n\nIt’s taken me years to come to the conclusion or to the belief that probably the only thing one can really learn is the capacity to be able to change.—Philip Guston",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113011847858605365"
+    ],
+    "lastTootTimestamp": 1724423948153
   }
 }
