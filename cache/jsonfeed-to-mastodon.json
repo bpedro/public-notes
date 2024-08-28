@@ -7278,5 +7278,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113011847858605365"
     ],
     "lastTootTimestamp": 1724423948153
+  },
+  "https://notes.brunopedro.com/2024/08/28/20240828152850/": {
+    "title": "2024-08-28T15:28:50+02:00",
+    "date_published": "2024-08-28T15:28:50+02:00",
+    "id": "https://notes.brunopedro.com/2024/08/28/20240828152850/",
+    "url": "https://notes.brunopedro.com/2024/08/28/20240828152850/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/08/28/20240828152850/\n\nFound at “HTTP Mocking | Prism” on 2024-08-28 15:28:50 +02:00. If a response has an example, it will be used for that response. If there are multiple examples, then they can be selected by name.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113039889626634786"
+    ],
+    "lastTootTimestamp": 1724851831701
   }
 }
