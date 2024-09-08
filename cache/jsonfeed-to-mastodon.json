@@ -7345,5 +7345,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113102075562150888"
     ],
     "lastTootTimestamp": 1725800713777
+  },
+  "https://notes.brunopedro.com/2024/09/08/20240908154603/": {
+    "title": "2024-09-08T15:46:03+02:00",
+    "date_published": "2024-09-08T15:46:03+02:00",
+    "id": "https://notes.brunopedro.com/2024/09/08/20240908154603/",
+    "url": "https://notes.brunopedro.com/2024/09/08/20240908154603/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/09/08/20240908154603/\n\n Extensive use of glass in architecture. (…) the extensive use of glass makes the walls appear to be so light that they seem to negate the conventional laws of tecnonics.—Sigel, Gilbert Lupfer & Paul. Gropius. Germany: TASCHEN, 2017. ",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113102262942711366"
+    ],
+    "lastTootTimestamp": 1725803572965
   }
 }
