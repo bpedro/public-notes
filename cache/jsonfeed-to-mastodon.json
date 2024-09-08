@@ -7320,5 +7320,30 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113079372669644749"
     ],
     "lastTootTimestamp": 1725454295087
+  },
+  "https://notes.brunopedro.com/2024/09/08/20240908145842/": {
+    "title": "2024-09-08T14:58:42+02:00",
+    "date_published": "2024-09-08T14:58:42+02:00",
+    "id": "https://notes.brunopedro.com/2024/09/08/20240908145842/",
+    "url": "https://notes.brunopedro.com/2024/09/08/20240908145842/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/09/08/20240908145842/\n\nFound at “API Complexity Is a Lie - by Bruno Pedro” on 2024-09-08 14:58:42 +02:00. Anyone telling you that working with APIs is hard isn’t telling the truth. What is hard isn’t the API. It’s all the tools, processes, and technical language surrounding it.",
+    "toots": []
+  },
+  "https://notes.brunopedro.com/2024/09/08/20240908142926/": {
+    "title": "2024-09-08T14:29:26+02:00",
+    "date_published": "2024-09-08T14:29:26+02:00",
+    "id": "https://notes.brunopedro.com/2024/09/08/20240908142926/",
+    "url": "https://notes.brunopedro.com/2024/09/08/20240908142926/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/09/08/20240908142926/\n\n(…) design should not dominate things, it should not dominate people. It should help people.—Dieter Rams",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113102075562150888"
+    ],
+    "lastTootTimestamp": 1725800713777
   }
 }
