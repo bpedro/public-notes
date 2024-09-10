@@ -7362,5 +7362,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113102262942711366"
     ],
     "lastTootTimestamp": 1725803572965
+  },
+  "https://notes.brunopedro.com/2024/09/10/20240910095600/": {
+    "title": "2024-09-10T09:56:00+02:00",
+    "date_published": "2024-09-10T09:56:00+02:00",
+    "id": "https://notes.brunopedro.com/2024/09/10/20240910095600/",
+    "url": "https://notes.brunopedro.com/2024/09/10/20240910095600/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/09/10/20240910095600/\n\nEveryone else tried to build what they thought they could sell to advertisers or CTOs.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113112196486363767"
+    ],
+    "lastTootTimestamp": 1725955146858
   }
 }
