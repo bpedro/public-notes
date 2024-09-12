@@ -7376,5 +7376,41 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113112196486363767"
     ],
     "lastTootTimestamp": 1725955146858
+  },
+  "https://notes.brunopedro.com/2024/09/12/20240912192817/": {
+    "title": "2024-09-12T19:28:17+02:00",
+    "date_published": "2024-09-12T19:28:17+02:00",
+    "id": "https://notes.brunopedro.com/2024/09/12/20240912192817/",
+    "url": "https://notes.brunopedro.com/2024/09/12/20240912192817/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/09/12/20240912192817/\n\nFound at “Learning to Reason with LLMs | OpenAI” on 2024-09-12 19:28:17 +02:00. We are introducing OpenAI o1, a new large language model trained with reinforcement learning to perform complex reasoning.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113125764944188632"
+    ],
+    "lastTootTimestamp": 1726162185015
+  },
+  "https://notes.brunopedro.com/2024/09/12/20240912141406/": {
+    "title": "2024-09-12T14:14:06+02:00",
+    "date_published": "2024-09-12T14:14:06+02:00",
+    "id": "https://notes.brunopedro.com/2024/09/12/20240912141406/",
+    "url": "https://notes.brunopedro.com/2024/09/12/20240912141406/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/09/12/20240912141406/\n\nFound at “Tidy data” on 2024-09-12 14:14:06 +02:00. Tidy datasets are easy to manipulate, model and visualize, and have a specific structure: each variable is a column, each observation is a row, and each type of observational unit is a table.",
+    "toots": []
+  },
+  "https://notes.brunopedro.com/2024/09/11/20240911114014/": {
+    "title": "2024-09-11T11:40:14+02:00",
+    "date_published": "2024-09-11T11:40:14+02:00",
+    "id": "https://notes.brunopedro.com/2024/09/11/20240911114014/",
+    "url": "https://notes.brunopedro.com/2024/09/11/20240911114014/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/09/11/20240911114014/\n\nA new omniauth-saml RubyGem version has been released. It mostly fixes security issues related to SAML signatures.",
+    "toots": []
   }
 }
