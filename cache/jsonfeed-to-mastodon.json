@@ -7411,6 +7411,31 @@
       "name": "Bruno Pedro"
     },
     "content_text": "https://notes.brunopedro.com/2024/09/11/20240911114014/\n\nA new omniauth-saml RubyGem version has been released. It mostly fixes security issues related to SAML signatures.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113164716822073702"
+    ],
+    "lastTootTimestamp": 1726756543497
+  },
+  "https://notes.brunopedro.com/2024/09/19/20240919163401/": {
+    "title": "2024-09-19T16:34:01+02:00",
+    "date_published": "2024-09-19T16:34:01+02:00",
+    "id": "https://notes.brunopedro.com/2024/09/19/20240919163401/",
+    "url": "https://notes.brunopedro.com/2024/09/19/20240919163401/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/09/19/20240919163401/\n\nFound at “Paper Programs” on 2024-09-19 16:34:01 +02:00. I liked how you could physically hold a program in your hands, and then put on any surface in the building, where it would start executing, as if by magic.",
+    "toots": []
+  },
+  "https://notes.brunopedro.com/2024/09/18/20240918153643/": {
+    "title": "2024-09-18T15:36:43+02:00",
+    "date_published": "2024-09-18T15:36:43+02:00",
+    "id": "https://notes.brunopedro.com/2024/09/18/20240918153643/",
+    "url": "https://notes.brunopedro.com/2024/09/18/20240918153643/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/09/18/20240918153643/\n\nFound at “howard rheingold’s | tools for thought” on 2024-09-18 15:36:43 +02:00. A few of the pioneers of personal computing who still work in the computer industry can remember the birth and the dream",
     "toots": []
   }
 }
