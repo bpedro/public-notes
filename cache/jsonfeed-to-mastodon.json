@@ -7436,6 +7436,20 @@
       "name": "Bruno Pedro"
     },
     "content_text": "https://notes.brunopedro.com/2024/09/18/20240918153643/\n\nFound at “howard rheingold’s | tools for thought” on 2024-09-18 15:36:43 +02:00. A few of the pioneers of personal computing who still work in the computer industry can remember the birth and the dream",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113188699318911605"
+    ],
+    "lastTootTimestamp": 1727122487452
+  },
+  "https://notes.brunopedro.com/2024/09/23/20240923221223/": {
+    "title": "2024-09-23T22:12:23+02:00",
+    "date_published": "2024-09-23T22:12:23+02:00",
+    "id": "https://notes.brunopedro.com/2024/09/23/20240923221223/",
+    "url": "https://notes.brunopedro.com/2024/09/23/20240923221223/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/09/23/20240923221223/\n\nFound at “The Intelligence Age” on 2024-09-23 22:12:23 +02:00. (…) humanity discovered an algorithm that could really, truly learn any distribution of data. To a shocking degree of precision, the more compute and data available, the better it gets at helping people solve hard problems.—Sam Altman",
     "toots": []
   }
 }
