@@ -7425,7 +7425,10 @@
       "name": "Bruno Pedro"
     },
     "content_text": "https://notes.brunopedro.com/2024/09/19/20240919163401/\n\nFound at “Paper Programs” on 2024-09-19 16:34:01 +02:00. I liked how you could physically hold a program in your hands, and then put on any surface in the building, where it would start executing, as if by magic.",
-    "toots": []
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113208809269452767"
+    ],
+    "lastTootTimestamp": 1727429340874
   },
   "https://notes.brunopedro.com/2024/09/18/20240918153643/": {
     "title": "2024-09-18T15:36:43+02:00",
@@ -7450,6 +7453,17 @@
       "name": "Bruno Pedro"
     },
     "content_text": "https://notes.brunopedro.com/2024/09/23/20240923221223/\n\nFound at “The Intelligence Age” on 2024-09-23 22:12:23 +02:00. (…) humanity discovered an algorithm that could really, truly learn any distribution of data. To a shocking degree of precision, the more compute and data available, the better it gets at helping people solve hard problems.—Sam Altman",
+    "toots": []
+  },
+  "https://notes.brunopedro.com/2024/09/27/20240927112717/": {
+    "title": "2024-09-27T11:27:17+02:00",
+    "date_published": "2024-09-27T11:27:17+02:00",
+    "id": "https://notes.brunopedro.com/2024/09/27/20240927112717/",
+    "url": "https://notes.brunopedro.com/2024/09/27/20240927112717/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/09/27/20240927112717/\n\nFound at “[1802.07068] Talent vs Luck: the role of randomness in success and failure” on 2024-09-27 11:27:17 +02:00. if it is true that some degree of talent is necessary to be successful in life, almost never the most talented people reach the highest peaks of success, being overtaken by mediocre but sensibly luckier individuals",
     "toots": []
   }
 }
