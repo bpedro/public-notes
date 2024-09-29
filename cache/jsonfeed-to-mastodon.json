@@ -7464,6 +7464,20 @@
       "name": "Bruno Pedro"
     },
     "content_text": "https://notes.brunopedro.com/2024/09/27/20240927112717/\n\nFound at “[1802.07068] Talent vs Luck: the role of randomness in success and failure” on 2024-09-27 11:27:17 +02:00. if it is true that some degree of talent is necessary to be successful in life, almost never the most talented people reach the highest peaks of success, being overtaken by mediocre but sensibly luckier individuals",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113221683924138172"
+    ],
+    "lastTootTimestamp": 1727625792485
+  },
+  "https://notes.brunopedro.com/2024/09/29/20240929180145/": {
+    "title": "2024-09-29T18:01:45+02:00",
+    "date_published": "2024-09-29T18:01:45+02:00",
+    "id": "https://notes.brunopedro.com/2024/09/29/20240929180145/",
+    "url": "https://notes.brunopedro.com/2024/09/29/20240929180145/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/09/29/20240929180145/\n\nFound at “Alan Kay On Messaging” on 2024-09-29 18:01:45 +02:00. The key in making great and growable systems is much more to design how its modules communicate rather than what their internal properties and behaviors should be.—Alan Kay",
     "toots": []
   }
 }
