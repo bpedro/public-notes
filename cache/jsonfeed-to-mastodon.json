@@ -7400,7 +7400,10 @@
       "name": "Bruno Pedro"
     },
     "content_text": "https://notes.brunopedro.com/2024/09/12/20240912141406/\n\nFound at “Tidy data” on 2024-09-12 14:14:06 +02:00. Tidy datasets are easy to manipulate, model and visualize, and have a specific structure: each variable is a column, each observation is a row, and each type of observational unit is a table.",
-    "toots": []
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113262337403386260"
+    ],
+    "lastTootTimestamp": 1728246115292
   },
   "https://notes.brunopedro.com/2024/09/11/20240911114014/": {
     "title": "2024-09-11T11:40:14+02:00",
