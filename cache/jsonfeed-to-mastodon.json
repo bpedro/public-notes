@@ -7497,7 +7497,10 @@
     "author": {
       "name": "Bruno Pedro"
     },
-    "content_text": "https://notes.brunopedro.com/2024/10/06/20241006153042/\n\nFound at “Prototyping APIs with OpenAPI - by Bruno Pedro” on 2024-10-06 15:30:42 +02:00. I built a personal system for interpreting OpenAPI documents and using them as the only thing needed to run an API.",
-    "toots": []
+    "content_text": "https://notes.brunopedro.com/2024/10/06/20241006153042/\n\nFound at “Prototyping APIs with OpenAPI - by Bruno Pedro” on 2024-10-06 15:30:42 +02:00. I built a personal system for interpreting OpenAPI documents and using them as the only thing needed to run an API",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113262425040148607"
+    ],
+    "lastTootTimestamp": 1728247452566
   }
 }
