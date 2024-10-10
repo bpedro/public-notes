@@ -7530,5 +7530,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113277871326036927"
     ],
     "lastTootTimestamp": 1728483144255
+  },
+  "https://notes.brunopedro.com/2024/10/10/20241010161954/": {
+    "title": "2024-10-10T16:19:54+02:00",
+    "date_published": "2024-10-10T16:19:54+02:00",
+    "id": "https://notes.brunopedro.com/2024/10/10/20241010161954/",
+    "url": "https://notes.brunopedro.com/2024/10/10/20241010161954/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/10/10/20241010161954/\n\nFound at “Tenno” on 2024-10-10 16:19:54 +02:00. You can think of Tenno as a mix of Word and Excel with a touch of Obsidian, Markdown and Javascript.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113283570074545502"
+    ],
+    "lastTootTimestamp": 1728570100327
   }
 }
