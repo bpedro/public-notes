@@ -7572,5 +7572,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113374713957207285"
     ],
     "lastTootTimestamp": 1729960845560
+  },
+  "https://notes.brunopedro.com/2024/10/29/20241029153437/": {
+    "title": "2024-10-29T15:34:37+01:00",
+    "date_published": "2024-10-29T15:34:37+01:00",
+    "id": "https://notes.brunopedro.com/2024/10/29/20241029153437/",
+    "url": "https://notes.brunopedro.com/2024/10/29/20241029153437/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/10/29/20241029153437/\n\nWhat’s important is expressing your program as what you want it to do. Not a set of instructions on how to do it. Letting the computer itself figure out how to do it.—Bret Victor",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113391221186002249"
+    ],
+    "lastTootTimestamp": 1730212725874
   }
 }
