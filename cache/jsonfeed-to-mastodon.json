@@ -7600,5 +7600,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113396671973302308"
     ],
     "lastTootTimestamp": 1730295898294
+  },
+  "https://notes.brunopedro.com/2024/11/01/20241101230335/": {
+    "title": "2024-11-01T23:03:35Z",
+    "date_published": "2024-11-01T23:03:35Z",
+    "id": "https://notes.brunopedro.com/2024/11/01/20241101230335/",
+    "url": "https://notes.brunopedro.com/2024/11/01/20241101230335/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/11/01/20241101230335/\n\nFound at “The Dual Nature of Events in Event-Driven Architecture” on 2024-11-01 23:03:35 +00:00. events that travel between services have a dual role: They trigger actions and carry data.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113410198944341510"
+    ],
+    "lastTootTimestamp": 1730502303587
   }
 }
