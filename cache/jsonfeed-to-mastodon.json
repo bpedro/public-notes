@@ -7614,5 +7614,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113410198944341510"
     ],
     "lastTootTimestamp": 1730502303587
+  },
+  "https://notes.brunopedro.com/2024/11/06/20241106175323/": {
+    "title": "2024-11-06T17:53:23+01:00",
+    "date_published": "2024-11-06T17:53:23+01:00",
+    "id": "https://notes.brunopedro.com/2024/11/06/20241106175323/",
+    "url": "https://notes.brunopedro.com/2024/11/06/20241106175323/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/11/06/20241106175323/\n\nAn abstraction provides a higher-level vocabulary that shields the user from the underlying complexity.—Gregor Hohpe",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113437063048057899"
+    ],
+    "lastTootTimestamp": 1730912217073
   }
 }
