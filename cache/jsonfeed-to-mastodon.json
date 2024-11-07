@@ -7628,5 +7628,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113437063048057899"
     ],
     "lastTootTimestamp": 1730912217073
+  },
+  "https://notes.brunopedro.com/2024/11/07/20241107162227/": {
+    "title": "2024-11-07T16:22:27+01:00",
+    "date_published": "2024-11-07T16:22:27+01:00",
+    "id": "https://notes.brunopedro.com/2024/11/07/20241107162227/",
+    "url": "https://notes.brunopedro.com/2024/11/07/20241107162227/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/11/07/20241107162227/\n\nAccording to Seth Godin, there are three kinds of quality: technical, luxury, and creative magic.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113442381166418434"
+    ],
+    "lastTootTimestamp": 1730993365128
   }
 }
