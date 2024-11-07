@@ -7642,5 +7642,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113442381166418434"
     ],
     "lastTootTimestamp": 1730993365128
+  },
+  "https://notes.brunopedro.com/2024/11/07/20241107223940/": {
+    "title": "2024-11-07T22:39:40+01:00",
+    "date_published": "2024-11-07T22:39:40+01:00",
+    "id": "https://notes.brunopedro.com/2024/11/07/20241107223940/",
+    "url": "https://notes.brunopedro.com/2024/11/07/20241107223940/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/11/07/20241107223940/\n\nAlan Kay refers to the “Creative Magic” as “Good Woowoo.” (20240306160214)",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113443850925287075"
+    ],
+    "lastTootTimestamp": 1731015791907
   }
 }
