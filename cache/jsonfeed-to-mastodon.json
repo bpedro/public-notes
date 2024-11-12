@@ -7670,5 +7670,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113453866880027935"
     ],
     "lastTootTimestamp": 1731168623232
+  },
+  "https://notes.brunopedro.com/2024/11/12/20241112122907/": {
+    "title": "2024-11-12T12:29:07+01:00",
+    "date_published": "2024-11-12T12:29:07+01:00",
+    "id": "https://notes.brunopedro.com/2024/11/12/20241112122907/",
+    "url": "https://notes.brunopedro.com/2024/11/12/20241112122907/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/11/12/20241112122907/\n\nThe secret to the most creative people I know is they work within a framework and that’s what allows creativity to flow.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113469766914152275"
+    ],
+    "lastTootTimestamp": 1731411238554
   }
 }
