@@ -7684,5 +7684,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113469766914152275"
     ],
     "lastTootTimestamp": 1731411238554
+  },
+  "https://notes.brunopedro.com/2024/11/14/20241114102943/": {
+    "title": "2024-11-14T10:29:43+01:00",
+    "date_published": "2024-11-14T10:29:43+01:00",
+    "id": "https://notes.brunopedro.com/2024/11/14/20241114102943/",
+    "url": "https://notes.brunopedro.com/2024/11/14/20241114102943/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/11/14/20241114102943/\n\nFound at “Codestrates v2 | Codestrates v2” on 2024-11-14 10:29:43 +01:00. With Codestrates, you can create dynamic webpages (or webstrates as we call them) that can be edited directly from within the browser — and editing can also be done collaboratively.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113480608963160927"
+    ],
+    "lastTootTimestamp": 1731576675186
   }
 }
