@@ -7698,5 +7698,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113480608963160927"
     ],
     "lastTootTimestamp": 1731576675186
+  },
+  "https://notes.brunopedro.com/2024/11/14/20241114103310/": {
+    "title": "2024-11-14T10:33:10+01:00",
+    "date_published": "2024-11-14T10:33:10+01:00",
+    "id": "https://notes.brunopedro.com/2024/11/14/20241114103310/",
+    "url": "https://notes.brunopedro.com/2024/11/14/20241114103310/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/11/14/20241114103310/\n\nFound at “No-code, no thought? Substrates for simple programming for all - Tomas Petricek” on 2024-11-14 10:33:10 +01:00. The idea of programming substrates is generalizing the usual distinction between programming a software system and using a software system.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113480623659192570"
+    ],
+    "lastTootTimestamp": 1731576899238
   }
 }
