@@ -7754,5 +7754,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113520237761496862"
     ],
     "lastTootTimestamp": 1732181362539
+  },
+  "https://notes.brunopedro.com/2024/11/22/20241122165821/": {
+    "title": "2024-11-22T16:58:21+01:00",
+    "date_published": "2024-11-22T16:58:21+01:00",
+    "id": "https://notes.brunopedro.com/2024/11/22/20241122165821/",
+    "url": "https://notes.brunopedro.com/2024/11/22/20241122165821/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/11/22/20241122165821/\n\nKnowing how it works isn’t what makes it work. The magic of it isn’t how it works. The magic is the magic.—Rick Rubin",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113527441873205836"
+    ],
+    "lastTootTimestamp": 1732291288971
   }
 }
