@@ -7768,5 +7768,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113527441873205836"
     ],
     "lastTootTimestamp": 1732291288971
+  },
+  "https://notes.brunopedro.com/2024/11/25/20241125204333/": {
+    "title": "2024-11-25T20:43:33+01:00",
+    "date_published": "2024-11-25T20:43:33+01:00",
+    "id": "https://notes.brunopedro.com/2024/11/25/20241125204333/",
+    "url": "https://notes.brunopedro.com/2024/11/25/20241125204333/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/11/25/20241125204333/\n\nFound at “Introducing the Model Context Protocol \\ Anthropic” on 2024-11-25 20:43:33 +01:00. The Model Context Protocol provides a universal, open standard for connecting AI systems with data sources, replacing fragmented integrations with a single protocol.",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113545309754165213"
+    ],
+    "lastTootTimestamp": 1732563930931
   }
 }
