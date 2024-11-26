@@ -3,7 +3,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="description"
-    content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{end }}{{ end }} ">
+    content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . | plainify }}{{ else }}{{ .Site.Params.description }}{{end }}{{ end }} ">
 <link rel="canonical" href="{{ .Permalink }}" />
 <!-- opengraph -->
 <!-- opengraph -->
@@ -29,7 +29,11 @@
     "y" 0
     "font" $boldFont
   ))}}
-  {{ $textImg = $textImg.Filter (images.Text (or (.Title) (.Description) (printf "%s" .Summary) (.Date.Format "2006-01-02T15:04:05Z07:00")) (dict
+
+  {{ $title := (or (.Title) (.Description) (printf "%s" (.Summary | plainify)) (.Date.Format "2006-01-02T15:04:05Z07:00")) }}
+
+  {{- if lt ($title | len) 80 -}}
+  {{ $textImg = $textImg.Filter (images.Text $title (dict
     "color" "#000000"
     "size" 64
     "linespacing" 2
@@ -37,6 +41,17 @@
     "y" 85
     "font" $mediumFont
   ))}}
+  {{- else -}}
+  {{ $textImg = $textImg.Filter (images.Text $title (dict
+    "color" "#000000"
+    "size" 36
+    "linespacing" 2
+    "x" 0
+    "y" 85
+    "font" $mediumFont
+  ))}}
+  {{- end -}}
+
   {{ $img := $base.Filter (images.Overlay $textImg 125 200) }}
   {{ $img = resources.Copy (path.Join .Page.RelPermalink "og.png") $img }}
   <meta property="og:image" content="{{$img.Permalink}}" />
