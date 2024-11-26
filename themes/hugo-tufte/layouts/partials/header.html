@@ -3,7 +3,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="description"
-    content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . | plainify }}{{ else }}{{ .Site.Params.description }}{{end }}{{ end }} ">
+    content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . | plainify | htmlUnescape }}{{ else }}{{ .Site.Params.description }}{{end }}{{ end }} ">
 <link rel="canonical" href="{{ .Permalink }}" />
 <!-- opengraph -->
 <!-- opengraph -->
@@ -30,7 +30,7 @@
     "font" $boldFont
   ))}}
 
-  {{ $title := (or (.Title) (.Description) (printf "%s" (.Summary | plainify)) (.Date.Format "2006-01-02T15:04:05Z07:00")) }}
+  {{ $title := (or (.Title) (.Description) (printf "%s" (.Summary | plainify | htmlUnescape)) (.Date.Format "2006-01-02T15:04:05Z07:00")) }}
 
   {{- if lt ($title | len) 80 -}}
   {{ $textImg = $textImg.Filter (images.Text $title (dict
