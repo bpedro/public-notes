@@ -7824,5 +7824,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113554081473680656"
     ],
     "lastTootTimestamp": 1732697776617
+  },
+  "https://notes.brunopedro.com/2024/11/30/20241130111417/": {
+    "title": "2024-11-30T11:14:17+01:00",
+    "date_published": "2024-11-30T11:14:17+01:00",
+    "id": "https://notes.brunopedro.com/2024/11/30/20241130111417/",
+    "url": "https://notes.brunopedro.com/2024/11/30/20241130111417/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/11/30/20241130111417/\n\nFollowing WWII, research spending by both the government and the private sector increased enormously",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113571391979539230"
+    ],
+    "lastTootTimestamp": 1732961914001
   }
 }
