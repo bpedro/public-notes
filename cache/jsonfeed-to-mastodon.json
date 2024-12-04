@@ -7838,5 +7838,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113571391979539230"
     ],
     "lastTootTimestamp": 1732961914001
+  },
+  "https://notes.brunopedro.com/2024/12/04/20241204234157/": {
+    "title": "2024-12-04T23:41:57+01:00",
+    "date_published": "2024-12-04T23:41:57+01:00",
+    "id": "https://notes.brunopedro.com/2024/12/04/20241204234157/",
+    "url": "https://notes.brunopedro.com/2024/12/04/20241204234157/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/12/04/20241204234157/\n\nA large-scale foundation world model",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113596974644802769"
+    ],
+    "lastTootTimestamp": 1733352274466
   }
 }
