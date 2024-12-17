@@ -7880,5 +7880,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113646030364417351"
     ],
     "lastTootTimestamp": 1734100805809
+  },
+  "https://notes.brunopedro.com/2024/12/17/20241217115255/": {
+    "title": "2024-12-17T11:52:55+01:00",
+    "date_published": "2024-12-17T11:52:55+01:00",
+    "id": "https://notes.brunopedro.com/2024/12/17/20241217115255/",
+    "url": "https://notes.brunopedro.com/2024/12/17/20241217115255/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/12/17/20241217115255/\n\nProtobuf has a new Opaque API",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113667798246112374"
+    ],
+    "lastTootTimestamp": 1734432956928
   }
 }
