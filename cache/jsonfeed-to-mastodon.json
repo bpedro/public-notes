@@ -7950,5 +7950,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113674940095102977"
     ],
     "lastTootTimestamp": 1734541932807
+  },
+  "https://notes.brunopedro.com/2024/12/19/20241219095650/": {
+    "title": "2024-12-19T09:56:50+01:00",
+    "date_published": "2024-12-19T09:56:50+01:00",
+    "id": "https://notes.brunopedro.com/2024/12/19/20241219095650/",
+    "url": "https://notes.brunopedro.com/2024/12/19/20241219095650/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/12/19/20241219095650/\n\nKeyboard layout that changes while you’re typing",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113678677753360161"
+    ],
+    "lastTootTimestamp": 1734598964995
   }
 }
