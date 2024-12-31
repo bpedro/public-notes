@@ -7992,5 +7992,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113721620803373479"
     ],
     "lastTootTimestamp": 1735254223975
+  },
+  "https://notes.brunopedro.com/2024/12/31/20241231000608/": {
+    "title": "2024-12-31T00:06:08Z",
+    "date_published": "2024-12-31T00:06:08Z",
+    "id": "https://notes.brunopedro.com/2024/12/31/20241231000608/",
+    "url": "https://notes.brunopedro.com/2024/12/31/20241231000608/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2024/12/31/20241231000608/\n\nThe personal computer should work like the Internet",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113744533065470856"
+    ],
+    "lastTootTimestamp": 1735603837317
   }
 }
