@@ -12,3 +12,7 @@ article {
 p, ol, ul, figure {
   width: 60%;
 }
+
+figure {
+  max-width: 60%;
+}
