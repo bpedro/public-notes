@@ -1,3 +1,14 @@
 body {
   background-color: #f8ffff;
+  padding-left: 0px;
+  width: 100%;
+  padding-left: 2.5%;
+}
+
+article {
+  padding-top: 0%;
+}
+
+p, ol, ul {
+  width: 60%;
 }
