@@ -8104,5 +8104,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113827231466462519"
     ],
     "lastTootTimestamp": 1736865714788
+  },
+  "https://notes.brunopedro.com/2025/01/15/20250115092836/": {
+    "title": "2025-01-15T09:28:36+01:00",
+    "date_published": "2025-01-15T09:28:36+01:00",
+    "id": "https://notes.brunopedro.com/2025/01/15/20250115092836/",
+    "url": "https://notes.brunopedro.com/2025/01/15/20250115092836/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2025/01/15/20250115092836/\n\nMicrosoft is working on a new AI-first app stack",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113831438453069892"
+    ],
+    "lastTootTimestamp": 1736929908446
   }
 }
