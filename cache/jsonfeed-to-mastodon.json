@@ -8174,5 +8174,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113868862822485335"
     ],
     "lastTootTimestamp": 1737500958814
+  },
+  "https://notes.brunopedro.com/2025/01/22/20250122180246/": {
+    "title": "2025-01-22T18:02:46+01:00",
+    "date_published": "2025-01-22T18:02:46+01:00",
+    "id": "https://notes.brunopedro.com/2025/01/22/20250122180246/",
+    "url": "https://notes.brunopedro.com/2025/01/22/20250122180246/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2025/01/22/20250122180246/\n\nToss a coin and move on",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113873097151505088"
+    ],
+    "lastTootTimestamp": 1737565569615
   }
 }
