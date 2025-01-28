@@ -8216,5 +8216,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113900644723136033"
     ],
     "lastTootTimestamp": 1737985912251
+  },
+  "https://notes.brunopedro.com/2025/01/28/20250128115718/": {
+    "title": "2025-01-28T11:57:18+01:00",
+    "date_published": "2025-01-28T11:57:18+01:00",
+    "id": "https://notes.brunopedro.com/2025/01/28/20250128115718/",
+    "url": "https://notes.brunopedro.com/2025/01/28/20250128115718/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2025/01/28/20250128115718/\n\nDeepSeek claims to have built its base model for less than $6M",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113905633066798252"
+    ],
+    "lastTootTimestamp": 1738062028392
   }
 }
