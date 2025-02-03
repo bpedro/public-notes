@@ -8272,5 +8272,41 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113917209220194346"
     ],
     "lastTootTimestamp": 1738238666258
+  },
+  "https://notes.brunopedro.com/2025/02/03/20250203214340/": {
+    "title": "2025-02-03T21:43:40+01:00",
+    "date_published": "2025-02-03T21:43:40+01:00",
+    "id": "https://notes.brunopedro.com/2025/02/03/20250203214340/",
+    "url": "https://notes.brunopedro.com/2025/02/03/20250203214340/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2025/02/03/20250203214340/\n\nThe limits of AI and other topics (according to the church)",
+    "toots": []
+  },
+  "https://notes.brunopedro.com/2025/02/01/20250201163853/": {
+    "title": "2025-02-01T16:38:53+01:00",
+    "date_published": "2025-02-01T16:38:53+01:00",
+    "id": "https://notes.brunopedro.com/2025/02/01/20250201163853/",
+    "url": "https://notes.brunopedro.com/2025/02/01/20250201163853/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2025/02/01/20250201163853/\n\nOpenAI o3-mini",
+    "toots": []
+  },
+  "https://notes.brunopedro.com/2025/01/30/20250130175825/": {
+    "title": "2025-01-30T17:58:25+01:00",
+    "date_published": "2025-01-30T17:58:25+01:00",
+    "id": "https://notes.brunopedro.com/2025/01/30/20250130175825/",
+    "url": "https://notes.brunopedro.com/2025/01/30/20250130175825/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2025/01/30/20250130175825/\n\nMistral releases an open-source competitive small model",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113941995537436974"
+    ],
+    "lastTootTimestamp": 1738616875403
   }
 }
