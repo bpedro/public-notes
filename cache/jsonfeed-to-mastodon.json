@@ -8293,7 +8293,10 @@
       "name": "Bruno Pedro"
     },
     "content_text": "https://notes.brunopedro.com/2025/02/01/20250201163853/\n\nOpenAI o3-mini",
-    "toots": []
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113942061845759636"
+    ],
+    "lastTootTimestamp": 1738617887174
   },
   "https://notes.brunopedro.com/2025/01/30/20250130175825/": {
     "title": "2025-01-30T17:58:25+01:00",
@@ -8308,5 +8311,16 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113941995537436974"
     ],
     "lastTootTimestamp": 1738616875403
+  },
+  "https://notes.brunopedro.com/2025/02/03/20250203221605/": {
+    "title": "2025-02-03T22:16:05+01:00",
+    "date_published": "2025-02-03T22:16:05+01:00",
+    "id": "https://notes.brunopedro.com/2025/02/03/20250203221605/",
+    "url": "https://notes.brunopedro.com/2025/02/03/20250203221605/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2025/02/03/20250203221605/ Found at “Introducing deep research | OpenAI” on 2025-02-03 22:16:05 +01:00. Deep research is OpenAI’s next agent that can do work for you independently\n",
+    "toots": []
   }
 }
