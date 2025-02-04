@@ -8336,5 +8336,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113945705731995799"
     ],
     "lastTootTimestamp": 1738673488575
+  },
+  "https://notes.brunopedro.com/2025/02/04/20250204175931/": {
+    "title": "2025-02-04T17:59:31+01:00",
+    "date_published": "2025-02-04T17:59:31+01:00",
+    "id": "https://notes.brunopedro.com/2025/02/04/20250204175931/",
+    "url": "https://notes.brunopedro.com/2025/02/04/20250204175931/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2025/02/04/20250204175931/\n\nOpera Air is the first web browser built around the concept of mindfulness",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113946692354130020"
+    ],
+    "lastTootTimestamp": 1738688543153
   }
 }
