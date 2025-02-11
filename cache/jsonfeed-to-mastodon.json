@@ -8406,5 +8406,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113963911361134022"
     ],
     "lastTootTimestamp": 1738951284336
+  },
+  "https://notes.brunopedro.com/2025/02/11/20250211122701/": {
+    "title": "2025-02-11T12:27:01+01:00",
+    "date_published": "2025-02-11T12:27:01+01:00",
+    "id": "https://notes.brunopedro.com/2025/02/11/20250211122701/",
+    "url": "https://notes.brunopedro.com/2025/02/11/20250211122701/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2025/02/11/20250211122701/\n\nInteractive computing was more appealing to people than the prior batch paradigm",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113985019256042241"
+    ],
+    "lastTootTimestamp": 1739273365256
   }
 }
