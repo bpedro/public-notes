@@ -8423,5 +8423,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/113985019256042241"
     ],
     "lastTootTimestamp": 1739273365256
+  },
+  "https://notes.brunopedro.com/2025/02/13/20250213175957/": {
+    "title": "2025-02-13T17:59:57+01:00",
+    "date_published": "2025-02-13T17:59:57+01:00",
+    "id": "https://notes.brunopedro.com/2025/02/13/20250213175957/",
+    "url": "https://notes.brunopedro.com/2025/02/13/20250213175957/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2025/02/13/20250213175957/ Found at “Preparing for AI – O’Reilly” on 2025-02-13 17:59:57 +01:00. chat-oriented programming (CHOP) isn’t the future; it’s the present\n",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/113997652028499032"
+    ],
+    "lastTootTimestamp": 1739466126141
   }
 }
