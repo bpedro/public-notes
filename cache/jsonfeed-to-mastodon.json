@@ -8464,7 +8464,10 @@
       "name": "Bruno Pedro"
     },
     "content_text": "https://notes.brunopedro.com/2025/02/27/20250227143956/\n\nThe Event Destinations Initiative",
-    "toots": []
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/114099969089387053"
+    ],
+    "lastTootTimestamp": 1741027360540
   },
   "https://notes.brunopedro.com/2025/02/27/20250227172527/": {
     "title": "2025-02-27T17:25:27+01:00",
@@ -8479,5 +8482,16 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/114076787652698599"
     ],
     "lastTootTimestamp": 1740673639917
+  },
+  "https://notes.brunopedro.com/2025/03/03/20250303193645/": {
+    "title": "2025-03-03T19:36:45+01:00",
+    "date_published": "2025-03-03T19:36:45+01:00",
+    "id": "https://notes.brunopedro.com/2025/03/03/20250303193645/",
+    "url": "https://notes.brunopedro.com/2025/03/03/20250303193645/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2025/03/03/20250303193645/\n\nTechnology will be redirected at eliminating disciplined labor",
+    "toots": []
   }
 }
