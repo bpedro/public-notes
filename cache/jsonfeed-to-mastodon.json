@@ -8538,5 +8538,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/114114523939778379"
     ],
     "lastTootTimestamp": 1741249449959
+  },
+  "https://notes.brunopedro.com/2025/03/06/20250306104340/": {
+    "title": "2025-03-06T10:43:40+01:00",
+    "date_published": "2025-03-06T10:43:40+01:00",
+    "id": "https://notes.brunopedro.com/2025/03/06/20250306104340/",
+    "url": "https://notes.brunopedro.com/2025/03/06/20250306104340/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2025/03/06/20250306104340/ Local, open-source tools to review:\nDocmost: collaborative wiki and documentation, Notion replacement. Plane: project management, Trello replacement. Strapi: headless CMS. ",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/114114858932014201"
+    ],
+    "lastTootTimestamp": 1741254561500
   }
 }
