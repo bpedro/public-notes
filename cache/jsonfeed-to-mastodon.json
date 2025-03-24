@@ -8678,5 +8678,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/114207665619975464"
     ],
     "lastTootTimestamp": 1742670679407
+  },
+  "https://notes.brunopedro.com/2025/03/24/20250324163058/": {
+    "title": "2025-03-24T16:30:58+01:00",
+    "date_published": "2025-03-24T16:30:58+01:00",
+    "id": "https://notes.brunopedro.com/2025/03/24/20250324163058/",
+    "url": "https://notes.brunopedro.com/2025/03/24/20250324163058/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2025/03/24/20250324163058/\n\nIs API Governance a constraint that holds back creativity?",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/114218133285862147"
+    ],
+    "lastTootTimestamp": 1742830403261
   }
 }
