@@ -8692,5 +8692,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/114218133285862147"
     ],
     "lastTootTimestamp": 1742830403261
+  },
+  "https://notes.brunopedro.com/2025/03/26/20250326124347/": {
+    "title": "2025-03-26T12:43:47+01:00",
+    "date_published": "2025-03-26T12:43:47+01:00",
+    "id": "https://notes.brunopedro.com/2025/03/26/20250326124347/",
+    "url": "https://notes.brunopedro.com/2025/03/26/20250326124347/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2025/03/26/20250326124347/\n\nScale is rarely the first signal of important work",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/114228568513648873"
+    ],
+    "lastTootTimestamp": 1742989632142
   }
 }
