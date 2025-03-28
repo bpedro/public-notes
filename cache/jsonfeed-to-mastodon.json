@@ -8706,5 +8706,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/114228568513648873"
     ],
     "lastTootTimestamp": 1742989632142
+  },
+  "https://notes.brunopedro.com/2025/03/28/20250328212959/": {
+    "title": "2025-03-28T21:29:59+01:00",
+    "date_published": "2025-03-28T21:29:59+01:00",
+    "id": "https://notes.brunopedro.com/2025/03/28/20250328212959/",
+    "url": "https://notes.brunopedro.com/2025/03/28/20250328212959/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2025/03/28/20250328212959/\n\nResearching the internal mechanisms used by an LLM",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/114241958813446466"
+    ],
+    "lastTootTimestamp": 1743193952090
   }
 }
