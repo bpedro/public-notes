@@ -8734,5 +8734,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/114262441560757926"
     ],
     "lastTootTimestamp": 1743506493935
+  },
+  "https://notes.brunopedro.com/2025/04/01/20250401151008/": {
+    "title": "2025-04-01T15:10:08+02:00",
+    "date_published": "2025-04-01T15:10:08+02:00",
+    "id": "https://notes.brunopedro.com/2025/04/01/20250401151008/",
+    "url": "https://notes.brunopedro.com/2025/04/01/20250401151008/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2025/04/01/20250401151008/\n\nVujade and the curse of knowledge",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/114262898597751262"
+    ],
+    "lastTootTimestamp": 1743513467866
   }
 }
