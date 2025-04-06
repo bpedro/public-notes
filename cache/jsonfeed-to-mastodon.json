@@ -8762,5 +8762,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/114273159284411108"
     ],
     "lastTootTimestamp": 1743670033418
+  },
+  "https://notes.brunopedro.com/2025/04/06/20250406182449/": {
+    "title": "2025-04-06T18:24:49+02:00",
+    "date_published": "2025-04-06T18:24:49+02:00",
+    "id": "https://notes.brunopedro.com/2025/04/06/20250406182449/",
+    "url": "https://notes.brunopedro.com/2025/04/06/20250406182449/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2025/04/06/20250406182449/\n\nReading vs. writing",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/114291957580033543"
+    ],
+    "lastTootTimestamp": 1743956872602
   }
 }
