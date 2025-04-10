@@ -8776,5 +8776,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/114291957580033543"
     ],
     "lastTootTimestamp": 1743956872602
+  },
+  "https://notes.brunopedro.com/2025/04/10/20250410093417/": {
+    "title": "2025-04-10T09:34:17+02:00",
+    "date_published": "2025-04-10T09:34:17+02:00",
+    "id": "https://notes.brunopedro.com/2025/04/10/20250410093417/",
+    "url": "https://notes.brunopedro.com/2025/04/10/20250410093417/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2025/04/10/20250410093417/\n\nA2A is an open protocol that provides a standard way for agents to collaborate with each other",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/114312519712784527"
+    ],
+    "lastTootTimestamp": 1744270625693
   }
 }
