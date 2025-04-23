@@ -8818,5 +8818,19 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/114337564792970379"
     ],
     "lastTootTimestamp": 1744652783399
+  },
+  "https://notes.brunopedro.com/2025/04/23/20250423142317/": {
+    "title": "2025-04-23T14:23:17+02:00",
+    "date_published": "2025-04-23T14:23:17+02:00",
+    "id": "https://notes.brunopedro.com/2025/04/23/20250423142317/",
+    "url": "https://notes.brunopedro.com/2025/04/23/20250423142317/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2025/04/23/20250423142317/\n\nYou can use schema.org vocabulary with JSON-LD",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/114387267175050011"
+    ],
+    "lastTootTimestamp": 1745411181740
   }
 }
