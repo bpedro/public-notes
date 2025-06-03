@@ -8931,6 +8931,20 @@
       "name": "Bruno Pedro"
     },
     "content_text": "https://notes.brunopedro.com/2025/05/21/20250521155438/\n\nAI is a power-hungry technology",
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/114619636492823310"
+    ],
+    "lastTootTimestamp": 1748956855958
+  },
+  "https://notes.brunopedro.com/2025/06/03/20250603151843/": {
+    "title": "2025-06-03T15:18:43+02:00",
+    "date_published": "2025-06-03T15:18:43+02:00",
+    "id": "https://notes.brunopedro.com/2025/06/03/20250603151843/",
+    "url": "https://notes.brunopedro.com/2025/06/03/20250603151843/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2025/06/03/20250603151843/\n\nAn essay is a cleaned up train of thought",
     "toots": []
   }
 }
