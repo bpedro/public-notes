@@ -9048,7 +9048,10 @@
       "name": "Bruno Pedro"
     },
     "content_text": "https://notes.brunopedro.com/2025/07/16/20250716153337/\n\nBrowser-based Mac OS emulator",
-    "toots": []
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/114931640702037760"
+    ],
+    "lastTootTimestamp": 1753717662217
   },
   "https://notes.brunopedro.com/2025/07/15/20250715125740/": {
     "title": "2025-07-15T12:57:40+02:00",
@@ -9123,6 +9126,17 @@
       "name": "Bruno Pedro"
     },
     "content_text": "https://notes.brunopedro.com/2025/07/24/20250724223100/\n\nGitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects.",
+    "toots": []
+  },
+  "https://notes.brunopedro.com/2025/07/28/20250728174123/": {
+    "title": "2025-07-28T17:41:23+02:00",
+    "date_published": "2025-07-28T17:41:23+02:00",
+    "id": "https://notes.brunopedro.com/2025/07/28/20250728174123/",
+    "url": "https://notes.brunopedro.com/2025/07/28/20250728174123/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2025/07/28/20250728174123/\n\nNot knowing what the next step is going to be",
     "toots": []
   }
 }
