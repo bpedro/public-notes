@@ -8993,7 +8993,10 @@
       "name": "Bruno Pedro"
     },
     "content_text": "https://notes.brunopedro.com/2025/07/21/20250721095658/\n\nXMLUI brings the VB model to the modern web",
-    "toots": []
+    "toots": [
+      "https://follow.brunopedro.com/users/bpedro/statuses/114941143380874256"
+    ],
+    "lastTootTimestamp": 1753862661645
   },
   "https://notes.brunopedro.com/2025/07/18/20250718142336/": {
     "title": "2025-07-18T14:23:36+02:00",
@@ -9144,5 +9147,16 @@
       "https://follow.brunopedro.com/users/bpedro/statuses/114936417489678714"
     ],
     "lastTootTimestamp": 1753790550207
+  },
+  "https://notes.brunopedro.com/2025/07/30/20250730094806/": {
+    "title": "2025-07-30T09:48:06+02:00",
+    "date_published": "2025-07-30T09:48:06+02:00",
+    "id": "https://notes.brunopedro.com/2025/07/30/20250730094806/",
+    "url": "https://notes.brunopedro.com/2025/07/30/20250730094806/",
+    "author": {
+      "name": "Bruno Pedro"
+    },
+    "content_text": "https://notes.brunopedro.com/2025/07/30/20250730094806/\n\nAll computer users may soon have the ability to author small bits of code",
+    "toots": []
   }
 }
