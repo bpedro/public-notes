@@ -23,12 +23,14 @@
     {{- end -}}
 
     {{- if not .Params.hidereadtime -}}
-    <span>{{ .ReadingTime }} min read&nbsp;</span>
+    <span class="reading-time">{{ .ReadingTime }} min read&nbsp;</span>
     {{- end -}}
 
+    <span class="tags">
     {{- range .Params.tags -}}
     <a href="{{ "/tags/" | absURL }}{{ . | urlize }}">{{ . }}</a>&nbsp;
     {{- end -}}
+    </span>
   </span>
   {{- end -}}
 {{- end -}}
