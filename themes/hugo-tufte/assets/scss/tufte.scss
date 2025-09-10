@@ -55,6 +55,7 @@
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
 /* Tufte CSS styles */
 html {
@@ -138,6 +139,25 @@ section {
 
 .page-list .content-title:first-child {
     margin-top: 1.4rem;
+}
+
+.content-title, .menu, .date, .reading-time, .tags, .page-footer {
+    font-family: "Inter", sans-serif;
+}
+
+.content-title {
+    font-weight: 600;
+    margin-top: 0px;
+    margin-bottom: 0.5rem;
+    line-height: 1.2;
+}
+
+.site-title {
+    font-family: "Inter", sans-serif;
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+    line-height: 1.2;
 }
 
 p,
