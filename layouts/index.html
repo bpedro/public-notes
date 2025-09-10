@@ -4,7 +4,7 @@
   <section class="page-list">
   {{ range first 5 (.Site.Pages.GroupByDate "January, 2006") }}
     {{ if ne .Key "January, 0001" }}
-    <h1>{{ .Key }} </h1>
+    <h1 class="content-title">{{ .Key }} </h1>
     {{ end }}
     {{ range .Pages }}
       {{ if (and (eq .Type "post") (.Content)) }}
