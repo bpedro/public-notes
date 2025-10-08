@@ -6,3 +6,9 @@ public
 *.icloud
 .hugo_build.lock
 resources
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
