@@ -1,5 +1,5 @@
 <head>
-<title>{{ .Title  }} - {{ .Site.Title }}</title>
+<title>{{ with .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="description"
@@ -7,7 +7,7 @@
 <link rel="canonical" href="{{ .Permalink }}" />
 
 <!-- opengraph -->
-<meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}" />
+<meta property="og:title" content="{{ with .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}" />
 <meta property="og:description"
     content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{end }}{{ end }} " />
 <meta property="og:url" content="{{ .Permalink }}" />
@@ -21,7 +21,7 @@
   {{ $textBase := resources.Get "og_text_base.png" }}
   {{ $boldFont := resources.Get "/Alegreya-SemiBold.ttf"}}
   {{ $mediumFont := resources.Get "/Alegreya-Regular.ttf"}}
-  {{ $textImg := $textBase.Filter (images.Text .Site.Params.description (dict
+  {{ $textImg := $textBase.Filter (images.Text .Site.Title (dict
     "color" "#000000"
     "size" 52
     "linespacing" 2
