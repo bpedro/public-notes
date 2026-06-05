@@ -72,7 +72,7 @@
 
 <!-- site.standard.document -->
 {{ if .Params.site_standard_document }}
-<link rel="site.standard.document" href="{{ .Params.site_standard_document }}" />
+<link rel="site.standard.document" href="{{ .Params.site_standard_document | safeURL }}" />
 {{ end }}
 
 {{ partial "header.includes.html" . }}
