@@ -5,7 +5,7 @@
 <meta name="description"
     content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . | plainify | htmlUnescape }}{{ else }}{{ .Site.Params.description }}{{end }}{{ end }} ">
 <link rel="canonical" href="{{ .Permalink }}" />
-<!-- opengraph -->
+
 <!-- opengraph -->
 <meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}" />
 <meta property="og:description"
@@ -60,6 +60,7 @@
 {{ else }}
 <meta property="og:image" content="{{ .Site.Params.favicon | absURL }}" />
 {{ end }}
+
 <!-- favicon -->
 {{ if .Site.Params.favicon }}
 <link rel="icon" href="{{ .Site.Params.favicon | absURL }}" />
@@ -68,5 +69,11 @@
 {{ if .Site.Params.touchicon }}
 <link rel="apple-touch-icon" href="{{ .Site.Params.touchicon | absURL }}" />
 {{ end }}
-  {{ partial "header.includes.html" . }}
+
+<!-- site.standard.document -->
+{{ if .Params.site.standard.document }}
+<link rel="site.standard.document" href="{{ .Params.site.standard.document }}" />
+{{ end }}
+
+{{ partial "header.includes.html" . }}
 </head>
