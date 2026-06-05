@@ -5,7 +5,7 @@ publishdir = "public"
 builddrafts = false
 baseurl = "http://localhost:1313/"
 theme = "hugo-tufte"
-title = "Bruno Pedro"
+title = "Bruno Pedro's public notes"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
@@ -22,7 +22,7 @@ pygmentsUseClasses = true
 [params]
   copyrightHolder = "Bruno Pedro"
   author = "Bruno Pedro"
-  description = "Bruno Pedro's public notes"
+  description = "Bruno Pedro's public notes, bookmarks, quick thoughts, and microblogging."
   showPoweredBy = false
   github = "bpedro"
   mastodon = "follow.brunopedro.com/@bpedro"
