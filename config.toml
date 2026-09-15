@@ -4,8 +4,8 @@ layoutdir = "layouts"
 publishdir = "public"
 builddrafts = false
 baseurl = "http://localhost:1313/"
-theme = "hugo-tufte"
-title = "Bruno Pedro's public notes"
+theme = "brunopedro-tufte"
+title = "Bruno Pedro"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
@@ -76,3 +76,9 @@ cononifyurls = true
   weight = -90
   identifier = "notes"
   url = "https://notes.brunopedro.com"
+[[menu.nav]]
+  name = "About"
+  pre = "<i class='fa fa-user fa-lg'></i> "
+  weight = -80
+  identifier = "about"
+  url = "https://brunopedro.com/about"
