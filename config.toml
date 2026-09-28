@@ -59,12 +59,6 @@ cononifyurls = true
 # Navigation menu
 # -----------------------------------------------------------------------
 [[menu.nav]]
-  name = "Home"
-  pre = "<i class='fa fa-home fa-lg'></i> "
-  weight = -110
-  identifier = "home"
-  url = "https://brunopedro.com/"
-[[menu.nav]]
   name = "Posts"
   pre = "<i class='fa fa-book fa-lg'></i> "
   weight = -100
