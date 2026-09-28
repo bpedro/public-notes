@@ -31,6 +31,7 @@ pygmentsUseClasses = true
   favicon = "brunopedro_favicon.png"
   KaTeXCDN = "https://cdn.jsdelivr.net/npm"
   KaTeXVersion = "0.16.6"
+  titleUrl = "https://brunopedro.com"
 
 [markup]
   [markup.goldmark]
