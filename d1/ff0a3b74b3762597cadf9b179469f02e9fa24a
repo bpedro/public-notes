@@ -1,0 +1,16 @@
+content/post/2026/10/19/20261019100056.md
+  h_e2c7967ec6cbec 1-14
+themes/brunopedro-tufte
+  h_e2c7967ec6cbec 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d1ff0a3b74b3762597cadf9b179469f02e9fa24a",
+  "prompts": {},
+  "humans": {
+    "h_e2c7967ec6cbec": {
+      "author": "Bruno Luis Goncalves Pedro <brunolgp@inditex.com>"
+    }
+  }
+}
