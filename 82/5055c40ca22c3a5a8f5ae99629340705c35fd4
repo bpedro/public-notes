@@ -1,0 +1,14 @@
+content/post/2026/10/29/20261029154633.md
+  h_e2c7967ec6cbec 1-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "825055c40ca22c3a5a8f5ae99629340705c35fd4",
+  "prompts": {},
+  "humans": {
+    "h_e2c7967ec6cbec": {
+      "author": "Bruno Luis Goncalves Pedro <brunolgp@inditex.com>"
+    }
+  }
+}
